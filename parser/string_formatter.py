@@ -65,6 +65,8 @@ def format_string(text):
                 result.append("[/")
                 in_selection = True
                 pos = _skip(pos, text, 3)
+            elif sub == 0x14:
+                pos = _skip(pos, text, 3)
             else:
                 pos = _skip(pos, text, 3 if sub != 0x85 else 2)
 
@@ -91,6 +93,12 @@ def format_string(text):
 
         elif b == 0x00 or b < 0x20:
             pos += 1
+        elif b == 0xEF:
+            # Element symbols / auto-translate markers — 2 byte sequence, stripped
+            pos = _skip(pos, text, 2)
+        elif b == 0xFD:
+            # Inline resource string — 0xFD + 4 bytes + 0xFD, stripped
+            pos = _skip(pos, text, 6)
         elif 0x20 <= b < 0x7F:
             result.append(text[pos])
             pos += 1
