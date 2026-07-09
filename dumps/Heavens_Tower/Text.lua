@@ -9305,7 +9305,7 @@
         I_I_I_DON_T_GET_IT                                                   = 9571,  -- I-I-I don't get it...
         WE_CAN_ONLY_THINKIDDY_THEORIZE_AS_TO_WHO                             = 9572,  -- We can only thinkiddy-theorize as to who was pulling the strings.
         PERHAPS_WE_LL_JUST_HAVE_TO_WAIT_DIDDLY                               = 9573,  -- Perhaps we'll just have to wait-diddly-ait until the memory-altering magic finally fully wears off!
-        INDEED_NOW_LET_ME_GET_OUT_OF_THIS                                    = 9574,  -- Indeed. Now let me get out of this minister's garb. Mu normal outfit is much better for hurling barbs.
+        INDEED_NOW_LET_ME_GET_OUT_OF_THIS                                    = 9574,  -- Indeed. Now let me get out of this minister's garb. My normal outfit is much better for hurling barbs.
         KUPIPI                                                               = 9575,  -- Kupipi!
         Y_YES                                                                = 9576,  -- Y-yes?
         I_THINK_THAT_YOU_VE_DONE_ALL_THAT                                    = 9577,  -- I think that you've done all that you can. Now go get some rest--or perhaps maybe a tan.

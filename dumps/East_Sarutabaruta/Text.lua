@@ -7462,8 +7462,8 @@
         AND_POINT_LL_GET_YA_WELL_I_CAN                                        = 7568,  -- And # point[/s]'ll get ya...well, I can't give ya any details on that prize either. And I definitely can't tell ya what you might get with # point[/s]. I've gotta keep things interesting, ya know?
         PLUS_THIS_YEAR_POINT_LL_EARN_YA_THE                                   = 7569,  -- Plus, this year # point[/s]'ll earn ya the Summer Splash! Bet ya wanna know what that is, don't ya? Too bad I ain't gonna tell ya!
         WHAT_S_MORE_THIS_YEAR_POINT_LL_EARN                                   = 7570,  -- What's more, this year # point[/s]'ll earn ya a stellar surprise! That's all I can tell ya, but ya have my guarantee that it'll bring rip-roarin' good times to any lucky feller/lady] who wins it!
-        AND_WHAT_IS_THIS_FOR_YOU_CAN_LANDS                                    = 7571,  -- And what is this!? For # you can lands yourself an incredibly goregous happi!? Why did we wait so long to put this festival feature on the shelves!?
-        ID_3GI1JB_A_G_H_B                                                     = 7572,  -- 3gI1jb%A=g%H`B
+        AND_WHAT_IS_THIS_FOR_POINTS_YOU_CAN                                   = 7571,  -- And what is this!? For # points you can land yourself an incredibly gorgeous happi!? Why did we wait so long to put this festival feature on the shelves!?
+        AND_THEN_THERE_S_THIS_FOR_POINTS_IF                                   = 7572,  -- And then there's this. % for # points. If they're out of stock, come back tomorrow.
         WHICH_ITEM_WILL_YOU_OBTAIN_NONE_OF_THEM                               = 7573,  -- Which item will you obtain? None of them. %. %. %. %. %. %. %. %.
         WHICH_TEMPORARY_ITEM_WILL_YOU_OBTAIN_NONE_OF                          = 7574,  -- Which temporary item will you obtain? None of them. %. %. %. %. %. %. %. %.
         OBTAIN_THIS_ITEM_YES_NO                                               = 7575,  -- Obtain this item? Yes. No.

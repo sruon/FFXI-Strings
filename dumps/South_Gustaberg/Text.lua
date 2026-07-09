@@ -7416,8 +7416,8 @@
         REMEMBER_POINTS_WILL_SCORE_YOU_WHAT_S_IN                              = 7518,  -- Remember, # points will score you what's in the other mystery box! And to top that, we've got yet another mystery box for you this year. # points and it's yours! Why so much mystery? Why not!
         AND_FOR_A_SPECIAL_TREAT_THIS_YEAR_POINTS                              = 7519,  -- And for a special treat this year, # points will win you a stupendous prize we call the Summer Splash! Could there be a better way to celebrate the season? I don't think so!
         AND_FOR_A_SPECIAL_TREAT_THIS_YEAR_POINTS_2                            = 7520,  -- And for a special treat this year, # points will earn you...dum dum dum...a stellar surprise! What's that, you ask? Why, it's so much of a surprise that they haven't even told me!
-        AND_WHAT_IS_THIS_FOR_YOU_CAN_LANDS                                    = 7521,  -- And what is this!? For # you can lands yourself an incredibly goregous happi!? Why did we wait so long to put this festival feature on the shelves!?
-        J_GRCC_JN_I                                                           = 7522,  -- ;j)gRCc%/jN%>I
+        AND_WHAT_IS_THIS_FOR_POINTS_YOU_CAN                                   = 7521,  -- And what is this!? For # points you can land yourself an incredibly gorgeous happi!? Why did we wait so long to put this festival feature on the shelves!?
+        AND_THEN_THERE_S_THIS_FOR_POINTS_IF                                   = 7522,  -- And then there's this! % for # points! If they're out of stock, come back tomorrow.
         ID_7523                                                               = 7523,  -- ...!
         ID_7524                                                               = 7524,  -- %!
         WAKE_UP_THIS_IS_NO_TIME_FOR_NAPPING                                   = 7525,  -- Wake up, %! This is no time for napping!

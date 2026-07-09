@@ -9954,8 +9954,8 @@
         WAIT_TWO_MORE_BOXES_DON_T_KNOW_WHAT                                     = 10466,  -- Wait... Two more...boxes... Don't know what's in them...don't care, either... One for # stupid point[/s]...the other for #...or whatever...
         OH_LOOK_FOR_POINT_THING_YOU_CAN_GET                                     = 10467,  -- Oh...look. For # point thing[/s] you can get something new called...the Summer Splash... Wow... Doesn't that sound so terribly...<yawn>...exciting?
         OH_AND_THIS_YEAR_OF_THOSE_POINT_WHATEVERS                               = 10468,  -- Oh...and this year, # of those point-whatevers will get you...a stellar surprise or something... I don't know why we bother with surprises... It's just going to be a...<yawn>...disappointment in the end, I'm sure... <Sigh>...
-        AND_WHAT_IS_THIS_FOR_YOU_CAN_LANDS                                      = 10469,  -- And what is this!? For # you can lands yourself an incredibly goregous happi!? Why did we wait so long to put this festival feature on the shelves!?
-        J_GP5D1JE7_E_F_H_7I                                                     = 10470,  -- ;j)gp5D1jE7%E%"F+` h\7I
+        AND_WHAT_IS_THIS_FOR_POINTS_YOU_CAN                                     = 10469,  -- And what is this!? For # points you can land yourself an incredibly gorgeous happi!? Why did we wait so long to put this festival feature on the shelves!?
+        AND_THEN_THERE_S_THIS_FOR_POINTS_IF                                     = 10470,  -- And then there's this! % for # points. If they're out of stock, come back tomorrow.
         THIS_BOX_NEEDS_TO_GO_IN_WITH_THAT                                       = 10471,  -- This box needs to go in with that San d'Orian shipment. And this one... Dammit, where's my list?
         OH_AND_A_FINE_DAY_TO_YOU_ADVENTURER                                     = 10472,  -- Oh, and a fine day to you, adventurer. Rudolfo of the Rabao If it don't get there overnight, wait Freight Company, at your service.
         SANCTIA_SANCTIA                                                         = 10473,  -- Sanctia! Sanctia`!

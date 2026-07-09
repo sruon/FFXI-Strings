@@ -8562,7 +8562,7 @@
         WE_CAN_GO_WHAT_DID_YOU_FIND_OUT                                                             = 8568,  -- (We can go? What did you find out?)
         IT_LOOKS_LIKE_THE_AMBASSADOR_AND_ARE_GOING                                                  = 8569,  -- (It looks like the ambassador and % are going to travel to the ruins...)
         I_WONDER_WHICH_PART                                                                         = 8570,  -- (I wonder which part...?)
-        I_IM_GOING_TO                                                                               = 8571,  -- (I-Im going to...!)
+        I_I_M_GOING_TO                                                                              = 8571,  -- (I-I'm going to...!)
         DID_YOU_UNDERSTAND_MY_EXPLANATION_BECAUSE_NOW_AYDEEWA                                       = 8572,  -- Did you understand my explanation? Because now Aydeewa Subterrane is our next destination.
         OF_COURSE_THERE_IS_NO_SUCH_OPTION_AS                                                        = 8573,  -- Of course, there is no such option as no. Gather your things and be ready to go.
         MAYBE_I_LL_FOLLOW_THEM_TO_THE_RUINS                                                         = 8574,  -- (Maybe I'll follow them to the ruins...)

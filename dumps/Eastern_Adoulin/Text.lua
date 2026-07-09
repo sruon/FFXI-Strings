@@ -8398,7 +8398,7 @@
         HOW_CAN_YOU_SPEND_SO_MUCH_TIME_IN                                             = 8476,  -- How can you spend so much time in Adoulin and be completely oblivious to the famed Watergarden Coliseum in Rala Waterways? It's a place where pride is won and lost.
         SINCE_ANYONE_CAN_REMEMBER_THE_PLACE_HAS_BEEN                                  = 8477,  -- Since anyone can remember, the place has been used to settle disputes and feuds...sometimes even at the cost of precious lives.
         BUT_IT_ISN_T_A_PLACE_FOR_BARBARISM                                            = 8478,  -- But it isn't a place for barbarism. Strict rules have been put in place to keep all fights fair.
-        THAT_HAS_KEPT_THE_DEATHS_TO_THE_MINIMUM                                       = 8479,  -- That has kept the deaths to the minimum--but that doesn't mean some poeple don't come out with their tails between their legs.
+        THAT_HAS_KEPT_THE_DEATHS_TO_THE_MINIMUM                                       = 8479,  -- That has kept the deaths to the minimum--but that doesn't mean some people don't come out with their tails between their legs.
         BUT_THERE_S_NO_POINT_IN_HEADING_DOWN                                          = 8480,  -- But there's no point in heading down there. They don't just let any riffraff in to watch the fights.
         THE_PEACEKEEPERS_COALITION_HAS_BETTER_THINGS_TO_DO                            = 8481,  -- The Peacekeepers' Coalition has better things to do than keep an eye on any fool who wants to watch blood be shed.
         SO_DON_T_THINK_FOR_ONE_SECOND_THAT                                            = 8482,  -- So don't think for one second that the guards will let you pass its gates.
