@@ -6384,1267 +6384,1268 @@
         AS_A_TOKEN_OF_THANKS_FOR_YOUR_UNFLAGGING_2                           = 6381,  -- As a token of thanks for your unflagging devotion to Vana'diel, please enjoy this special gift courtesy of the FINAL FANTASY XI team!
         YOU_SENSE_A_TINY_SPARKLE_FROM_SAN_D                                  = 6382,  -- You sense a tiny sparkle from San d'Oria in your inventory!
         THE_DEEDS_OF_HEROISM_BONUS_CAMPAIGN_IS_UNDERWAY                      = 6383,  -- The Deeds of Heroism Bonus Campaign is underway!
-        YOU_CANNOT_OBTAIN_THE                                                = 6384,  -- You cannot obtain the %.
-        YOU_CANNOT_OBTAIN_ANY_MORE                                           = 6385,  -- You cannot obtain any more.
-        YOU_CANNOT_OBTAIN_THE_COME_BACK_AFTER_SORTING                        = 6386,  -- You cannot obtain the %. Come back after sorting your inventory.
-        YOU_CANNOT_OBTAIN_THE_COME_BACK_AFTER_SORTING_2                      = 6387,  -- You cannot obtain the %. Come back after sorting your inventory.
-        YOU_CANNOT_OBTAIN_THE_ITEM_COME_BACK_AFTER                           = 6388,  -- You cannot obtain the item. Come back after sorting your inventory.
-        YOU_CANNOT_OBTAIN_THE_SPEAK_WITH_THE_MYSTIC                          = 6389,  -- You cannot obtain the %. Speak with the mystic retriever after sorting your inventory.
-        YOU_CANNOT_OBTAIN_THE_TRY_TRADING_AGAIN_AFTER                        = 6390,  -- You cannot obtain the %. Try trading again after sorting your inventory.
-        YOU_MUST_FREE_AT_LEAST_SPACE_BEFORE_TRADING                          = 6391,  -- You must free at least # space[/s] before trading any items.
-        YOU_ARE_UNABLE_TO_CARRY_ANY_MORE_BECAUSE                             = 6392,  -- You are unable to carry any more % because your recycle bin is full.
-        YOU_ARE_UNABLE_TO_CARRY_ANY_MORE_ITEMS                               = 6393,  -- You are unable to carry any more items because your recycle bin is full.
-        OBTAINED                                                             = 6394,  -- Obtained: %.
-        OBTAINED_GIL                                                         = 6395,  -- Obtained # gil.
-        OBTAINED_GIL_2                                                       = 6396,  -- Obtained # gil.
-        OBTAINED_KEY_ITEM                                                    = 6397,  -- Obtained key item: %.
-        LOST_KEY_ITEM                                                        = 6398,  -- Lost key item: %.
-        YOU_DO_NOT_HAVE_ENOUGH_GIL                                           = 6399,  -- You do not have enough gil.
-        YOU_OBTAIN                                                           = 6400,  -- You obtain % !
-        YOU_DO_NOT_HAVE_ENOUGH_GIL_2                                         = 6401,  -- You do not have enough gil.
-        A_PARTY_MEMBER_HAS_AN_NPC_CALLED_UP                                  = 6402,  -- A party member has an NPC called up. You cannot take part in this event.
-        YOU_OBTAIN_2                                                         = 6403,  -- You obtain # !
-        YOU_FIND_THE_HOOFPRINT_OF_A_GIGANTIC_WARHORSE                        = 6404,  -- You find the hoofprint of a gigantic warhorse...
-        YOU_SET_THE_IN_THE_WARHORSE_HOOFPRINT                                = 6405,  -- You set the % in the warhorse hoofprint.
-        THE_IS_RETURNED_TO_YOU                                               = 6406,  -- The % is returned to you.
-        THE_ARE_RETURNED_TO_YOU                                              = 6407,  -- The # % are returned to you.
-        THERE_IS_NOTHING_OUT_OF_THE_ORDINARY_HERE                            = 6408,  -- There is nothing out of the ordinary here.
-        YOU_ARE_SUDDENLY_OVERCOME_WITH_A_SENSE_OF                            = 6409,  -- You are suddenly overcome with a sense of foreboding...
-        NOW_IS_NOT_THE_TIME_FOR_THAT                                         = 6410,  -- Now is not the time for that!
-        IT_SEEMS_THAT_YOU_WILL_HAVE_TO_WAIT                                  = 6411,  -- It seems that you will have to wait a bit longer...
-        AN_AURA_OF_IRREPRESSIBLE_MIGHT_THREATENS_TO_OVERWHELM                = 6412,  -- An aura of irrepressible might threatens to overwhelm you...
-        YOU_NO_LONGER_SENSE_THE_MONSTER_S_PRESENCE                           = 6413,  -- You no longer sense the monster's presence...
-        ADVENTURER_FEAST_YOUR_EYES_ON_THE_MIGHT_OF                           = 6414,  -- Adventurer! Feast your eyes on the might of an Orcish champion!
-        ADVENTURER_HEAR_THE_CRY_OF_A_TRUE_ORCISH                             = 6415,  -- Adventurer! Hear the cry of a true Orcish warrior!
-        WITNESS_THE_EFFECTIVENESS_OF_A_COMMON_QUADAV_TACTIC                  = 6416,  -- Witness the effectiveness of a common Quadav tactic!
-        DA_VHU_DEADEYE_HEEDS_YOUR_COMMAND_REVEL_IN                           = 6417,  -- Da'Vhu Deadeye heeds your command. Revel in the fighting spirit of the Quadav!
-        KWAKWAH_NEVER_FORGET_THE_MERCY_OF_THE_MANIFEST                       = 6418,  -- Kwakwah! Never forget the mercy of the Manifest, heretic! One day these talons will sink into your chest!
-        THINK_WELL_ON_THE_WORDS_OF_THE_MANIFEST                              = 6419,  -- Think well on the words of the Manifest, heretic! Now hear the soaring voice of a Divine Inspirer!
-        ADVENNTEURERUERAROO_SOOOSOMEONE_N_NEEDS_OFA_AMPUT_ANMPYU_AMPUTIT     = 6420,  -- Advennteurerueraroo! Sooosomeone 'n needs ofa amput...anmpyu...amputit...amptitationn?
-        YOU_LIKA_GAMMMBLE_LESSEE_IF_DICE_LIKES_YOUSE                         = 6421,  -- You lika gammmble? Lessee if dice likes youse today. <Hic!>
-        ID_6422                                                              = 6422,  -- [/I'm ready./Alright!/Okay.../Attention!/Okay, kiddo./Okay!/I'm ready./Okay!/Attention!] [/I suppose./Here we go!/Ready when you are./Weapon skill ready!/I'm ready./Bring it on!/We can start any time./Ready when you are!/Weapon skill ready!]
-        I_M_READY_I_SUPPOSE                                                  = 6423,  -- I'm ready. I suppose.
-        ALRIGHT_HERE_WE_GO                                                   = 6424,  -- Alright! Here we go!
-        OKAY_READY_WHEN_YOU_ARE                                              = 6425,  -- Okay... Ready when you are.
-        ATTENTION_WEAPON_SKILL_READY                                         = 6426,  -- Attention! Weapon skill ready!
-        I_M_READY_JUST_SAY_WHEN                                              = 6427,  -- I'm ready. Just say when!
-        GOOD_TO_GO_THIS_IS_GONNA_BE_FUN                                      = 6428,  -- Good to go! This is gonna be fun!
-        MY_PREPARATIONS_ARE_COMPLETE_READY_AT_YOUR_COMMAND                   = 6429,  -- My preparations are complete. Ready at your command.
-        OKAY_KIDDO_I_M_READY                                                 = 6430,  -- Okay, kiddo. I'm ready.
-        OKAY_BRING_IT_ON                                                     = 6431,  -- Okay! Bring it on!
-        I_M_READY_WE_CAN_START_ANY_TIME                                      = 6432,  -- I'm ready. We can start any time.
-        OKAY_READY_WHEN_YOU_ARE_2                                            = 6433,  -- Okay! Ready when you are!
-        ATTENTION_WEAPON_SKILL_READY_2                                       = 6434,  -- Attention! Weapon skill ready!
-        WHAT_IS_TAKING_SO_LONG_AREN_T_YOU                                    = 6435,  -- What is taking so long? Aren't you ready yet?
-        I_M_WARMED_UP_AND_RRREADY_TO_GO                                      = 6436,  -- I'm warmed up and rrready to go!
-        ID_6437                                                              = 6437,  -- [/Ugh.../Dammit!/Ugh.../I'm too badly hurt./This is a little.../No!/Ugh.../Ouch!/I'm too badly hurt.] [/This could be bad.../I'm not going down!/I'm not done yet!/I don't think I can make it.../...tougher than I expected./I won't give up!/This may be the end.../Hey, that hurts!/I don't think I can make it...]
-        UGH_THIS_COULD_BE_BAD                                                = 6438,  -- Ugh... This could be bad...
-        DAMMIT_I_M_NOT_GOING_DOWN                                            = 6439,  -- Dammit! I'm not going down!
-        UGH_I_M_NOT_DONE_YET                                                 = 6440,  -- Ugh... I'm not done yet!
-        I_M_TOO_BADLY_HURT_I_DON_T                                           = 6441,  -- I'm too badly hurt. I don't think I can make it...
-        UH_OH_I_M_IN_TROUBLE                                                 = 6442,  -- Uh-oh, I'm in trouble...
-        THIS_IS_GETTING_ROUGH_I_M_NOT_SURE                                   = 6443,  -- This is getting rough. I'm not sure how much longer I can hold up...
-        IT_PAINS_ME_TO_INFORM_YOU_BUT_I                                      = 6444,  -- It pains me to inform you, but I'm in severe pain...
-        THIS_IS_A_LITTLE_TOUGHER_THAN_I_EXPECTED                             = 6445,  -- This is a little... ...tougher than I expected.
-        NO_I_WON_T_GIVE_UP                                                   = 6446,  -- No! I won't give up!
-        UGH_THIS_MAY_BE_THE_END                                              = 6447,  -- Ugh... This may be the end...
-        OUCH_HEY_THAT_HURTS                                                  = 6448,  -- Ouch! Hey, that hurts!
-        I_M_TOO_BADLY_HURT_I_DON_T_2                                         = 6449,  -- I'm too badly hurt. I don't think I can make it...
-        GRRR_I_WILL_NOT_BE_BESTED                                            = 6450,  -- Grrr... I...will not...be bested!
-        THIS_IS_LOOKING_RRREALLY_BAD                                         = 6451,  -- This is looking rrreally bad...
-        ID_6452                                                              = 6452,  -- [/My magic.../Uh-oh!/Heads up./Attention!/Be careful./Whoops!/Careful./Hey!?/Attention!] [/...is running low./Running out of magic!/My magic is almost gone./Magical reserves running low!/I'm almost out of magic./Almost out of magic!/My magic is running low./Where'd all my magic go!?/Magical reserves running low!]
-        MY_MAGIC_IS_RUNNING_LOW                                              = 6453,  -- My magic... ...is running low.
-        UH_OH_RUNNING_OUT_OF_MAGIC                                           = 6454,  -- Uh-oh! Running out of magic!
-        HEADS_UP_MY_MAGIC_IS_ALMOST_GONE                                     = 6455,  -- Heads up. My magic is almost gone.
-        ATTENTION_MAGICAL_RESERVES_RUNNING_LOW                               = 6456,  -- Attention! Magical reserves running low!
-        NOOO_I_M_ALMOST_OUT_OF_MAGIC                                         = 6457,  -- Nooo... I'm almost out of magic...
-        SORRY_BUT_I_M_RUNNING_LOW_ON_MAGIC                                   = 6458,  -- Sorry, but I'm running low on magic.
-        EXCUSE_ME_BUT_MY_MAGICAL_RESERVES_ARE_NEARING                        = 6459,  -- Excuse me, but my magical reserves are nearing depletion.
-        BE_CAREFUL_I_M_ALMOST_OUT_OF_MAGIC                                   = 6460,  -- Be careful. I'm almost out of magic.
-        WHOOPS_ALMOST_OUT_OF_MAGIC                                           = 6461,  -- Whoops! Almost out of magic!
-        CAREFUL_MY_MAGIC_IS_RUNNING_LOW                                      = 6462,  -- Careful. My magic is running low.
-        HEY_WHERE_D_ALL_MY_MAGIC_GO                                          = 6463,  -- Hey!? Where'd all my magic go!?
-        ATTENTION_MAGICAL_RESERVES_RUNNING_LOW_2                             = 6464,  -- Attention! Magical reserves running low!
-        DAMN_MAGICAL_RESERVES_CRITICAL                                       = 6465,  -- Damn! Magical reserves critical!
-        RRRUNNING_LOW_ON_MAGIC_HERE                                          = 6466,  -- Rrrunning low on magic here...
-        ID_6467                                                              = 6467,  -- [/My magic?/Okay!/My magic has recovered./My magical reserves have recovered./My magic is restored./My magic status?/Okay./Okay!/My magical reserves have recovered.] [/Don't worry, I have plenty./My magic is restored!/I'm ready./I'm ready to continue./Any time you're ready./Ready to go!/My magical reserves are almost full again./My magic is ready to go!/I'm ready to continue.]
-        MY_MAGIC_DON_T_WORRY_I_HAVE_PLENTY                                   = 6468,  -- My magic? Don't worry, I have plenty.
-        OKAY_MY_MAGIC_IS_RESTORED                                            = 6469,  -- Okay! My magic is restored!
-        MY_MAGIC_HAS_RECOVERED_I_M_READY                                     = 6470,  -- My magic has recovered. I'm ready.
-        MY_MAGICAL_RESERVES_HAVE_RECOVERED_I_M_READY                         = 6471,  -- My magical reserves have recovered. I'm ready to continue.
-        MY_MAGIC_S_BACK_TO_NORMAL_NOW                                        = 6472,  -- My magic's back to normal now.
-        MAGIC_A_OK_LET_S_KEEP_MOVING                                         = 6473,  -- Magic A-OK! Let's keep moving!
-        APOLOGIES_FOR_THE_DELAY_MY_MAGIC_RESERVES_ARE                        = 6474,  -- Apologies for the delay. My magic reserves are now in good order.
-        MY_MAGIC_IS_RESTORED_ANY_TIME_YOU_RE                                 = 6475,  -- My magic is restored. Any time you're ready.
-        MY_MAGIC_STATUS_READY_TO_GO                                          = 6476,  -- My magic status? Ready to go!
-        OKAY_MY_MAGICAL_RESERVES_ARE_ALMOST_FULL_AGAIN                       = 6477,  -- Okay. My magical reserves are almost full again.
-        OKAY_MY_MAGIC_IS_READY_TO_GO                                         = 6478,  -- Okay! My magic is ready to go!
-        MY_MAGICAL_RESERVES_HAVE_RECOVERED_I_M_READY_2                       = 6479,  -- My magical reserves have recovered. I'm ready to continue.
-        MY_MAGIC_HAS_SUFFICIENTLY_RECOVERED_LET_S_NOT                        = 6480,  -- My magic has sufficiently recovered. Let's not delay any further.
-        MAGIC_IS_RRRIPE_AND_RRREADY                                          = 6481,  -- Magic is rrripe and rrready!
-        ID_6482                                                              = 6482,  -- [/I'm tired./Phew!/Hm./A fruitful day./I'm exhausted./Phew!/We fought many battles today./Wow!/A fruitful day.] [/I think we've done enough for today./It's been a busy day!/That should be enough for today./I believe we reached our quota./No more fighting for me./I guess we should call it quits for today!/Time to take a break./I'm exhausted!/I believe we reached our quota.]
-        I_M_TIRED_I_THINK_WE_VE_DONE                                         = 6483,  -- I'm tired. I think we've done enough for today.
-        PHEW_IT_S_BEEN_A_BUSY_DAY                                            = 6484,  -- Phew! It's been a busy day!
-        HM_THAT_SHOULD_BE_ENOUGH_FOR_TODAY                                   = 6485,  -- Hm. That should be enough for today.
-        A_FRUITFUL_DAY_I_BELIEVE_WE_REACHED_OUR                              = 6486,  -- A fruitful day. I believe we reached our quota.
-        WE_VE_DEFEATED_QUITE_A_LOT_TODAY                                     = 6487,  -- We've defeated quite a lot today.
-        WE_DID_GREAT_TODAY_I_CAN_SLEEP_WELL                                  = 6488,  -- We did great today! I can sleep well tonight knowing I made a difference.
-        WELL_DONE_SIR_MILADY_WE_HAVE_ACCOMPLISHED_MUCH                       = 6489,  -- Well done, sir/milady]. We have accomplished much this day.
-        I_M_EXHAUSTED_NO_MORE_FIGHTING_FOR_ME                                = 6490,  -- I'm exhausted. No more fighting for me.
-        PHEW_I_GUESS_WE_SHOULD_CALL_IT_QUITS                                 = 6491,  -- Phew! I guess we should call it quits for today!
-        WE_FOUGHT_MANY_BATTLES_TODAY_TIME_TO_TAKE                            = 6492,  -- We fought many battles today. Time to take a break.
-        WOW_I_M_EXHAUSTED                                                    = 6493,  -- Wow! I'm exhausted!
-        A_FRUITFUL_DAY_I_BELIEVE_WE_REACHED_OUR_2                            = 6494,  -- A fruitful day. I believe we reached our quota.
-        HM_I_AM_SATISFIED_WITH_TODAY_S_EFFORT                                = 6495,  -- Hm. I am satisfied with today's effort.
-        WE_DID_GRRREAT_TODAY_DIDN_T_WE                                       = 6496,  -- We did grrreat today, didn't we?
-        ID_6497                                                              = 6497,  -- [/Time flies.../Whoa!/Hm./Well, well./Look at that./Whoa!/Well, now./Hey!/Well, well.] [/...when you're having fun./Is that the time!/It's getting late./Quite some time has passed./It's past my bedtime./I didn't realize it was so late!/Where does all the time go?/It's getting late!/Quite some time has passed.]
-        TIME_FLIES_WHEN_YOU_RE_HAVING_FUN                                    = 6498,  -- Time flies... ...when you're having fun.
-        WHOA_IS_THAT_THE_TIME                                                = 6499,  -- Whoa! Is that the time!
-        HM_IT_S_GETTING_LATE                                                 = 6500,  -- Hm. It's getting late.
-        WELL_WELL_QUITE_SOME_TIME_HAS_PASSED                                 = 6501,  -- Well, well. Quite some time has passed.
-        AWWW_IT_S_WAY_PAST_MY_NAP_TIME                                       = 6502,  -- Awww, it's way past my nap time...
-        TIME_SURE_DOES_FLY_WHEN_YOU_RE_HAVING                                = 6503,  -- Time sure does fly when you're having fun.
-        A_THOUSAND_PARDONS_SIR_MILADY_BUT_I_MUST                             = 6504,  -- A thousand pardons, sir/milady], but I must take my leave.
-        LOOK_AT_THAT_IT_S_PAST_MY_BEDTIME                                    = 6505,  -- Look at that. It's past my bedtime.
-        WHOA_I_DIDN_T_REALIZE_IT_WAS_SO                                      = 6506,  -- Whoa! I didn't realize it was so late!
-        WELL_NOW_WHERE_DOES_ALL_THE_TIME_GO                                  = 6507,  -- Well, now. Where does all the time go?
-        HEY_IT_S_GETTING_LATE                                                = 6508,  -- Hey! It's getting late!
-        OH_MY_QUITE_SOME_TIME_HAS_PASSED                                     = 6509,  -- Oh my. Quite some time has passed.
-        IT_S_RATHER_LATE                                                     = 6510,  -- It's rather late.
-        YAWN_SO_SLEEPY                                                       = 6511,  -- <Yawn> So...sleepy...
-        ID_6512                                                              = 6512,  -- [/I guess I'll be going./Well, I'm off then!/I'm headed off./I take my leave of you./Must be going./Well, I'm off then!/It's time for me to go./I gotta go now!/I take my leave of you.] [/See you around./See you soon!/Later./Until we meet again./Take care of yourself./See you soon!/Farewell./Bye!/Until we meet again.]
-        I_GUESS_I_LL_BE_GOING_SEE_YOU                                        = 6513,  -- I guess I'll be going. See you around.
-        WELL_I_M_OFF_THEN_SEE_YOU_SOON                                       = 6514,  -- Well, I'm off then! See you soon!
-        I_M_HEADED_OFF_LATER                                                 = 6515,  -- I'm headed off. Later.
-        I_TAKE_MY_LEAVE_OF_YOU_UNTIL_WE                                      = 6516,  -- I take my leave of you. Until we meet again.
-        I_M_GOING_NOW_CALL_ME_AGAIN                                          = 6517,  -- I'm going now. Call me again.
-        IT_S_TIME_I_HIT_THE_ROAD_DON                                         = 6518,  -- It's time I hit the road. Don't go forgetting about me, you hear!
-        UNTIL_NEXT_TIME_THEN_I_SHALL_BE_PREPARED                             = 6519,  -- Until next time, then. I shall be prepared for for when you next call.
-        MUST_BE_GOING_TAKE_CARE_OF_YOURSELF                                  = 6520,  -- Must be going. Take care of yourself.
-        WELL_I_M_OFF_THEN_SEE_YOU_SOON_2                                     = 6521,  -- Well, I'm off then! See you soon!
-        IT_S_TIME_FOR_ME_TO_GO_FAREWELL                                      = 6522,  -- It's time for me to go. Farewell.
-        I_GOTTA_GO_NOW_BYE                                                   = 6523,  -- I gotta go now! Bye!
-        I_TAKE_MY_LEAVE_OF_YOU_UNTIL_WE_2                                    = 6524,  -- I take my leave of you. Until we meet again.
-        I_M_GOING_NOW_DON_T_DO_ANYTHING                                      = 6525,  -- I'm going now. Don't do anything stupid in my absence.
-        SEE_YOU_LATERRR_BYE                                                  = 6526,  -- See you laterrr! Bye!
-        ID_6527                                                              = 6527,  -- [/Getting rid of me already?/Are we done already!?/Are we done for the day?/Time to part ways?/Sending me on my way?/Are we done already!?/Time for goodbyes?/What? You want me to go?/Time to part ways?]
-        GETTING_RID_OF_ME_ALREADY                                            = 6528,  -- Getting rid of me already?
-        ARE_WE_DONE_ALREADY                                                  = 6529,  -- Are we done already!?
-        ARE_WE_DONE_FOR_THE_DAY                                              = 6530,  -- Are we done for the day?
-        TIME_TO_PART_WAYS                                                    = 6531,  -- Time to part ways?
-        ARE_WE_FINISHED_ALREADY_AWWW                                         = 6532,  -- Are we finished already? Awww...
-        HUH_PARTY_S_OVER                                                     = 6533,  -- Huh? Party's over?
-        OH_DO_YOU_HAVE_ENGAGEMENTS_ELSEWHERE_AS_YOU                          = 6534,  -- Oh? Do you have engagements elsewhere? As you wish, then.
-        SENDING_ME_ON_MY_WAY                                                 = 6535,  -- Sending me on my way?
-        ARE_WE_DONE_ALREADY_2                                                = 6536,  -- Are we done already!?
-        TIME_FOR_GOODBYES                                                    = 6537,  -- Time for goodbyes?
-        WHAT_YOU_WANT_ME_TO_GO                                               = 6538,  -- What? You want me to go?
-        TIME_TO_PART_WAYS_2                                                  = 6539,  -- Time to part ways?
-        I_COME_ALL_THE_WAY_HERE_AND_NOW                                      = 6540,  -- I come all the way here, and now you want me to leave? We'll have to do something about your impudence.
-        YOU_DON_T_WANT_ME_TO_STAY_MEOW                                       = 6541,  -- You don't want me to stay? Meow...
-        ID_6542                                                              = 6542,  -- [/Well./We're not done yet, right?/Changed your mind?/You wish to continue?/We're not done, are we?/We're still good to go, right?/Still ready for action?/You changed your mind!?/You wish to continue?] [/I suppose I could stick around./Let's go!/No problem./Very well, let us proceed./Then let's get back to it./Okay, off we go!/I can stay around a little more./Great, I'm ready for more!/Very well, let us proceed.]
-        WELL_I_SUPPOSE_I_COULD_STICK_AROUND                                  = 6543,  -- Well. I suppose I could stick around.
-        WE_RE_NOT_DONE_YET_RIGHT_LET_S                                       = 6544,  -- We're not done yet, right? Let's go!
-        CHANGED_YOUR_MIND_NO_PROBLEM                                         = 6545,  -- Changed your mind? No problem.
-        YOU_WISH_TO_CONTINUE_VERY_WELL_LET_US                                = 6546,  -- You wish to continue? Very well, let us proceed.
-        YAY_LET_S_KEEP_AT_IT                                                 = 6547,  -- Yay! let's keep at it!
-        THAT_S_MUSIC_TO_MY_EARS_IT_S                                         = 6548,  -- That's music to my ears! It's waaay too early for the party to end!
-        VERY_GOOD_SIR_MILADY_IT_WILL_BE_MY                                   = 6549,  -- Very good, sir/milady]. It will be my pleasure to accompany you further.
-        WE_RE_NOT_DONE_ARE_WE_THEN_LET                                       = 6550,  -- We're not done, are we? Then let's get back to it.
-        WE_RE_STILL_GOOD_TO_GO_RIGHT_OKAY                                    = 6551,  -- We're still good to go, right? Okay, off we go!
-        STILL_READY_FOR_ACTION_I_CAN_STAY_AROUND                             = 6552,  -- Still ready for action? I can stay around a little more.
-        YOU_CHANGED_YOUR_MIND_GREAT_I_M_READY                                = 6553,  -- You changed your mind!? Great, I'm ready for more!
-        YOU_WISH_TO_CONTINUE_VERY_WELL_LET_US_2                              = 6554,  -- You wish to continue? Very well, let us proceed.
-        CHANGED_YOUR_MIND_WE_LL_HAVE_TO_DO                                   = 6555,  -- Changed your mind? We'll have to do something about your indecisiveness.
-        YAY_LET_S_KEEP_GOING                                                 = 6556,  -- Yay! Let's keep going!
-        ID_6557                                                              = 6557,  -- [/Your fight is with me./Bring it on!/Over here./I will be your opponent this day!/I'll take it from here./Over here!/Over here./Hey! Don't ignore me!/I will be your opponent this day!]
-        YOUR_FIGHT_IS_WITH_ME                                                = 6558,  -- Your fight is with me.
-        BRING_IT_ON                                                          = 6559,  -- Bring it on!
-        OVER_HERE                                                            = 6560,  -- Over here.
-        I_WILL_BE_YOUR_OPPONENT_THIS_DAY                                     = 6561,  -- I will be your opponent this day!
-        OVER_HERE_YOU_BIG_MEANIE                                             = 6562,  -- Over here, you big meanie!
-        YOU_WANNA_FIGHT_FIGHT_ME                                             = 6563,  -- You wanna fight? Fight me!
-        AHEM_YOUR_ATTENTION_PLEASE                                           = 6564,  -- Ahem! Your attention, please!
-        I_LL_TAKE_IT_FROM_HERE                                               = 6565,  -- I'll take it from here.
-        OVER_HERE_2                                                          = 6566,  -- Over here!
-        OVER_HERE_3                                                          = 6567,  -- Over here.
-        HEY_DON_T_IGNORE_ME                                                  = 6568,  -- Hey! Don't ignore me!
-        I_WILL_BE_YOUR_OPPONENT_THIS_DAY_2                                   = 6569,  -- I will be your opponent this day!
-        LOOK_AT_ME_WHEN_I_M_TALKING_TO                                       = 6570,  -- Look at me when I'm talking to you!
-        HISSS                                                                = 6571,  -- Hisss!!!
-        ID_6572                                                              = 6572,  -- [/You called?/Here I am!/You're here. I'm here./Greetings./Sure, I'll help./Hey there!/Good day./Hello!/Greetings.] [/I'm ready to go./Ready for anything!/Let's get moving./A fine day for adventuring./Try not to slow me down./I'm ready to go!/Shall we get moving?/What are we up to today?/A fine day for adventuring.]
-        YOU_CALLED_I_M_READY_TO_GO                                           = 6573,  -- You called? I'm ready to go.
-        HERE_I_AM_READY_FOR_ANYTHING                                         = 6574,  -- Here I am! Ready for anything!
-        YOU_RE_HERE_I_M_HERE_LET_S                                           = 6575,  -- You're here. I'm here. Let's get moving.
-        GREETINGS_A_FINE_DAY_FOR_ADVENTURING                                 = 6576,  -- Greetings. A fine day for adventuring.
-        SORRY_TO_KEEP_YOU_WAITING_LET_S_GO                                   = 6577,  -- Sorry to keep you waiting. Let's go!
-        DID_YOU_WAIT_LONG_ALRIGHT_LET_S_GO                                   = 6578,  -- Did you wait long? Alright, let's go have some fun!
-        PLEASE_FORGIVE_MY_TARDINESS_I_M_YOURS_TO                             = 6579,  -- Please forgive my tardiness. I'm yours to command.
-        SURE_I_LL_HELP_TRY_NOT_TO_SLOW                                       = 6580,  -- Sure, I'll help. Try not to slow me down.
-        HEY_THERE_I_M_READY_TO_GO                                            = 6581,  -- Hey there! I'm ready to go!
-        GOOD_DAY_SHALL_WE_GET_MOVING                                         = 6582,  -- Good day. Shall we get moving?
-        HELLO_WHAT_ARE_WE_UP_TO_TODAY                                        = 6583,  -- Hello! What are we up to today?
-        GREETINGS_A_FINE_DAY_FOR_ADVENTURING_2                               = 6584,  -- Greetings. A fine day for adventuring.
-        LET_S_GO_TRY_NOT_TO_GET_IN                                           = 6585,  -- Let's go. Try not to get in the way.
-        MEOW                                                                 = 6586,  -- Meow!
-        ID_6587                                                              = 6587,  -- [/It might be time to head back to town./I have to be heading back soon./My reflexes are starting to slow./I believe it's almost time for a rest./A nice soft bed is looking good about now./We've been at this for a while now./Sorry, but I have some other chores to take care of./I'm starting to get kinda tired./I believe it's almost time for a rest.] [/I think I need a rest./Other duties call!/We should call it a day pretty soon./Shall we head back to town shortly?/Shall we call it quits soon?/I think I have enough energy for one last spurt!/Can we finish up here soon?/But I can keep going for a little while! <Yawn>.../Shall we head back to town shortly?]
-        IT_MIGHT_BE_TIME_TO_HEAD_BACK_TO                                     = 6588,  -- It might be time to head back to town. I think I need a rest.
-        I_HAVE_TO_BE_HEADING_BACK_SOON_OTHER                                 = 6589,  -- I have to be heading back soon. Other duties call!
-        MY_REFLEXES_ARE_STARTING_TO_SLOW_WE_SHOULD                           = 6590,  -- My reflexes are starting to slow. We should call it a day pretty soon.
-        I_BELIEVE_IT_S_ALMOST_TIME_FOR_A                                     = 6591,  -- I believe it's almost time for a rest. Shall we head back to town shortly?
-        I_VE_ALMOST_HAD_ENOUGH_FOR_ONE_DAY                                   = 6592,  -- I've almost had enough for one day.
-        WHOOPS_FORGOT_TO_TELL_YOU_BUT_I_HAVE                                 = 6593,  -- Whoops! Forgot to tell you, but I have to be somewhere soon.
-        I_REGRET_TO_INFORM_YOU_THAT_MY_PRESENCE                              = 6594,  -- I regret to inform you that my presence will be required in town shortly. I pray you do not think ill of me.
-        A_NICE_SOFT_BED_IS_LOOKING_GOOD_ABOUT                                = 6595,  -- A nice soft bed is looking good about now. Shall we call it quits soon?
-        WE_VE_BEEN_AT_THIS_FOR_A_WHILE                                       = 6596,  -- We've been at this for a while now. I think I have enough energy for one last spurt!
-        SORRY_BUT_I_HAVE_SOME_OTHER_CHORES_TO                                = 6597,  -- Sorry, but I have some other chores to take care of. Can we finish up here soon?
-        I_M_STARTING_TO_GET_KINDA_TIRED_BUT                                  = 6598,  -- I'm starting to get kinda tired. But I can keep going for a little while! <Yawn...>
-        I_BELIEVE_IT_S_ALMOST_TIME_FOR_A_2                                   = 6599,  -- I believe it's almost time for a rest. Shall we head back to town shortly?
-        I_VE_BABYSITTED_YOU_LONG_ENOUGH_FOR_ONE                              = 6600,  -- I've babysitted you long enough for one day. I will leave soon.
-        THIS_IS_GETTING_BORRRING                                             = 6601,  -- This is getting borrring...
-        ID_6602                                                              = 6602,  -- [/We've been through a good number of enemies./I think I'm finally getting tired./We've done enough today, I think./We've proved ourselves in battle this day./Phew, I'm beat./Maybe just one more battle./We should call it day./Phew! I'm beat!/We've proved ourselves in battle this day.] [/One more ought to do it./Should we make the next battle our last?/Let's make the next battle our last./Let us make the next opponent our last./One more battle ought to do it./This time I mean it, honest!/Let's make the next battle our last./One more battle?/Let us make the next opponent our last.]
-        WE_VE_BEEN_THROUGH_A_GOOD_NUMBER_OF                                  = 6603,  -- We've been through a good number of enemies. One more ought to do it.
-        I_THINK_I_M_FINALLY_GETTING_TIRED_SHOULD                             = 6604,  -- I think I'm finally getting tired. Should we make the next battle our last?
-        WE_VE_DONE_ENOUGH_TODAY_I_THINK_LET                                  = 6605,  -- We've done enough today, I think. Let's make the next battle our last.
-        WE_VE_PROVED_OURSELVES_IN_BATTLE_THIS_DAY                            = 6606,  -- We've proved ourselves in battle this day. Let us make the next opponent our last.
-        PUFF_WHEEZE_JUST_ONE_MORE_BATTLE_OKAY                                = 6607,  -- <Puff, wheeze> Just one more battle, okay?
-        I_M_STARTING_TO_FEEL_SORRY_FOR_OUR                                   = 6608,  -- I'm starting to feel sorry for our opponents! Think I'll call it a day after the next one.
-        WOULD_I_BE_OUT_OF_PLACE_TO_RECOMMEND                                 = 6609,  -- Would I be out of place to recommend recuperating? Let us return to town upon the next battle's conclusion.
-        PHEW_I_M_BEAT_ONE_MORE_BATTLE_OUGHT                                  = 6610,  -- Phew, I'm beat. One more battle ought to do it.
-        MAYBE_JUST_ONE_MORE_BATTLE_THIS_TIME_I                               = 6611,  -- Maybe just one more battle. This time I mean it, honest!
-        WE_SHOULD_CALL_IT_DAY_LET_S_MAKE                                     = 6612,  -- We should call it day. Let's make the next battle our last.
-        PHEW_I_M_BEAT_ONE_MORE_BATTLE                                        = 6613,  -- Phew! I'm beat! One more battle?
-        WE_VE_PROVED_OURSELVES_IN_BATTLE_THIS_DAY_2                          = 6614,  -- We've proved ourselves in battle this day. Let us make the next opponent our last.
-        ONE_MORE_VICTORY_SHOULD_SATISFY_ME_FOR_THE                           = 6615,  -- One more victory should satisfy me for the day.
-        I_M_SOOO_TIRRRED                                                     = 6616,  -- I'm sooo tirrred...
-        ID_6617                                                              = 6617,  -- [/Getting rid of me already?/Are we done already!?/Are we done for the day?/Time to part ways?/Sending me on my way?/Are we done already!?/Time for goodbyes?/What? You want me to go?/Time to part ways?] [/Call if you need me./Call me again any time!/No problem. Until we meet again./Very well. Until we meet again./I'll be around if you need me./It's been fun!/Until next we meet./Make sure you keep in touch!/Very well. Until we meet again.]
-        GETTING_RID_OF_ME_ALREADY_CALL_IF_YOU                                = 6618,  -- Getting rid of me already? Call if you need me.
-        ARE_WE_DONE_ALREADY_CALL_ME_AGAIN_ANY                                = 6619,  -- Are we done already!? Call me again any time!
-        ARE_WE_DONE_FOR_THE_DAY_NO_PROBLEM                                   = 6620,  -- Are we done for the day? No problem. Until we meet again.
-        TIME_TO_PART_WAYS_VERY_WELL_UNTIL_WE                                 = 6621,  -- Time to part ways? Very well. Until we meet again.
-        ARE_WE_FINISHED_ALREADY_AWWW_CALL_ME_AGAIN                           = 6622,  -- Are we finished already? Awww... Call me again, okay?
-        HUH_PARTY_S_OVER_THAT_S_A_SHAME                                      = 6623,  -- Huh? Party's over? That's a shame... Let's do this again sometime!
-        OH_DO_YOU_HAVE_ENGAGEMENTS_ELSEWHERE_AS_YOU_2                        = 6624,  -- Oh? Do you have engagements elsewhere? As you wish. I shall be prepared for when you next call.
-        SENDING_ME_ON_MY_WAY_I_LL_BE                                         = 6625,  -- Sending me on my way? I'll be around if you need me.
-        ARE_WE_DONE_ALREADY_IT_S_BEEN_FUN                                    = 6626,  -- Are we done already!? It's been fun!
-        TIME_FOR_GOODBYES_UNTIL_NEXT_WE_MEET                                 = 6627,  -- Time for goodbyes? Until next we meet.
-        WHAT_YOU_WANT_ME_TO_GO_MAKE_SURE                                     = 6628,  -- What? You want me to go? Make sure you keep in touch!
-        TIME_TO_PART_WAYS_VERY_WELL_UNTIL_WE_2                               = 6629,  -- Time to part ways? Very well. Until we meet again.
-        I_COME_ALL_THE_WAY_HERE_AND_NOW_2                                    = 6630,  -- I come all the way here, and now you want me to leave? Hmph. Just don't let me catch you slacking off from your drills.
-        ALRRRIGHT_I_LL_SEE_YOU_LATER                                         = 6631,  -- Alrrright! I'll see you later.
-        YOU_ARE_UNABLE_TO_DISBAND_WITH_YOUR_FELLOW                           = 6632,  -- You are unable to disband with your fellow at this time.
-        ID_6633                                                              = 6633,  -- [/A parting gift!/Ha!/Back to the pit with you!/The tide of battle turns!/Your time is up!/Time for action!/This battle is ours!/Try this on for size!/The tide of battle turns!]
-        A_PARTING_GIFT                                                       = 6634,  -- A parting gift!
-        HA                                                                   = 6635,  -- Ha!
-        BACK_TO_THE_PIT_WITH_YOU                                             = 6636,  -- Back to the pit with you!
-        THE_TIDE_OF_BATTLE_TURNS                                             = 6637,  -- The tide of battle turns!
-        HOW_DO_YOU_LIKE_THIS                                                 = 6638,  -- How do you like this!?
-        I_SAVED_THIS_JUST_FOR_YOU                                            = 6639,  -- I saved this just for you!
-        I_BELIEVE_IT_IS_MY_TURN                                              = 6640,  -- I believe it is my turn!
-        YOUR_TIME_IS_UP                                                      = 6641,  -- Your time is up!
-        TIME_FOR_ACTION                                                      = 6642,  -- Time for action!
-        THIS_BATTLE_IS_OURS                                                  = 6643,  -- This battle is ours!
-        TRY_THIS_ON_FOR_SIZE                                                 = 6644,  -- Try this on for size!
-        THE_TIDE_OF_BATTLE_TURNS_2                                           = 6645,  -- The tide of battle turns!
-        TASTE_MY_WRATH                                                       = 6646,  -- Taste my wrath!
-        HISSS_SUPERRR_ATTACK                                                 = 6647,  -- Hisss! Superrr...attack!
-        ID_6648                                                              = 6648,  -- [/I'm ready to fight./I'm in top shape and ready to go!/We can start fighting any time./I'm prepared for battle./I'm ready to fight anytime./I'm good to go!/I'm ready when you are./I'm all healed up and ready to go!/I'm prepared for battle.]
-        I_M_READY_TO_FIGHT                                                   = 6649,  -- I'm ready to fight.
-        I_M_IN_TOP_SHAPE_AND_READY_TO                                        = 6650,  -- I'm in top shape and ready to go!
-        WE_CAN_START_FIGHTING_ANY_TIME                                       = 6651,  -- We can start fighting any time.
-        I_M_PREPARED_FOR_BATTLE                                              = 6652,  -- I'm prepared for battle.
-        I_FEEL_GOOD                                                          = 6653,  -- I feel good!
-        I_M_READY_TO_RUMBLE                                                  = 6654,  -- I'm ready to rumble!
-        FIT_AS_A_FIDDLE_AND_AT_YOUR_COMMAND                                  = 6655,  -- Fit as a fiddle, and at your command.
-        I_M_READY_TO_FIGHT_ANYTIME                                           = 6656,  -- I'm ready to fight anytime.
-        I_M_GOOD_TO_GO                                                       = 6657,  -- I'm good to go!
-        I_M_READY_WHEN_YOU_ARE                                               = 6658,  -- I'm ready when you are.
-        I_M_ALL_HEALED_UP_AND_READY_TO                                       = 6659,  -- I'm all healed up and ready to go!
-        I_M_PREPARED_FOR_BATTLE_2                                            = 6660,  -- I'm prepared for battle.
-        YOU_PRESUME_TO_BE_MY_GUARDIAN_I_SUGGEST                              = 6661,  -- You presume to be my guardian? I suggest you worry about yourself.
-        I_FEEL_GRRREAT_COME_ON_LET_ME_AT                                     = 6662,  -- I feel grrreat! Come on, let me at them!
-        ID_6663                                                              = 6663,  -- [/Don't worry about me./No problem!/Nothing to worry about./Don't hold back on my account./This little scratch?/This little scratch?/Nice of you to worry./No problem!/Don't hold back on my account.] [/It's just a scratch./This is just a scratch!/Just a scratch./This is a mere scratch./Pay it no mind./I've had bigger paper cuts!/But I'm fine, it's just a scratch./This little scratch won't slow me down!/This is a mere scratch.]
-        DON_T_WORRY_ABOUT_ME_IT_S_JUST                                       = 6664,  -- Don't worry about me. It's just a scratch.
-        NO_PROBLEM_THIS_IS_JUST_A_SCRATCH                                    = 6665,  -- No problem! This is just a scratch!
-        NOTHING_TO_WORRY_ABOUT_JUST_A_SCRATCH                                = 6666,  -- Nothing to worry about. Just a scratch.
-        DON_T_HOLD_BACK_ON_MY_ACCOUNT_THIS                                   = 6667,  -- Don't hold back on my account. This is a mere scratch.
-        I_M_FINE_NO_NEED_TO_WORRY_OKAY                                       = 6668,  -- I'm fine. No need to worry, okay?
-        THIS_AN_INJURY_PSSHAW                                                = 6669,  -- This? An injury? Psshaw!
-        THANK_YOU_FOR_ASKING_BUT_THIS_IS_NO                                  = 6670,  -- Thank you for asking, but this is no cause for concern.
-        THIS_LITTLE_SCRATCH_PAY_IT_NO_MIND                                   = 6671,  -- This little scratch? Pay it no mind.
-        THIS_LITTLE_SCRATCH_I_VE_HAD_BIGGER_PAPER                            = 6672,  -- This little scratch? I've had bigger paper cuts!
-        NICE_OF_YOU_TO_WORRY_BUT_I_M                                         = 6673,  -- Nice of you to worry. But I'm fine, it's just a scratch.
-        NO_PROBLEM_THIS_LITTLE_SCRATCH_WON_T_SLOW                            = 6674,  -- No problem! This little scratch won't slow me down!
-        DON_T_HOLD_BACK_ON_MY_ACCOUNT_THIS_2                                 = 6675,  -- Don't hold back on my account. This is a mere scratch.
-        I_WOULD_HARDLY_CALL_THIS_A_SCRATCH_DON                               = 6676,  -- I would hardly call this a scratch. Don't mind me, mind yourself.
-        AROUND_SEVEN_OUT_OF_NINE_LIVES_RRREMAINING                           = 6677,  -- Around seven out of nine lives rrremaining!
-        ID_6678                                                              = 6678,  -- [/I should probably rest a little more./I'm not gonna let a slight wound like this keep me down!/You might want to keep on eye on my health./Shouldn't we rest a little?/I'm a little tired./I'm still fairly fresh, but maybe we should rest a bit more./I'm a little tired./Can we take a break?/Shouldn't we rest a little?] [/ Just in case./ I'm ready for more!/ Better to be ready for anything./I question my ability to survive another battle./Maybe we should rest a bit./Then I'll be ready for anything!/Shall we rest for a bit?/I don't think I can handle another fight just yet./I question my ability to survive another battle.]
-        I_SHOULD_PROBABLY_REST_A_LITTLE_MORE_JUST                            = 6679,  -- I should probably rest a little more. Just in case.
-        I_M_NOT_GONNA_LET_A_SLIGHT_WOUND                                     = 6680,  -- I'm not gonna let a slight wound like this keep me down! I'm ready for more!
-        YOU_MIGHT_WANT_TO_KEEP_ON_EYE_ON                                     = 6681,  -- You might want to keep on eye on my health. Better to be ready for anything.
-        SHOULDN_T_WE_REST_A_LITTLE_I_QUESTION                                = 6682,  -- Shouldn't we rest a little? I question my ability to survive another battle.
-        I_M_FINE_REALLY                                                      = 6683,  -- I'm fine...really.
-        I_THINK_I_STILL_CAN_PUSH_ON_FOR                                      = 6684,  -- I think I still can push on for a while.
-        I_AM_NOT_IN_IMMEDIATE_DANGER_BUT_PREVENTION                          = 6685,  -- I am not in immediate danger, but prevention is better than cure. And cure is better than raise...
-        I_M_A_LITTLE_TIRED_MAYBE_WE_SHOULD                                   = 6686,  -- I'm a little tired. Maybe we should rest a bit.
-        I_M_STILL_FAIRLY_FRESH_BUT_MAYBE_WE                                  = 6687,  -- I'm still fairly fresh, but maybe we should rest a bit more. Then I'll be ready for anything!
-        I_M_A_LITTLE_TIRED_SHALL_WE_REST                                     = 6688,  -- I'm a little tired. Shall we rest for a bit?
-        CAN_WE_TAKE_A_BREAK_I_DON_T                                          = 6689,  -- Can we take a break? I don't think I can handle another fight just yet.
-        SHOULDN_T_WE_REST_A_LITTLE_I_QUESTION_2                              = 6690,  -- Shouldn't we rest a little? I question my ability to survive another battle.
-        HM_OUR_OPPONENTS_ARE_QUITE_DETERMINED_TO_MAKE                        = 6691,  -- Hm... Our opponents are quite determined to make us work.
-        AROUND_FIVE_OUT_OF_NINE_LIVES_RRREMAINING                            = 6692,  -- Around five out of nine lives rrremaining!
-        ID_6693                                                              = 6693,  -- [/We should really take a break./I feel a little...lightheaded./That last fight took it out of me./Let's take a break, shall we?/I'm exhausted./Phew!/I'm exhausted./Phew.../Let's take a break, shall we?] [/I'm not ready for another battle./Maybe we should take a break./Let me catch my breath./No sense rushing into battle in this condition./Can you give me a minute./I think I've earned a break, don't you?/Can we sit down...for a bit...?/I think I need to lie down.../No sense rushing into battle in this condition.]
-        WE_SHOULD_REALLY_TAKE_A_BREAK_I_M                                    = 6694,  -- We should really take a break. I'm not ready for another battle.
-        I_FEEL_A_LITTLE_LIGHTHEADED_MAYBE_WE_SHOULD                          = 6695,  -- I feel a little...lightheaded. Maybe we should take a break.
-        THAT_LAST_FIGHT_TOOK_IT_OUT_OF_ME                                    = 6696,  -- That last fight took it out of me. Let me catch my breath.
-        LET_S_TAKE_A_BREAK_SHALL_WE_NO                                       = 6697,  -- Let's take a break, shall we? No sense rushing into battle in this condition.
-        I_NEED_TO_TAKE_A_BREAK_SOON                                          = 6698,  -- I need to take a break soon.
-        HEY_HOW_ABOUT_TAKING_FIVE                                            = 6699,  -- Hey, how about taking five?
-        MIGHT_I_BE_SO_BOLD_AS_TO_SUGGEST                                     = 6700,  -- Might I be so bold as to suggest we rest?
-        I_M_EXHAUSTED_CAN_YOU_GIVE_ME_A                                      = 6701,  -- I'm exhausted. Can you give me a minute?
-        PHEW_I_THINK_I_VE_EARNED_A_BREAK                                     = 6702,  -- Phew! I think I've earned a break, don't you?
-        I_M_EXHAUSTED_CAN_WE_SIT_DOWN_FOR                                    = 6703,  -- I'm exhausted. Can we sit down...for a bit...?
-        PHEW_I_THINK_I_NEED_TO_LIE_DOWN                                      = 6704,  -- Phew... I think I need to lie down...
-        LET_S_TAKE_A_BREAK_SHALL_WE_NO_2                                     = 6705,  -- Let's take a break, shall we? No sense rushing into battle in this condition.
-        PUFF_TELL_ME_IF_YOU_FEEL_YOU_NEED                                    = 6706,  -- <Puff> Tell me if you feel...you need rest... <Pant> I mean it...
-        AROUND_THREE_OUT_OF_NINE_LIVES_RRREMAINING                           = 6707,  -- Around three out of nine lives rrremaining...
-        ID_6708                                                              = 6708,  -- [/We really should rest./No...no more.../Hold on.../I'm at my limit./Enough!/Whoa.../Please.../Can't...fight...any...longer.../I'm at my limit.] [/I don't think I can survive another fight./I gotta sit down.../I need to get my strength back.../Please let me recover my strength./Let me rest already!/I think I'm gonna fall over.../I need to sit down.../Must...rest.../Please let me recover my strength.]
-        WE_REALLY_SHOULD_REST_I_DON_T_THINK                                  = 6709,  -- We really should rest. I don't think I can survive another fight.
-        NO_NO_MORE_I_GOTTA_SIT_DOWN                                          = 6710,  -- No...no more... I gotta sit down...
-        HOLD_ON_I_NEED_TO_GET_MY_STRENGTH                                    = 6711,  -- Hold on... I need to get my strength back...
-        I_M_AT_MY_LIMIT_PLEASE_LET_ME                                        = 6712,  -- I'm at my limit. Please let me recover my strength.
-        I_CAN_T_GO_ON_YOU_HAVE_TO                                            = 6713,  -- I can't...go on. You have to let me rest...
-        UGH_IF_YOU_HADN_T_NOTICED_I_SERIOUSLY                                = 6714,  -- Ugh... If you hadn't noticed, I seriously need rest.
-        I_FEAR_THE_NEXT_BATTLE_MAY_BE_MY                                     = 6715,  -- I fear the next battle may be my last. I beseech you, please permit me to rest.
-        ENOUGH_LET_ME_REST_ALREADY                                           = 6716,  -- Enough! Let me rest already!
-        WHOA_I_THINK_I_M_GONNA_FALL_OVER                                     = 6717,  -- Whoa... I think I'm gonna fall over...
-        PLEASE_I_NEED_TO_SIT_DOWN                                            = 6718,  -- Please... I need to sit down...
-        CAN_T_FIGHT_ANY_LONGER_MUST_REST                                     = 6719,  -- Can't...fight...any...longer... Must...rest...
-        I_M_AT_MY_LIMIT_PLEASE_LET_ME_2                                      = 6720,  -- I'm at my limit. Please let me recover my strength.
-        THE_ENEMY_ISN_T_GOING_ANYWHERE_WITHDRAW_AND                          = 6721,  -- The enemy isn't going anywhere. Withdraw and regroup!
-        I_M_ALMOST_OUT_OF_LIVES_MEOW                                         = 6722,  -- I'm almost out of lives. Meow...
-        ID_6723                                                              = 6723,  -- [/No need to worry about my magic, I have plenty./My magic reserves are full!/My magic has recovered./My magical reserves have recovered./My magic is restored./My magic status is A-OK!/My magical reserves are full./Magic-wise, I'm good to go!/My magical reserves have recovered.]
-        NO_NEED_TO_WORRY_ABOUT_MY_MAGIC_I                                    = 6724,  -- No need to worry about my magic, I have plenty.
-        MY_MAGIC_RESERVES_ARE_FULL                                           = 6725,  -- My magic reserves are full!
-        MY_MAGIC_HAS_RECOVERED                                               = 6726,  -- My magic has recovered.
-        MY_MAGICAL_RESERVES_HAVE_RECOVERED                                   = 6727,  -- My magical reserves have recovered.
-        MY_MAGIC_FULL_TO_THE_BRIM                                            = 6728,  -- My magic? Full to the brim!
-        I_VE_GOT_MAGIC_TO_BURN                                               = 6729,  -- I've got magic to burn!
-        I_AM_OVERFLOWING_WITH_MAGIC                                          = 6730,  -- I am overflowing with magic.
-        MY_MAGIC_IS_RESTORED                                                 = 6731,  -- My magic is restored.
-        MY_MAGIC_STATUS_IS_A_OK                                              = 6732,  -- My magic status is A-OK!
-        MY_MAGICAL_RESERVES_ARE_FULL                                         = 6733,  -- My magical reserves are full.
-        MAGIC_WISE_I_M_GOOD_TO_GO                                            = 6734,  -- Magic-wise, I'm good to go!
-        MY_MAGICAL_RESERVES_HAVE_RECOVERED_2                                 = 6735,  -- My magical reserves have recovered.
-        I_HAVE_MORE_THAN_ENOUGH_MAGIC                                        = 6736,  -- I have more than enough magic.
-        I_HAVE_A_FULL_TANK_OF_MAGIC                                          = 6737,  -- I have a full tank of magic!
-        ID_6738                                                              = 6738,  -- [/Hmm./Let's see now./My magic?/My magical reserves?/Are you relying on my magic?/I still have lots of magic left!/My magic?/Hmmm./My magical reserves?] [/Better keep an eye on my magic reserves./I think my magic is about half gone./It might be time to rest soon./Depleted to about the halfway mark./If so, we may need to rest soon./Well, maybe half.../It might be time to keep an eye on my reserves./I've used up half my magic already.../Depleted to about the halfway mark.]
-        HMM_BETTER_KEEP_AN_EYE_ON_MY_MAGIC                                   = 6739,  -- Hmm. Better keep an eye on my magic reserves.
-        LET_S_SEE_NOW_I_THINK_MY_MAGIC                                       = 6740,  -- Let's see now. I think my magic is about half gone.
-        MY_MAGIC_IT_MIGHT_BE_TIME_TO_REST                                    = 6741,  -- My magic? It might be time to rest soon.
-        MY_MAGICAL_RESERVES_DEPLETED_TO_ABOUT_THE_HALFWAY                    = 6742,  -- My magical reserves? Depleted to about the halfway mark.
-        I_HAVE_AROUND_HALF_OF_MY_MAGIC_LEFT                                  = 6743,  -- I have around half of my magic left.
-        MY_MAGIC_IS_GOOD_FOR_A_WHILE_YET                                     = 6744,  -- My magic is good for a while yet.
-        MY_MAGICAL_RESERVES_SHOULD_SUFFICE_FOR_NOW_BUT                       = 6745,  -- My magical reserves should suffice for now, but we best avoid taking unnecessary risks.
-        ARE_YOU_RELYING_ON_MY_MAGIC_IF_SO                                    = 6746,  -- Are you relying on my magic? If so, we may need to rest soon.
-        I_STILL_HAVE_LOTS_OF_MAGIC_LEFT_WELL                                 = 6747,  -- I still have lots of magic left! Well, maybe half...
-        MY_MAGIC_IT_MIGHT_BE_TIME_TO_KEEP                                    = 6748,  -- My magic? It might be time to keep an eye on my reserves.
-        HMMM_I_VE_USED_UP_HALF_MY_MAGIC                                      = 6749,  -- Hmmm. I've used up half my magic already...
-        MY_MAGICAL_RESERVES_DEPLETED_TO_ABOUT_THE_HALFWAY_2                  = 6750,  -- My magical reserves? Depleted to about the halfway mark.
-        MY_MAGICAL_RESERVES_DON_T_REQUIRE_YOUR_SYMPATHY                      = 6751,  -- My magical reserves don't require your sympathy just yet.
-        I_VE_USED_UP_ARRROUND_HALF_MY_MAGIC                                  = 6752,  -- I've used up arrround half my magic.
-        ID_6753                                                              = 6753,  -- [/My magic is running low.../I've almost run out of magic!/My magic is almost gone./My magical reserves are running low./I'm almost out of magic./Almost out of magic!/My magic is running low./Where'd all my magic go!?/My magical reserves are running low.]
-        MY_MAGIC_IS_RUNNING_LOW_2                                            = 6754,  -- My magic is running low...
-        I_VE_ALMOST_RUN_OUT_OF_MAGIC                                         = 6755,  -- I've almost run out of magic!
-        MY_MAGIC_IS_ALMOST_GONE                                              = 6756,  -- My magic is almost gone.
-        MY_MAGICAL_RESERVES_ARE_RUNNING_LOW                                  = 6757,  -- My magical reserves are running low.
-        NOOO_I_M_ALMOST_OUT_OF_MAGIC_2                                       = 6758,  -- Nooo... I'm almost out of magic...
-        MAGIC_I_M_SCRAPING_THE_BOTTOM_OF_THE                                 = 6759,  -- Magic? I'm scraping the bottom of the barrel here...
-        MY_MAGICAL_RESERVES_ARE_NEARING_DEPLETION                            = 6760,  -- My magical reserves are nearing depletion.
-        I_M_ALMOST_OUT_OF_MAGIC                                              = 6761,  -- I'm almost out of magic.
-        ALMOST_OUT_OF_MAGIC                                                  = 6762,  -- Almost out of magic!
-        MY_MAGIC_IS_RUNNING_LOW_3                                            = 6763,  -- My magic is running low.
-        WHERE_D_ALL_MY_MAGIC_GO                                              = 6764,  -- Where'd all my magic go!?
-        MY_MAGICAL_RESERVES_ARE_RUNNING_LOW_2                                = 6765,  -- My magical reserves are running low.
-        MY_MAGIC_WILL_NO_LONGER_BE_OF_MUCH                                   = 6766,  -- My magic will no longer be of much aid. Stay sharp!
-        MY_MAGIC_IT_S_ALL_GONE                                               = 6767,  -- My magic...it's all gone!
-        ID_6768                                                              = 6768,  -- [/I've just recently gained a level./I've just gained a level./Take it easy./I have recently risen in level./I've just gained a level./I just gained a level!/Little time has passed since I last gained a level./I've just gained a level, I know./I have recently risen in level.] [/There's still a lot of work to be done until the next one./I'm itching to get out and test my newfound strength!/I've just gained a level./The next level is still quite some distance away./The next level is still quite a way off./You can't expect me to level again any time soon!/The next level is still some distance away./But I still can't wait until I go up again!/The next level is still quite some distance away.]
-        I_VE_JUST_RECENTLY_GAINED_A_LEVEL_THERE                              = 6769,  -- I've just recently gained a level. There's still a lot of work to be done until the next one.
-        I_VE_JUST_GAINED_A_LEVEL_I_M                                         = 6770,  -- I've just gained a level. I'm itching to get out and test my newfound strength!
-        TAKE_IT_EASY_I_VE_JUST_GAINED_A                                      = 6771,  -- Take it easy. I've just gained a level.
-        I_HAVE_RECENTLY_RISEN_IN_LEVEL_THE_NEXT                              = 6772,  -- I have recently risen in level. The next level is still quite some distance away.
-        I_VE_JUST_LEVELED_UP_BUT_WITH_YOUR                                   = 6773,  -- I've just leveled up, but with your help, it'll take no time at all to get to the next level!
-        HEY_I_JUST_LEVELED_UP_DIDN_T_I                                       = 6774,  -- Hey, I just leveled up, didn't I? Easy on the expectations there, partner.
-        SINCE_I_HAVE_JUST_GAINED_A_LEVEL_IT                                  = 6775,  -- Since I have just gained a level, it will be quite some time until I reach the next. Sorry to disappoint you, sir/milady].
-        I_VE_JUST_GAINED_A_LEVEL_THE_NEXT                                    = 6776,  -- I've just gained a level. The next level is still quite a way off.
-        I_JUST_GAINED_A_LEVEL_YOU_CAN_T                                      = 6777,  -- I just gained a level! You can't expect me to level again any time soon!
-        LITTLE_TIME_HAS_PASSED_SINCE_I_LAST_GAINED                           = 6778,  -- Little time has passed since I last gained a level. The next level is still some distance away.
-        I_VE_JUST_GAINED_A_LEVEL_I_KNOW                                      = 6779,  -- I've just gained a level, I know. But I still can't wait until I go up again!
-        I_HAVE_RECENTLY_RISEN_IN_LEVEL_THE_NEXT_2                            = 6780,  -- I have recently risen in level. The next level is still quite some distance away.
-        I_JUST_LEVELED_UP_WE_LL_HAVE_TO                                      = 6781,  -- I just leveled up! We'll have to do something about your memory problem.
-        IT_S_SO_FARRR_AWAY                                                   = 6782,  -- It's so farrr away...
-        ID_6783                                                              = 6783,  -- [/My experience is still shallow./I have lots of work to do!/Not even close.../There is still much work to be done./Not even close.../I have lots of work to do!/I still have much to do./Ho-hum./There is still much work to be done.] [/I have much work to do./I need more experience if I'm gonna get stronger!/I still have much experience to gain./I must gain more experience if I am to become stronger./I still have much experience to gain./I need more experience if I'm gonna get stronger!/I must gain more experience in order to grow stronger./Still lots of work to do until my next level!/I must gain more experience if I am to become stronger.]
-        MY_EXPERIENCE_IS_STILL_SHALLOW_I_HAVE_MUCH                           = 6784,  -- My experience is still shallow. I have much work to do.
-        I_HAVE_LOTS_OF_WORK_TO_DO_I                                          = 6785,  -- I have lots of work to do! I need more experience if I'm gonna get stronger!
-        NOT_EVEN_CLOSE_I_STILL_HAVE_MUCH_EXPERIENCE                          = 6786,  -- Not even close... I still have much experience to gain.
-        THERE_IS_STILL_MUCH_WORK_TO_BE_DONE                                  = 6787,  -- There is still much work to be done. I must gain more experience if I am to become stronger.
-        I_STILL_HAVE_TO_GAIN_LOTS_MORE_EXPERIENCE                            = 6788,  -- I still have to gain lots more experience, but I'll do my best!
-        MY_NEXT_LEVEL_IS_STILL_AGES_AWAY_WHY                                 = 6789,  -- My next level is still ages away. Why hurry? Don't worry, be happy!
-        I_HAVE_MADE_SOME_PROGRESS_BUT_THE_NEXT                               = 6790,  -- I have made some progress, but the next level still eludes me.
-        NOT_EVEN_CLOSE_I_STILL_HAVE_MUCH_EXPERIENCE_2                        = 6791,  -- Not even close... I still have much experience to gain.
-        I_HAVE_LOTS_OF_WORK_TO_DO_I_2                                        = 6792,  -- I have lots of work to do! I need more experience if I'm gonna get stronger!
-        I_STILL_HAVE_MUCH_TO_DO_I_MUST                                       = 6793,  -- I still have much to do. I must gain more experience in order to grow stronger.
-        HO_HUM_STILL_LOTS_OF_WORK_TO_DO                                      = 6794,  -- Ho-hum. Still lots of work to do until my next level!
-        THERE_IS_STILL_MUCH_WORK_TO_BE_DONE_2                                = 6795,  -- There is still much work to be done. I must gain more experience if I am to become stronger.
-        MY_LEVEL_WON_T_RISE_IF_WE_STAND                                      = 6796,  -- My level won't rise if we stand around talking like this!
-        NO_DON_T_RRREMIND_ME_SUCH_A_LONG                                     = 6797,  -- No, don't rrremind me! Such a long way to go...
-        ID_6798                                                              = 6798,  -- [/I've gained a fair amount of experience./I think I must be almost halfway to my next level./Hmm./I believe I've almost reached the halfway point to my next level./I do believe I'm coming up on halfway to my next level./I think I must be almost halfway to my next level./I've come a long way towards my next level./We've been busy, huh?/I believe I've almost reached the halfway point to my next level.] [/I must be close to halfway to my next level by now./Can't slow down now!/I must be almost halfway to my next level by now./Let's not rest on our laurels, however!/That was much faster than I expected./No time to be slacking off!/Must be close to halfway by now./I think I'm almost halfway to my next level./Let's not rest on our laurels, however!]
-        I_VE_GAINED_A_FAIR_AMOUNT_OF_EXPERIENCE                              = 6799,  -- I've gained a fair amount of experience. I must be close to halfway to my next level by now.
-        I_THINK_I_MUST_BE_ALMOST_HALFWAY_TO                                  = 6800,  -- I think I must be almost halfway to my next level. Can't slow down now!
-        HMM_I_MUST_BE_ALMOST_HALFWAY_TO_MY                                   = 6801,  -- Hmm. I must be almost halfway to my next level by now.
-        I_BELIEVE_I_VE_ALMOST_REACHED_THE_HALFWAY                            = 6802,  -- I believe I've almost reached the halfway point to my next level. Let's not rest on our laurels, however!
-        I_THINK_I_M_ABOUT_HALF_WAY_THERE                                     = 6803,  -- I think I'm about half way there...
-        I_M_HALF_WAY_THERE_SO_LET_S                                          = 6804,  -- I'm half way there, so let's keep up the pace!
-        THROUGH_SUSTAINED_EFFORT_AND_YOUR_INVALUABLE_ASSISTANCE_I            = 6805,  -- Through sustained effort and your invaluable assistance, I believe I now stand at the halfway point.
-        I_DO_BELIEVE_I_M_COMING_UP_ON                                        = 6806,  -- I do believe I'm coming up on halfway to my next level. That was much faster than I expected.
-        I_THINK_I_MUST_BE_ALMOST_HALFWAY_TO_2                                = 6807,  -- I think I must be almost halfway to my next level. No time to be slacking off!
-        I_VE_COME_A_LONG_WAY_TOWARDS_MY                                      = 6808,  -- I've come a long way towards my next level. Must be close to halfway by now.
-        WE_VE_BEEN_BUSY_HUH_I_THINK_I                                        = 6809,  -- We've been busy, huh? I think I'm almost halfway to my next level.
-        I_BELIEVE_I_VE_ALMOST_REACHED_THE_HALFWAY_2                          = 6810,  -- I believe I've almost reached the halfway point to my next level. Let's not rest on our laurels, however!
-        I_STILL_HAVEN_T_ACQUIRED_ENOUGH_EXPERIENCE_ABOUT                     = 6811,  -- I still haven't acquired enough experience. About double what I have now should be sufficient for the next level.
-        I_M_HALFWAY_THERE_MAYBE                                              = 6812,  -- I'm halfway there...maybe?
-        ID_6813                                                              = 6813,  -- [/Hmm./This is a good pace!/Hmm./Well, well./Just a little more./Come on!/I'm past the halfway point./Just a little more!/Well, well.] [/Not too much further to my next level./Not much more to my next level!/Still need a little more experience for my next level./It appears my next level is not far off at all./My next level is not too far away./I need to gain a little more experience for my next level!/Not long now until I gain another level./My next level is almost within sight!/It appears my next level is not far off at all.]
-        HMM_NOT_TOO_MUCH_FURTHER_TO_MY_NEXT                                  = 6814,  -- Hmm. Not too much further to my next level.
-        THIS_IS_A_GOOD_PACE_NOT_MUCH_MORE                                    = 6815,  -- This is a good pace! Not much more to my next level!
-        HMM_STILL_NEED_A_LITTLE_MORE_EXPERIENCE_FOR                          = 6816,  -- Hmm. Still need a little more experience for my next level.
-        WELL_WELL_IT_APPEARS_MY_NEXT_LEVEL_IS                                = 6817,  -- Well, well. It appears my next level is not far off at all.
-        I_M_SLOWLY_GETTING_CLOSER_TO_THE_NEXT                                = 6818,  -- I'm slowly getting closer to the next level.
-        I_RECKON_I_M_FAIRLY_CLOSE_TO_THE                                     = 6819,  -- I reckon I'm fairly close to the next level.
-        MY_NEXT_LEVEL_IS_NOW_VISIBLE_ON_THE                                  = 6820,  -- My next level is now visible on the horizon.
-        JUST_A_LITTLE_MORE_MY_NEXT_LEVEL_IS                                  = 6821,  -- Just a little more. My next level is not too far away.
-        COME_ON_I_NEED_TO_GAIN_A_LITTLE                                      = 6822,  -- Come on! I need to gain a little more experience for my next level!
-        I_M_PAST_THE_HALFWAY_POINT_NOT_LONG                                  = 6823,  -- I'm past the halfway point. Not long now until I gain another level.
-        JUST_A_LITTLE_MORE_MY_NEXT_LEVEL_IS_2                                = 6824,  -- Just a little more! My next level is almost within sight!
-        WELL_WELL_IT_APPEARS_MY_NEXT_LEVEL_IS_2                              = 6825,  -- Well, well. It appears my next level is not far off at all.
-        MY_NEXT_LEVEL_DRAWS_EVER_NEARER_BUT_THAT                             = 6826,  -- My next level draws ever nearer. But that doesn't mean you can slack off.
-        IT_CAN_T_BE_SO_FAR_OFF_NOW                                           = 6827,  -- It can't be so far off, now...can it?
-        ID_6828                                                              = 6828,  -- [/Hmm./I'm almost there./Not long now./Any time now./Well, what do you know?/Woohoo!/This is encouraging./I love this time!/Any time now.] [/I should be gaining a level soon./I can almost taste my next level!/My next level is just around the corner./My next level is very close, indeed./I think I'll be gaining a level soon./I'll be leveling up really soon!/I should be gaining a level any time now./I'm on the final stretch towards my next level!/My next level is very close, indeed.]
-        HMM_I_SHOULD_BE_GAINING_A_LEVEL_SOON                                 = 6829,  -- Hmm. I should be gaining a level soon.
-        I_M_ALMOST_THERE_I_CAN_ALMOST_TASTE                                  = 6830,  -- I'm almost there! I can almost taste my next level!
-        NOT_LONG_NOW_MY_NEXT_LEVEL_IS_JUST                                   = 6831,  -- Not long now. My next level is just around the corner.
-        ANY_TIME_NOW_MY_NEXT_LEVEL_IS_VERY                                   = 6832,  -- Any time now. My next level is very close, indeed.
-        I_THINK_I_LL_LEVEL_UP_ANY_TIME                                       = 6833,  -- I think I'll level up any time now! Yay!
-        OOH_THE_NEXT_LEVEL_S_CLOSE_REALLY_CLOSE                              = 6834,  -- Ooh, the next level's close...really close. We should prepare to celebrate!
-        WHY_I_WOULD_NOT_BE_SURPRISED_IF_MY                                   = 6835,  -- Why, I would not be surprised if my level were to rise...now! Er...perhaps not quite yet.
-        WELL_WHAT_DO_YOU_KNOW_I_THINK_I                                      = 6836,  -- Well, what do you know? I think I'll be gaining a level soon.
-        WOOHOO_I_LL_BE_LEVELING_UP_REALLY_SOON                               = 6837,  -- Woohoo! I'll be leveling up really soon!
-        THIS_IS_ENCOURAGING_I_SHOULD_BE_GAINING_A                            = 6838,  -- This is encouraging. I should be gaining a level any time now.
-        I_LOVE_THIS_TIME_I_M_ON_THE                                          = 6839,  -- I love this time! I'm on the final stretch towards my next level!
-        ANY_TIME_NOW_MY_NEXT_LEVEL_IS_VERY_2                                 = 6840,  -- Any time now. My next level is very close, indeed.
-        MY_NEXT_LEVEL_IS_WITHIN_REACHING_DISTANCE_FROM                       = 6841,  -- My next level is within reaching distance! From now it's a charge to the finish line!
-        SNIFF_SNIFF_I_THINK_I_CAN_SMELL_MY                                   = 6842,  -- <Sniff, sniff> I think I can smell my next level! Come out, come out, whereverrr you are!
-        I_TELL_YOU_WHAT_CHANGING_YOUR_WEAPON_IS                              = 6843,  -- I tell you what. Changing your weapon is fun. Seriously.
-        IT_S_ALWAYS_NICE_TO_COME_OUTSIDE_AND                                 = 6844,  -- It's always nice to come outside and move around! Those Mog Houses can get so stuffy! Wanna race?
-        WE_SHOULD_KEEP_THE_CHAT_DOWN_THE_SOUND                               = 6845,  -- ... We should keep the chat down. The sound could give our position away to some beastman...
-        IT_S_ALL_VERY_WELL_AND_GOOD_TO                                       = 6846,  -- It's all very well and good to be heroic. But it's best not to overstretch yourself during battle. Overcautious? Perhaps.
-        WH_WHAT_Y_YOU_SAY_YOU_WANT_TO                                        = 6847,  -- Wh-what? Y...you say you want to have a conversation? Um, here goes... Er...nice weather, isn't it...?
-        YOU_KNOW_WE_VE_BEEN_ADVENTURING_TOGETHER_FOR                         = 6848,  -- You know, we've been adventuring together for a while now, but we still have lots to learn about each other.
-        YOU_CALLED_HOW_MAY_I_BE_OF_SERVICE                                   = 6849,  -- You called? How may I be of service? You need but ask, and it shall be done!
-        I_LOVE_TO_CHAT_BUT_WE_SHOULD_KEEP                                    = 6850,  -- I love to chat. But we should keep an eye out for wandering monsters. Just in case.
-        TREASURE_I_M_NOT_REALLY_INTERESTED_YOU_GO                            = 6851,  -- Treasure? I'm not really interested. You go ahead and keep it all.
-        I_JUST_REALIZED_SOMETHING_I_VE_NEVER_ONCE                            = 6852,  -- I just realized something. I've never once had Signet cast on me. Oh well, never mind...
-        COMMUNICATION_IS_REALLY_IMPORTANT_WE_SHOULD_ALWAYS_LET               = 6853,  -- Communication is really important. We should always let each other know what we're thinking, right? No secrets!
-        IT_S_ALL_VERY_WELL_AND_GOOD_TO_2                                     = 6854,  -- It's all very well and good to be heroic. But it's best not to overstretch yourself during battle. Overcautious? Perhaps.
-        THERE_IS_A_TIME_AND_PLACE_FOR_IDLE                                   = 6855,  -- There is a time and place for idle chatter. No, I stand corrected: There is no time nor place for idle chatter.
-        SHE_FLOATS_LIKE_A_BUTTERFLY_AND_STINGS_LIKE                          = 6856,  -- She floats like a butterfly and stings like a bee.t The grrreatest Mithra in the world--that's me!t
-        FIGHT_OR_EVADE_I_LL_LEAVE_THOSE_DECISIONS                            = 6857,  -- Fight or evade? I'll leave those decisions up to you. Either is fine with me.
-        BATTLE_STRATEGY_WE_SHOULD_WORK_TOGETHER_YOU_KNOW                     = 6858,  -- Battle strategy! We should work together, you know. I know some great weapon skills!
-        NO_NEED_TO_WORRY_I_VE_HAD_TRAINING                                   = 6859,  -- No need to worry. I've had training in all sorts of weapons. Try me.
-        LOOK_AT_THE_TIME_WE_COULD_SPEND_ALL                                  = 6860,  -- Look at the time. We could spend all day chatting like this. Not that we have to be fighting...
-        S_SORRY_BUT_I_COULDN_T_THINK_OF                                      = 6861,  -- ...... S-sorry, but I couldn't think of anything to say. I'm not very good at conversation and stuff...
-        SEEMS_TO_ME_ALL_WE_DO_IS_FIGHT                                       = 6862,  -- Seems to me all we do is fight, fight, and fight. Next time we should do something different--something fun!
-        WHILE_YOUR_BATTLE_PROWESS_IS_BEYOND_CRITICISM_THE                    = 6863,  -- While your battle prowess is beyond criticism, the ability to gracefully wield knife and fork at the dining table must not be underestimated. Might I be so bold as to suggest spending more time mastering table manners?
-        IT_S_SURPRISING_THERE_S_SO_MUCH_BEAUTY                               = 6864,  -- It's surprising. There's so much beauty to be found outside the city walls. I spend too much time in clothes stores.
-        LISTEN_LET_ME_KNOW_IF_YOU_WANT_ME                                    = 6865,  -- Listen. Let me know if you want me to take the heat. I can take it!
-        I_LIKE_THE_OUTDOORS_AWAY_FROM_THE_HUSTLE                             = 6866,  -- I like the outdoors. Away from the hustle and bustle of the towns. So relaxing...
-        HEY_IT_S_REALLY_A_LOT_OF_FUN                                         = 6867,  -- Hey! It's really a lot of fun adventuring with you. We get to see all kinds of things!
-        LOOK_AT_THE_TIME_WE_COULD_SPEND_ALL_2                                = 6868,  -- Look at the time. We could spend all day chatting like this. Not that we have to be fighting...
-        IF_I_WANTED_TO_ENGAGE_IN_PETTY_CONVERSATION                          = 6869,  -- If I wanted to engage in petty conversation, I'd ask for it!
-        HEAL_THE_WORRRLD_T_MAKE_IT_A_BETTER                                  = 6870,  -- Heal the worrrld.t Make it a better place.t For you and for me, and the entire Mithran rrrace.t
-        IS_THAT_A_YAWN_BE_CAREFUL_TO_GET                                     = 6871,  -- Is that a yawn? Be careful to get enough sleep. It could affect your performance in battle.
-        YOU_KNOW_ME_I_CAN_TAKE_THE_HITS                                      = 6872,  -- You know me! I can take the hits. Just bring it on!
-        SOMETIMES_I_JUST_LIKE_TO_BE_QUIET                                    = 6873,  -- ... Sometimes... I just like to be quiet...
-        A_SMALL_REMINDER_WE_SHOULD_BE_EXTRA_CAREFUL                          = 6874,  -- A small reminder: We should be extra careful out here. You never know when an enemy may be near...
-        UM_I_VE_BEEN_MEANING_TO_ASK_I                                        = 6875,  -- Um... I've been meaning to ask, I mean... I hope you don't mind me asking, but...uh... Nevermind... <Sigh>
-        YOU_KNOW_IT_S_KIND_OF_EMBARRASSING_WE                                = 6876,  -- You know, it's kind of embarrassing we have exactly the same pearl, don't you think?
-        NOTHING_GRANTS_ME_GREATER_HAPPINESS_THAN_BEING_ABLE                  = 6877,  -- Nothing grants me greater happiness than being able to stand at your side, come what may.
-        BY_THE_WAY_YOU_DON_T_HAVE_TO                                         = 6878,  -- By the way. You don't have to handle everything yourself. I can take the frontline sometimes, too.
-        AH_THIS_IS_FUN_I_LOVE_VISITING_DIFFERENT                             = 6879,  -- Ah, this is fun! I love visiting different places. Don't you?
-        BY_THE_WAY_I_LL_BE_THERE_FOR                                         = 6880,  -- By the way. I'll be there for you, no matter what. Even if your opponent seems too weak to be worthwhile.
-        YOU_NEVER_KNOW_WHEN_SOMETHING_BAD_IS_GOING                           = 6881,  -- You never know when something bad is going to happen. What's that over there!? Kidding!
-        A_SMALL_REMINDER_WE_SHOULD_BE_EXTRA_CAREFUL_2                        = 6882,  -- A small reminder: We should be extra careful out here. You never know when an enemy may be near...
-        YOUR_CURIOSITY_AND_PERSISTENCE_WILL_TAKE_YOU_A                       = 6883,  -- Your curiosity and persistence will take you a long way. But it can be irritating, so don't overdo it.
-        HUH_WHAT_IS_THIS_PLACE_WHY_AM_I                                      = 6884,  -- Huh...? What is this place? Why am I here? I was supposed to be--ow! My head hurrrts...
-        ID_6885                                                              = 6885,  -- [/Ready?/Keep your eyes open!/I see an opening./Are you ready?/I'm warmed up now./Don't blink now!/Are you ready?/Alrighty!/Are you ready?] [/I'm taking my shot!/You don't wanna miss this!/Get ready to follow up./I'm beginning my attack!/Time for a real attack!/Follow my lead!/I'm taking my shot!/Here goes nothing!/I'm beginning my attack!]
-        READY_I_M_TAKING_MY_SHOT                                             = 6886,  -- Ready? I'm taking my shot!
-        KEEP_YOUR_EYES_OPEN_YOU_DON_T_WANNA                                  = 6887,  -- Keep your eyes open! You don't wanna miss this!
-        I_SEE_AN_OPENING_GET_READY_TO_FOLLOW                                 = 6888,  -- I see an opening. Get ready to follow up.
-        ARE_YOU_READY_I_M_BEGINNING_MY_ATTACK                                = 6889,  -- Are you ready? I'm beginning my attack!
-        I_M_GOING_TO_ATTACK_ARE_YOU_READY                                    = 6890,  -- I'm going to attack! Are you ready?
-        KEEP_YOUR_EYES_PEELED_I_M_GOING_IN                                   = 6891,  -- Keep your eyes peeled! I'm going in for the big one!
-        ARE_PREPARATIONS_IN_ORDER_SIR_MILADY_THEN_I                          = 6892,  -- Are preparations in order, sir/milady]? Then, I shall proceed with my offensive.
-        I_M_WARMED_UP_NOW_TIME_FOR_A                                         = 6893,  -- I'm warmed up now. Time for a real attack!
-        DON_T_BLINK_NOW_FOLLOW_MY_LEAD                                       = 6894,  -- Don't blink now! Follow my lead!
-        ARE_YOU_READY_I_M_TAKING_MY_SHOT                                     = 6895,  -- Are you ready? I'm taking my shot!
-        ALRIGHTY_HERE_GOES_NOTHING                                           = 6896,  -- Alrighty! Here goes nothing!
-        ARE_YOU_READY_I_M_BEGINNING_MY_ATTACK_2                              = 6897,  -- Are you ready? I'm beginning my attack!
-        I_M_GOING_IN_SO_GET_READY_NO                                         = 6898,  -- I'm going in, so get ready! No slipping up!
-        IT_S_MY_TURRRN_GET_READY_TO_POUNCE                                   = 6899,  -- It's my turrrn! Get ready to pounce after me!
-        BLESSED_RADIANCE_PURGE_THIS_EVIL_WITH_YOUR_PURIFYING                 = 6900,  -- Blessed radiance! Purge this evil with your purifying light!
-        BLESSED_RADIANCE_GRANT_ME_YOUR_POWER                                 = 6901,  -- Blessed radiance! Grant me your power!
-        BLESSED_RADIANCE_STRIKE_DOWN_THIS_EVIL_WITH_BLADES                   = 6902,  -- Blessed radiance! Strike down this evil with blades of cleansing incandescence!
-        BLESSED_RADIANCE_LEND_ME_THE_STRENGTH_TO_DEFEAT                      = 6903,  -- Blessed radiance! Lend me the strength to defeat this evil!
-        BLESSED_RADIANCE_LEND_ME_YOUR_POWER                                  = 6904,  -- Blessed radiance! Lend me your power!
-        BLESSED_RADIANCE_SMITE_THIS_EVIL_WITH_YOUR_PURIFYING                 = 6905,  -- Blessed radiance! Smite this evil with your purifying light!
-        BLESSED_RADIANCE_I_HUMBLY_CALL_UPON_THEE_PROTECT                     = 6906,  -- Blessed radiance! I humbly call upon thee! Protect us with your divine light!
-        BLESSED_RADIANCE_PURGE_THIS_EVIL_WITH_YOUR_PURIFYING_2               = 6907,  -- Blessed radiance! Purge this evil with your purifying light!
-        BLESSED_RADIANCE_GRANT_ME_YOUR_POWER_2                               = 6908,  -- Blessed radiance! Grant me your power!
-        BLESSED_RADIANCE_STRIKE_DOWN_THIS_EVIL_WITH_BLADES_2                 = 6909,  -- Blessed radiance! Strike down this evil with blades of cleansing incandescence!
-        BLESSED_RADIANCE_GRANT_ME_YOUR_POWER_3                               = 6910,  -- Blessed radiance! Grant me your power!
-        BLESSED_RADIANCE_LEND_ME_THE_STRENGTH_TO_DEFEAT_2                    = 6911,  -- Blessed radiance! Lend me the strength to defeat this evil!
-        BLESSED_RADIANCE_STRIKE_DOWN_THIS_EVIL_WITH_YOUR                     = 6912,  -- Blessed radiance! Strike down this evil with your divine beam of judgment!
-        BLESSED_RRRADIANCE_GO_FORTH_AND_ZAP_THAT_EVIL                        = 6913,  -- Blessed rrradiance! Go forth and...zap that evil thing...over there! Meow!
-        DEFEATED_ENEMIES_THAT_WAS_NUMBER                                     = 6914,  -- Defeated enemies? That was number #.
-        SO_FAR_WE_VE_ONLY_TAKEN_DOWN_TODAY                                   = 6915,  -- So far, we've only taken down # [enemy/enemies] today!
-        HOW_MANY_ENEMIES_HAVE_WE_DEFEATED_ONLY_YOU                           = 6916,  -- How many enemies have we defeated? Only #. You can count that high, right...?
-        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED                               = 6917,  -- You wish to know the tally of defeated enemies? Why, we have only vanquished # [foe/foes] so far.
-        WE_HAVEN_T_DEFEATED_MANY_ENEMIES_YET_ONLY                            = 6918,  -- We haven't defeated many enemies yet. Only # so far.
-        WE_VE_ONLY_DEFEATED_SO_FAR_NOTHING_TO                                = 6919,  -- We've only defeated # [enemy/enemies] so far. Nothing to write home about.
-        OUR_PROGRESS_SIR_MILADY_THE_LAST_FOE_BESTED                          = 6920,  -- Our progress, sir/milady]? The last foe bested brings today's tally to # [enemy/enemies].
-        WE_VE_ONLY_BEATEN_SO_FAR_DON_T                                       = 6921,  -- We've only beaten # [enemy/enemies] so far. Don't tell me you're tired already!?
-        ONLY_FALLEN_TO_US_TODAY_WE_RE_JUST                                   = 6922,  -- Only # [enemy has/enemies have] fallen to us today! We're just getting started!
-        THE_LAST_ENEMY_WE_DEFEATED_WAS_NUMBER                                = 6923,  -- The last enemy we defeated was number #.
-        THE_LAST_ENEMY_WE_TOOK_DOWN_WAS_NUMBER                               = 6924,  -- The last enemy we took down was number #.
-        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED_2                             = 6925,  -- You wish to know the tally of defeated enemies? Why, we have only vanquished # [foe/foes] so far.
-        ONLY_DEFEATED_SO_FAR_THIS_DOESN_T_EVEN                               = 6926,  -- Only # [enemy/enemies] defeated so far. This doesn't even amount to a warm-up.
-        WE_VE_BEATEN_AT_LEAST_TWO_RIGHT                                      = 6927,  -- We've beaten at least two...right?
-        DEFEATED_ENEMIES_THAT_WAS_NUMBER_2                                   = 6928,  -- Defeated enemies? That was number #.
-        I_D_SAY_WE_VE_BLASTED_THROUGH_AROUND                                 = 6929,  -- I'd say we've blasted through around # [enemy/enemies] by now!
-        HOW_MANY_ENEMIES_HAVE_WE_DEFEATED_HMM_AROUND                         = 6930,  -- How many enemies have we defeated? Hmm, around #...
-        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED_3                             = 6931,  -- You wish to know the tally of defeated enemies? The last villain we defeated brings us to number #.
-        YOU_WANT_TO_KNOW_HOW_MANY_ENEMIES_WE                                 = 6932,  -- You want to know how many enemies we've beaten so far? Let me check... It's #.
-        THE_LAST_ONE_WE_TOOK_CARE_OF_MAKES                                   = 6933,  -- The last one we took care of makes number #, right? Not too shabby, if I do say so myself.
-        OUR_PROGRESS_SIR_MILADY_THE_LAST_FOE_BESTED_2                        = 6934,  -- Our progress, sir/milady]? The last foe bested brings today's tally to # [enemy/enemies].
-        WE_VE_DEFEATED_ABOUT_NOW_THAT_SHOULD_QUIETEN                         = 6935,  -- We've defeated about # [enemy/enemies] now. That should quieten things down around here!
-        I_WOULD_SAY_WE_VE_TAKEN_OUT_AROUND                                   = 6936,  -- I would say we've taken out around # [enemy/enemies] by now. Still more work to be done!
-        THE_LAST_ENEMY_WE_DEFEATED_WAS_NUMBER_AS                             = 6937,  -- The last enemy we defeated was number #. As far as I remember.
-        HOW_MANY_ENEMIES_HAVE_WE_DOWNED_UMM_AROUND                           = 6938,  -- How many enemies have we downed? Umm...around #. I think.
-        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED_4                             = 6939,  -- You wish to know the tally of defeated enemies? The last villain we defeated brings us to number #.
-        OUR_TALLY_STANDS_AT_A_MEAGER_ENEMIES_THIS                            = 6940,  -- Our tally stands at a meager # enemies. This is unacceptable. We're picking up the pace!
-        WE_VE_BEATEN_A_LOT_MORE_THAN_THREE                                   = 6941,  -- We've beaten a lot more than three now...prrrobably.
-        DEFEATED_ENEMIES_THAT_WAS_NUMBER_I_BELIEVE                           = 6942,  -- Defeated enemies? That was number #, I believe.
-        I_M_JUST_GUESSING_HERE_BUT_I_D                                       = 6943,  -- I'm just guessing here, but I'd say we've destroyed about # [enemy/enemies] today!
-        ENEMIES_DEFEATED_I_WASN_T_REALLY_KEEPING_TRACK                       = 6944,  -- Enemies defeated? I wasn't really keeping track. Around #, I suppose...
-        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED_5                             = 6945,  -- You wish to know the tally of defeated enemies? I believe our total comes to #.
-        HOW_MANY_ENEMIES_WE_VE_DEFEATED_ISN_T                                = 6946,  -- How many enemies we've defeated? Isn't it something like #?
-        LET_S_SEE_SO_FAR_WE_VE_WIPED                                         = 6947,  -- Let's see... So far we've wiped the floor with # enemies. Good job!
-        THE_LAST_FOE_BESTED_BRINGS_TODAY_S_TALLY                             = 6948,  -- The last foe bested brings today's tally to # [enemy/enemies]--a most impressive figure. Shall I prepare tea and biscuits?
-        WE_JUST_BEAT_ENEMY_NUMBER_THEY_JUST_KEEP                             = 6949,  -- We just beat enemy number #. They just keep coming, don't they?
-        THE_LAST_ENEMY_WE_TOOK_DOWN_WAS_NUMBER_2                             = 6950,  -- The last enemy we took down was number #...I think.
-        THAT_LAST_ENEMY_BRINGS_US_TO_A_TOTAL                                 = 6951,  -- That last enemy brings us to a total of # [enemy/enemies] defeated. We've been busy.
-        UMM_LET_S_SEE_HERE_WE_VE_BEATEN                                      = 6952,  -- Umm, let's see here... We've beaten # [enemy/enemies] today, right? I've totally lost count...
-        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED_6                             = 6953,  -- You wish to know the tally of defeated enemies? I believe our total comes to #.
-        WE_VE_ALREADY_RID_THE_LAND_OF_ENEMIES                                = 6954,  -- We've already rid the land of # enemies today, but it doesn't seem to make even the slightest dint in their numbers.
-        HOW_MANY_ENEMIES_WE_VE_BEATEN_WHY_THAT                               = 6955,  -- How many enemies we've beaten? Why, that would be heaps and heaps!
-        APPEARS_FRIGHTENED_BY_THE                                            = 6956,  -- [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] appears frightened by the %.
-        APPEARS_FRIGHTENED_BY_THE_2                                          = 6957,  -- [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] appears frightened by the %.
-        APPEARS_FRIGHTENED_BY_THE_3                                          = 6958,  -- [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] appears frightened by the %.
-        APPEARS_FRIGHTENED_BY_THE_4                                          = 6959,  -- [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] appears frightened by the %.
-        APPEARS_FRIGHTENED_BY_THE_5                                          = 6960,  -- [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] appears frightened by the %.
-        APPEARS_FRIGHTENED_BY_THE_6                                          = 6961,  -- [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] appears frightened by the %.
-        APPEARS_FRIGHTENED_BY_THE_7                                          = 6962,  -- [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] appears frightened by the %.
-        APPEARS_FRIGHTENED_BY_THE_8                                          = 6963,  -- [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] appears frightened by the %.
-        S_PERSONALITY_CHANGES                                                = 6964,  -- [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]'s personality changes!
-        S_PERSONALITY_CHANGED                                                = 6965,  -- [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]'s personality changed!
-        S_PERSONALITY_CHANGES_2                                              = 6966,  -- [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]'s personality changes!
-        S_PERSONALITY_CHANGES_3                                              = 6967,  -- [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]'s personality changes!
-        S_PERSONALITY_CHANGES_4                                              = 6968,  -- [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]'s personality changes!
-        S_PERSONALITY_CHANGES_5                                              = 6969,  -- [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]'s personality changes!
-        S_PERSONALITY_CHANGES_6                                              = 6970,  -- [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli]'s personality changes!
-        S_PERSONALITY_CHANGES_7                                              = 6971,  -- [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]'s personality changes!
-        WHAT_DO_YOU_THINK_IT_MIGHT_BE_SOMEWHAT                               = 6972,  -- What do you think? It might be somewhat of an acquired taste...
-        WELL_TASTES_GREAT_DOESN_T_IT                                         = 6973,  -- Well? Tastes great, doesn't it!?
-        YOU_VE_GOT_SOME_STUCK_ON_YOUR_LIPS                                   = 6974,  -- You've got some stuck on your lips.
-        DID_YOU_ENJOY_IT_OF_COURSE_I_M                                       = 6975,  -- Did you enjoy it? Of course, I'm not one to brag about a simple piece of bread...
-        I_THINK_I_OVERCOOKED_IT_A_LITTLE_WHAT                                = 6976,  -- I think I overcooked it a little. What do you think of the taste?
-        NOT_BAD_IS_IT_I_BET_YOU_NEVER                                        = 6977,  -- Not bad is it? I bet you never thought me to be a cooking type!
-        ARE_YOU_CHEWING_PROPERLY_I_WENT_THROUGH_A                            = 6979,  -- Are you chewing properly? I went through a lot of trouble to make that, so eat slowly and savor each bite, alright?
-        SO_HOW_WAS_IT_DID_I_MAKE_THE                                         = 6980,  -- So...how was it? Did I make the texture too firm?
-        WHAT_DO_YOU_THINK_I_TRIED_PICKING_AN                                 = 6981,  -- What do you think? I tried picking an aroma I thought you'd like, you know.
-        THAT_S_A_TASTY_LOOKING_STEW_YOU_VE                                   = 6982,  -- That's a tasty-looking stew you've got there! Why, all my favorite ingredients are in it! Oh, wait, is that the one I made for you?
-        I_HOPE_IT_S_COMPATIBLE_WITH_YOUR_TASTE                               = 6983,  -- I hope it's compatible with your taste buds...
-        THIS_ISN_T_THE_TIME_NOR_THE_PLACE                                    = 6984,  -- This isn't the time nor the place to be nonchalantly slurping up pasta!
-        ID_6986                                                              = 6986,  -- #...
-        THE_MINE_EXPLODES                                                    = 6987,  -- The mine explodes!
-        THE_MINE_MISFIRES                                                    = 6988,  -- The mine misfires...
-        YOU_RETRIEVE_THE_MINE                                                = 6989,  -- You retrieve the mine.
-        YOU_SUCCESSFULLY_DEACTIVATE_THE_MINE                                 = 6990,  -- You successfully deactivate the mine!
-        YOU_FAILED_TO_DEACTIVATE_THE_MINE                                    = 6991,  -- You failed to deactivate the mine...
-        OBTAINED_CRUOR_TOTAL                                                 = 6992,  -- Obtained # cruor. (Total: #)
-        OBTAINED_CRUOR_TOTAL_2                                               = 6993,  -- Obtained # cruor. (Total: #)
-        YOU_DO_NOT_HAVE_ENOUGH_CRUOR                                         = 6994,  -- You do not have enough cruor.
-        YOU_DO_NOT_HAVE_ENOUGH_CRUOR_2                                       = 6995,  -- You do not have enough cruor.
-        YOU_HAVE_OBTAINED_ALL_OF_LILISETTE_S_MEMORY                          = 6996,  -- You have obtained all of Lilisette's memory fragments. Make haste and report to Cait Sith.
-        YOU_CANNOT_PERFORM_THAT_ACTION_COME_BACK_AFTER                       = 6997,  -- You cannot perform that action. Come back after you have obtained visitant status.
-        YOU_CANNOT_PERFORM_THAT_ACTION_WHILE_PARTICIPATING_IN                = 6998,  -- You cannot perform that action while participating in Bastion.
-        TARGET_OUT_OF_RANGE                                                  = 6999,  -- Target out of range.
-        YOU_CANNOT_VIEW_THIS_EVENT_WHILE_HOLDING_CLAIM                       = 7000,  -- You cannot view this event while holding claim over a synergy furnace.
-        YOU_CANNOT_PERFORM_THAT_ACTION_WITH_A_FREE                           = 7001,  -- You cannot perform that action with a free trial account.
-        YOU_MUST_WAIT_ANOTHER_TO_PERFORM_THAT_ACTION                         = 7002,  -- You must wait another # [day/days] to perform that action.
-        GAINED                                                               = 7003,  -- % gained # [points of experience/limit points].
-        YOU_CANNOT_CARRY_ANY_MORE                                            = 7004,  -- You cannot carry any more %.
-        YOU_HAVE_CARRIED_OVER_LOGIN_POINT                                    = 7005,  -- You have carried over # login point[/s].
-        THE_LOGIN_CAMPAIGN_IS_CURRENTLY_UNDERWAY                             = 7006,  -- The [/January/February/March/April/May/June/July/August/September/October/November/December] # Login Campaign is currently underway!
-        IN_CELEBRATION_OF_YOUR_MOST_RECENT_LOGIN_LOGIN                       = 7007,  -- In celebration of your most recent login (login no. #), we have provided you with # points! You currently have a total of # points.
-        YOU_HAVE_OBTAINED_BAYLD                                              = 7011,  -- You have obtained # bayld!
-        YOU_HAVE_OBTAINED_BAYLD_2                                            = 7012,  -- You have obtained # bayld!
-        YOU_DO_NOT_HAVE_ENOUGH_BAYLD                                         = 7013,  -- You do not have enough bayld!
-        YOU_DO_NOT_HAVE_ENOUGH_BAYLD_2                                       = 7014,  -- You do not have enough bayld!
-        YOU_CAN_NOW_BECOME_A                                                 = 7015,  -- You can now become a [geomancer/rune fencer]!
-        YOUR_HAS_BEEN_ATTUNED_TO_A_GEOMAGNETIC_FOUNT                         = 7016,  -- Your % has been attuned to a geomagnetic fount in the corresponding locale.
-        A_FAINT_ENERGY_WAFTS_UP_FROM_THE_GROUND                              = 7017,  -- A faint energy wafts up from the ground.
-        YOUR_DEVICE_HAS_ALREADY_BEEN_ATTUNED_TO_A                            = 7018,  -- Your device has already been attuned to a geomagnetic fount in the corresponding locale.
-        YOU_HAVE_LEARNED                                                     = 7019,  -- You have learned %!
-        I_EAT_BREATHE_AND_SLEEP_DELIVERY_SERVICES_EVEN                       = 7020,  -- I eat, breathe, and sleep delivery services! Even if the heavens come tumbling down, the seas engulf all of Adoulin, or eternal darkness descends upon the world, you needn't worry about your package!
-        THE_LEVEL_OF_DIFFICULTY_FOR_THIS_CONTENT_IS                          = 7021,  -- The level of difficulty for this content is #.
-        YOUR_MAXIMUM_LEVEL_HAS_BEEN_RAISED_TO                                = 7022,  -- Your maximum level has been raised to [50/55/60/65/70/75/80/85/90/95/99]!
-        YOU_HAVE_ENTERED_BELLIGERENCY                                        = 7023,  -- You have entered belligerency.
-        YOU_HAVE_ENTERED_BELLIGERENCY_AND_YOUR_LEVEL_HAS                     = 7024,  -- You have entered belligerency and your level has been restricted to #.
-        YOU_HAVE_ENTERED_BELLIGERENCY_YOUR_LEVEL_HAS_BEEN                    = 7025,  -- You have entered belligerency. Your level has been restricted to # and the attributes of applicable equipment you may be wearing have been appropriately reduced.
-        YOU_HAVE_LEARNED_A_NEW_INSTINCT                                      = 7026,  -- You have learned a new instinct!
-        YOUR_PARTY_IS_UNABLE_TO_PARTICIPATE_BECAUSE_CERTAIN                  = 7027,  -- Your party is unable to participate because certain members' levels are restricted.
-        PLEASE_REMOVE_YOUR_LEVEL_RESTRICTION_BEFORE_ENDEAVORING_TO           = 7028,  -- Please remove your level restriction before endeavoring to participate.
-        YOU_LEARNED_TRUST                                                    = 7029,  -- You learned Trust: %!
-        YOU_ARE_NOW_ABLE_TO_CALL_MULTIPLE_ALTER                              = 7030,  -- You are now able to call multiple alter egos.
-        ENTER_YES_NO                                                         = 7031,  -- Enter? Yes. No.
-        LEAVE_YES_NO                                                         = 7032,  -- Leave? Yes. No.
-        THE_CUTSCENE_HAS_UNEXPECTEDLY_TERMINATED_EXAMINE_THE_RESUME          = 7033,  -- The cutscene has unexpectedly terminated. Examine the Resume Point to continue.
-        WHAT_DO_YOU_WISH_TO_DO_SHOW_ME                                       = 7034,  -- What do you wish to do? Show me the cutscene again. Skip the cutscene and continue.
-        DISPLAYING_THE_NEXT_SCENE                                            = 7035,  -- Displaying the next scene.
-        ALTER_EGOS_MAY_BE_USED_HERE_WITHOUT_ANY                              = 7036,  -- Alter egos may be used here without any effect on enmity.
-        THE_MAXIMUM_LEVEL_OF_THE_CONTENT_YOU_ARE                             = 7037,  -- The maximum level of the content you are currently attempting is #.
-        ID_7038                                                              = 7038,  -- # # # #
+        WE_VE_PREPARED_A_SPECIAL_PRESENT_IN_CELEBRATION                      = 6384,  -- We've prepared a special present in celebration of the collaboration with Wizardry Variants Daphne!
+        YOU_CANNOT_OBTAIN_THE                                                = 6385,  -- You cannot obtain the %.
+        YOU_CANNOT_OBTAIN_ANY_MORE                                           = 6386,  -- You cannot obtain any more.
+        YOU_CANNOT_OBTAIN_THE_COME_BACK_AFTER_SORTING                        = 6387,  -- You cannot obtain the %. Come back after sorting your inventory.
+        YOU_CANNOT_OBTAIN_THE_COME_BACK_AFTER_SORTING_2                      = 6388,  -- You cannot obtain the %. Come back after sorting your inventory.
+        YOU_CANNOT_OBTAIN_THE_ITEM_COME_BACK_AFTER                           = 6389,  -- You cannot obtain the item. Come back after sorting your inventory.
+        YOU_CANNOT_OBTAIN_THE_SPEAK_WITH_THE_MYSTIC                          = 6390,  -- You cannot obtain the %. Speak with the mystic retriever after sorting your inventory.
+        YOU_CANNOT_OBTAIN_THE_TRY_TRADING_AGAIN_AFTER                        = 6391,  -- You cannot obtain the %. Try trading again after sorting your inventory.
+        YOU_MUST_FREE_AT_LEAST_SPACE_BEFORE_TRADING                          = 6392,  -- You must free at least # space[/s] before trading any items.
+        YOU_ARE_UNABLE_TO_CARRY_ANY_MORE_BECAUSE                             = 6393,  -- You are unable to carry any more % because your recycle bin is full.
+        YOU_ARE_UNABLE_TO_CARRY_ANY_MORE_ITEMS                               = 6394,  -- You are unable to carry any more items because your recycle bin is full.
+        OBTAINED                                                             = 6395,  -- Obtained: %.
+        OBTAINED_GIL                                                         = 6396,  -- Obtained # gil.
+        OBTAINED_GIL_2                                                       = 6397,  -- Obtained # gil.
+        OBTAINED_KEY_ITEM                                                    = 6398,  -- Obtained key item: %.
+        LOST_KEY_ITEM                                                        = 6399,  -- Lost key item: %.
+        YOU_DO_NOT_HAVE_ENOUGH_GIL                                           = 6400,  -- You do not have enough gil.
+        YOU_OBTAIN                                                           = 6401,  -- You obtain % !
+        YOU_DO_NOT_HAVE_ENOUGH_GIL_2                                         = 6402,  -- You do not have enough gil.
+        A_PARTY_MEMBER_HAS_AN_NPC_CALLED_UP                                  = 6403,  -- A party member has an NPC called up. You cannot take part in this event.
+        YOU_OBTAIN_2                                                         = 6404,  -- You obtain # !
+        YOU_FIND_THE_HOOFPRINT_OF_A_GIGANTIC_WARHORSE                        = 6405,  -- You find the hoofprint of a gigantic warhorse...
+        YOU_SET_THE_IN_THE_WARHORSE_HOOFPRINT                                = 6406,  -- You set the % in the warhorse hoofprint.
+        THE_IS_RETURNED_TO_YOU                                               = 6407,  -- The % is returned to you.
+        THE_ARE_RETURNED_TO_YOU                                              = 6408,  -- The # % are returned to you.
+        THERE_IS_NOTHING_OUT_OF_THE_ORDINARY_HERE                            = 6409,  -- There is nothing out of the ordinary here.
+        YOU_ARE_SUDDENLY_OVERCOME_WITH_A_SENSE_OF                            = 6410,  -- You are suddenly overcome with a sense of foreboding...
+        NOW_IS_NOT_THE_TIME_FOR_THAT                                         = 6411,  -- Now is not the time for that!
+        IT_SEEMS_THAT_YOU_WILL_HAVE_TO_WAIT                                  = 6412,  -- It seems that you will have to wait a bit longer...
+        AN_AURA_OF_IRREPRESSIBLE_MIGHT_THREATENS_TO_OVERWHELM                = 6413,  -- An aura of irrepressible might threatens to overwhelm you...
+        YOU_NO_LONGER_SENSE_THE_MONSTER_S_PRESENCE                           = 6414,  -- You no longer sense the monster's presence...
+        ADVENTURER_FEAST_YOUR_EYES_ON_THE_MIGHT_OF                           = 6415,  -- Adventurer! Feast your eyes on the might of an Orcish champion!
+        ADVENTURER_HEAR_THE_CRY_OF_A_TRUE_ORCISH                             = 6416,  -- Adventurer! Hear the cry of a true Orcish warrior!
+        WITNESS_THE_EFFECTIVENESS_OF_A_COMMON_QUADAV_TACTIC                  = 6417,  -- Witness the effectiveness of a common Quadav tactic!
+        DA_VHU_DEADEYE_HEEDS_YOUR_COMMAND_REVEL_IN                           = 6418,  -- Da'Vhu Deadeye heeds your command. Revel in the fighting spirit of the Quadav!
+        KWAKWAH_NEVER_FORGET_THE_MERCY_OF_THE_MANIFEST                       = 6419,  -- Kwakwah! Never forget the mercy of the Manifest, heretic! One day these talons will sink into your chest!
+        THINK_WELL_ON_THE_WORDS_OF_THE_MANIFEST                              = 6420,  -- Think well on the words of the Manifest, heretic! Now hear the soaring voice of a Divine Inspirer!
+        ADVENNTEURERUERAROO_SOOOSOMEONE_N_NEEDS_OFA_AMPUT_ANMPYU_AMPUTIT     = 6421,  -- Advennteurerueraroo! Sooosomeone 'n needs ofa amput...anmpyu...amputit...amptitationn?
+        YOU_LIKA_GAMMMBLE_LESSEE_IF_DICE_LIKES_YOUSE                         = 6422,  -- You lika gammmble? Lessee if dice likes youse today. <Hic!>
+        ID_6423                                                              = 6423,  -- [/I'm ready./Alright!/Okay.../Attention!/Okay, kiddo./Okay!/I'm ready./Okay!/Attention!] [/I suppose./Here we go!/Ready when you are./Weapon skill ready!/I'm ready./Bring it on!/We can start any time./Ready when you are!/Weapon skill ready!]
+        I_M_READY_I_SUPPOSE                                                  = 6424,  -- I'm ready. I suppose.
+        ALRIGHT_HERE_WE_GO                                                   = 6425,  -- Alright! Here we go!
+        OKAY_READY_WHEN_YOU_ARE                                              = 6426,  -- Okay... Ready when you are.
+        ATTENTION_WEAPON_SKILL_READY                                         = 6427,  -- Attention! Weapon skill ready!
+        I_M_READY_JUST_SAY_WHEN                                              = 6428,  -- I'm ready. Just say when!
+        GOOD_TO_GO_THIS_IS_GONNA_BE_FUN                                      = 6429,  -- Good to go! This is gonna be fun!
+        MY_PREPARATIONS_ARE_COMPLETE_READY_AT_YOUR_COMMAND                   = 6430,  -- My preparations are complete. Ready at your command.
+        OKAY_KIDDO_I_M_READY                                                 = 6431,  -- Okay, kiddo. I'm ready.
+        OKAY_BRING_IT_ON                                                     = 6432,  -- Okay! Bring it on!
+        I_M_READY_WE_CAN_START_ANY_TIME                                      = 6433,  -- I'm ready. We can start any time.
+        OKAY_READY_WHEN_YOU_ARE_2                                            = 6434,  -- Okay! Ready when you are!
+        ATTENTION_WEAPON_SKILL_READY_2                                       = 6435,  -- Attention! Weapon skill ready!
+        WHAT_IS_TAKING_SO_LONG_AREN_T_YOU                                    = 6436,  -- What is taking so long? Aren't you ready yet?
+        I_M_WARMED_UP_AND_RRREADY_TO_GO                                      = 6437,  -- I'm warmed up and rrready to go!
+        ID_6438                                                              = 6438,  -- [/Ugh.../Dammit!/Ugh.../I'm too badly hurt./This is a little.../No!/Ugh.../Ouch!/I'm too badly hurt.] [/This could be bad.../I'm not going down!/I'm not done yet!/I don't think I can make it.../...tougher than I expected./I won't give up!/This may be the end.../Hey, that hurts!/I don't think I can make it...]
+        UGH_THIS_COULD_BE_BAD                                                = 6439,  -- Ugh... This could be bad...
+        DAMMIT_I_M_NOT_GOING_DOWN                                            = 6440,  -- Dammit! I'm not going down!
+        UGH_I_M_NOT_DONE_YET                                                 = 6441,  -- Ugh... I'm not done yet!
+        I_M_TOO_BADLY_HURT_I_DON_T                                           = 6442,  -- I'm too badly hurt. I don't think I can make it...
+        UH_OH_I_M_IN_TROUBLE                                                 = 6443,  -- Uh-oh, I'm in trouble...
+        THIS_IS_GETTING_ROUGH_I_M_NOT_SURE                                   = 6444,  -- This is getting rough. I'm not sure how much longer I can hold up...
+        IT_PAINS_ME_TO_INFORM_YOU_BUT_I                                      = 6445,  -- It pains me to inform you, but I'm in severe pain...
+        THIS_IS_A_LITTLE_TOUGHER_THAN_I_EXPECTED                             = 6446,  -- This is a little... ...tougher than I expected.
+        NO_I_WON_T_GIVE_UP                                                   = 6447,  -- No! I won't give up!
+        UGH_THIS_MAY_BE_THE_END                                              = 6448,  -- Ugh... This may be the end...
+        OUCH_HEY_THAT_HURTS                                                  = 6449,  -- Ouch! Hey, that hurts!
+        I_M_TOO_BADLY_HURT_I_DON_T_2                                         = 6450,  -- I'm too badly hurt. I don't think I can make it...
+        GRRR_I_WILL_NOT_BE_BESTED                                            = 6451,  -- Grrr... I...will not...be bested!
+        THIS_IS_LOOKING_RRREALLY_BAD                                         = 6452,  -- This is looking rrreally bad...
+        ID_6453                                                              = 6453,  -- [/My magic.../Uh-oh!/Heads up./Attention!/Be careful./Whoops!/Careful./Hey!?/Attention!] [/...is running low./Running out of magic!/My magic is almost gone./Magical reserves running low!/I'm almost out of magic./Almost out of magic!/My magic is running low./Where'd all my magic go!?/Magical reserves running low!]
+        MY_MAGIC_IS_RUNNING_LOW                                              = 6454,  -- My magic... ...is running low.
+        UH_OH_RUNNING_OUT_OF_MAGIC                                           = 6455,  -- Uh-oh! Running out of magic!
+        HEADS_UP_MY_MAGIC_IS_ALMOST_GONE                                     = 6456,  -- Heads up. My magic is almost gone.
+        ATTENTION_MAGICAL_RESERVES_RUNNING_LOW                               = 6457,  -- Attention! Magical reserves running low!
+        NOOO_I_M_ALMOST_OUT_OF_MAGIC                                         = 6458,  -- Nooo... I'm almost out of magic...
+        SORRY_BUT_I_M_RUNNING_LOW_ON_MAGIC                                   = 6459,  -- Sorry, but I'm running low on magic.
+        EXCUSE_ME_BUT_MY_MAGICAL_RESERVES_ARE_NEARING                        = 6460,  -- Excuse me, but my magical reserves are nearing depletion.
+        BE_CAREFUL_I_M_ALMOST_OUT_OF_MAGIC                                   = 6461,  -- Be careful. I'm almost out of magic.
+        WHOOPS_ALMOST_OUT_OF_MAGIC                                           = 6462,  -- Whoops! Almost out of magic!
+        CAREFUL_MY_MAGIC_IS_RUNNING_LOW                                      = 6463,  -- Careful. My magic is running low.
+        HEY_WHERE_D_ALL_MY_MAGIC_GO                                          = 6464,  -- Hey!? Where'd all my magic go!?
+        ATTENTION_MAGICAL_RESERVES_RUNNING_LOW_2                             = 6465,  -- Attention! Magical reserves running low!
+        DAMN_MAGICAL_RESERVES_CRITICAL                                       = 6466,  -- Damn! Magical reserves critical!
+        RRRUNNING_LOW_ON_MAGIC_HERE                                          = 6467,  -- Rrrunning low on magic here...
+        ID_6468                                                              = 6468,  -- [/My magic?/Okay!/My magic has recovered./My magical reserves have recovered./My magic is restored./My magic status?/Okay./Okay!/My magical reserves have recovered.] [/Don't worry, I have plenty./My magic is restored!/I'm ready./I'm ready to continue./Any time you're ready./Ready to go!/My magical reserves are almost full again./My magic is ready to go!/I'm ready to continue.]
+        MY_MAGIC_DON_T_WORRY_I_HAVE_PLENTY                                   = 6469,  -- My magic? Don't worry, I have plenty.
+        OKAY_MY_MAGIC_IS_RESTORED                                            = 6470,  -- Okay! My magic is restored!
+        MY_MAGIC_HAS_RECOVERED_I_M_READY                                     = 6471,  -- My magic has recovered. I'm ready.
+        MY_MAGICAL_RESERVES_HAVE_RECOVERED_I_M_READY                         = 6472,  -- My magical reserves have recovered. I'm ready to continue.
+        MY_MAGIC_S_BACK_TO_NORMAL_NOW                                        = 6473,  -- My magic's back to normal now.
+        MAGIC_A_OK_LET_S_KEEP_MOVING                                         = 6474,  -- Magic A-OK! Let's keep moving!
+        APOLOGIES_FOR_THE_DELAY_MY_MAGIC_RESERVES_ARE                        = 6475,  -- Apologies for the delay. My magic reserves are now in good order.
+        MY_MAGIC_IS_RESTORED_ANY_TIME_YOU_RE                                 = 6476,  -- My magic is restored. Any time you're ready.
+        MY_MAGIC_STATUS_READY_TO_GO                                          = 6477,  -- My magic status? Ready to go!
+        OKAY_MY_MAGICAL_RESERVES_ARE_ALMOST_FULL_AGAIN                       = 6478,  -- Okay. My magical reserves are almost full again.
+        OKAY_MY_MAGIC_IS_READY_TO_GO                                         = 6479,  -- Okay! My magic is ready to go!
+        MY_MAGICAL_RESERVES_HAVE_RECOVERED_I_M_READY_2                       = 6480,  -- My magical reserves have recovered. I'm ready to continue.
+        MY_MAGIC_HAS_SUFFICIENTLY_RECOVERED_LET_S_NOT                        = 6481,  -- My magic has sufficiently recovered. Let's not delay any further.
+        MAGIC_IS_RRRIPE_AND_RRREADY                                          = 6482,  -- Magic is rrripe and rrready!
+        ID_6483                                                              = 6483,  -- [/I'm tired./Phew!/Hm./A fruitful day./I'm exhausted./Phew!/We fought many battles today./Wow!/A fruitful day.] [/I think we've done enough for today./It's been a busy day!/That should be enough for today./I believe we reached our quota./No more fighting for me./I guess we should call it quits for today!/Time to take a break./I'm exhausted!/I believe we reached our quota.]
+        I_M_TIRED_I_THINK_WE_VE_DONE                                         = 6484,  -- I'm tired. I think we've done enough for today.
+        PHEW_IT_S_BEEN_A_BUSY_DAY                                            = 6485,  -- Phew! It's been a busy day!
+        HM_THAT_SHOULD_BE_ENOUGH_FOR_TODAY                                   = 6486,  -- Hm. That should be enough for today.
+        A_FRUITFUL_DAY_I_BELIEVE_WE_REACHED_OUR                              = 6487,  -- A fruitful day. I believe we reached our quota.
+        WE_VE_DEFEATED_QUITE_A_LOT_TODAY                                     = 6488,  -- We've defeated quite a lot today.
+        WE_DID_GREAT_TODAY_I_CAN_SLEEP_WELL                                  = 6489,  -- We did great today! I can sleep well tonight knowing I made a difference.
+        WELL_DONE_SIR_MILADY_WE_HAVE_ACCOMPLISHED_MUCH                       = 6490,  -- Well done, sir/milady]. We have accomplished much this day.
+        I_M_EXHAUSTED_NO_MORE_FIGHTING_FOR_ME                                = 6491,  -- I'm exhausted. No more fighting for me.
+        PHEW_I_GUESS_WE_SHOULD_CALL_IT_QUITS                                 = 6492,  -- Phew! I guess we should call it quits for today!
+        WE_FOUGHT_MANY_BATTLES_TODAY_TIME_TO_TAKE                            = 6493,  -- We fought many battles today. Time to take a break.
+        WOW_I_M_EXHAUSTED                                                    = 6494,  -- Wow! I'm exhausted!
+        A_FRUITFUL_DAY_I_BELIEVE_WE_REACHED_OUR_2                            = 6495,  -- A fruitful day. I believe we reached our quota.
+        HM_I_AM_SATISFIED_WITH_TODAY_S_EFFORT                                = 6496,  -- Hm. I am satisfied with today's effort.
+        WE_DID_GRRREAT_TODAY_DIDN_T_WE                                       = 6497,  -- We did grrreat today, didn't we?
+        ID_6498                                                              = 6498,  -- [/Time flies.../Whoa!/Hm./Well, well./Look at that./Whoa!/Well, now./Hey!/Well, well.] [/...when you're having fun./Is that the time!/It's getting late./Quite some time has passed./It's past my bedtime./I didn't realize it was so late!/Where does all the time go?/It's getting late!/Quite some time has passed.]
+        TIME_FLIES_WHEN_YOU_RE_HAVING_FUN                                    = 6499,  -- Time flies... ...when you're having fun.
+        WHOA_IS_THAT_THE_TIME                                                = 6500,  -- Whoa! Is that the time!
+        HM_IT_S_GETTING_LATE                                                 = 6501,  -- Hm. It's getting late.
+        WELL_WELL_QUITE_SOME_TIME_HAS_PASSED                                 = 6502,  -- Well, well. Quite some time has passed.
+        AWWW_IT_S_WAY_PAST_MY_NAP_TIME                                       = 6503,  -- Awww, it's way past my nap time...
+        TIME_SURE_DOES_FLY_WHEN_YOU_RE_HAVING                                = 6504,  -- Time sure does fly when you're having fun.
+        A_THOUSAND_PARDONS_SIR_MILADY_BUT_I_MUST                             = 6505,  -- A thousand pardons, sir/milady], but I must take my leave.
+        LOOK_AT_THAT_IT_S_PAST_MY_BEDTIME                                    = 6506,  -- Look at that. It's past my bedtime.
+        WHOA_I_DIDN_T_REALIZE_IT_WAS_SO                                      = 6507,  -- Whoa! I didn't realize it was so late!
+        WELL_NOW_WHERE_DOES_ALL_THE_TIME_GO                                  = 6508,  -- Well, now. Where does all the time go?
+        HEY_IT_S_GETTING_LATE                                                = 6509,  -- Hey! It's getting late!
+        OH_MY_QUITE_SOME_TIME_HAS_PASSED                                     = 6510,  -- Oh my. Quite some time has passed.
+        IT_S_RATHER_LATE                                                     = 6511,  -- It's rather late.
+        YAWN_SO_SLEEPY                                                       = 6512,  -- <Yawn> So...sleepy...
+        ID_6513                                                              = 6513,  -- [/I guess I'll be going./Well, I'm off then!/I'm headed off./I take my leave of you./Must be going./Well, I'm off then!/It's time for me to go./I gotta go now!/I take my leave of you.] [/See you around./See you soon!/Later./Until we meet again./Take care of yourself./See you soon!/Farewell./Bye!/Until we meet again.]
+        I_GUESS_I_LL_BE_GOING_SEE_YOU                                        = 6514,  -- I guess I'll be going. See you around.
+        WELL_I_M_OFF_THEN_SEE_YOU_SOON                                       = 6515,  -- Well, I'm off then! See you soon!
+        I_M_HEADED_OFF_LATER                                                 = 6516,  -- I'm headed off. Later.
+        I_TAKE_MY_LEAVE_OF_YOU_UNTIL_WE                                      = 6517,  -- I take my leave of you. Until we meet again.
+        I_M_GOING_NOW_CALL_ME_AGAIN                                          = 6518,  -- I'm going now. Call me again.
+        IT_S_TIME_I_HIT_THE_ROAD_DON                                         = 6519,  -- It's time I hit the road. Don't go forgetting about me, you hear!
+        UNTIL_NEXT_TIME_THEN_I_SHALL_BE_PREPARED                             = 6520,  -- Until next time, then. I shall be prepared for for when you next call.
+        MUST_BE_GOING_TAKE_CARE_OF_YOURSELF                                  = 6521,  -- Must be going. Take care of yourself.
+        WELL_I_M_OFF_THEN_SEE_YOU_SOON_2                                     = 6522,  -- Well, I'm off then! See you soon!
+        IT_S_TIME_FOR_ME_TO_GO_FAREWELL                                      = 6523,  -- It's time for me to go. Farewell.
+        I_GOTTA_GO_NOW_BYE                                                   = 6524,  -- I gotta go now! Bye!
+        I_TAKE_MY_LEAVE_OF_YOU_UNTIL_WE_2                                    = 6525,  -- I take my leave of you. Until we meet again.
+        I_M_GOING_NOW_DON_T_DO_ANYTHING                                      = 6526,  -- I'm going now. Don't do anything stupid in my absence.
+        SEE_YOU_LATERRR_BYE                                                  = 6527,  -- See you laterrr! Bye!
+        ID_6528                                                              = 6528,  -- [/Getting rid of me already?/Are we done already!?/Are we done for the day?/Time to part ways?/Sending me on my way?/Are we done already!?/Time for goodbyes?/What? You want me to go?/Time to part ways?]
+        GETTING_RID_OF_ME_ALREADY                                            = 6529,  -- Getting rid of me already?
+        ARE_WE_DONE_ALREADY                                                  = 6530,  -- Are we done already!?
+        ARE_WE_DONE_FOR_THE_DAY                                              = 6531,  -- Are we done for the day?
+        TIME_TO_PART_WAYS                                                    = 6532,  -- Time to part ways?
+        ARE_WE_FINISHED_ALREADY_AWWW                                         = 6533,  -- Are we finished already? Awww...
+        HUH_PARTY_S_OVER                                                     = 6534,  -- Huh? Party's over?
+        OH_DO_YOU_HAVE_ENGAGEMENTS_ELSEWHERE_AS_YOU                          = 6535,  -- Oh? Do you have engagements elsewhere? As you wish, then.
+        SENDING_ME_ON_MY_WAY                                                 = 6536,  -- Sending me on my way?
+        ARE_WE_DONE_ALREADY_2                                                = 6537,  -- Are we done already!?
+        TIME_FOR_GOODBYES                                                    = 6538,  -- Time for goodbyes?
+        WHAT_YOU_WANT_ME_TO_GO                                               = 6539,  -- What? You want me to go?
+        TIME_TO_PART_WAYS_2                                                  = 6540,  -- Time to part ways?
+        I_COME_ALL_THE_WAY_HERE_AND_NOW                                      = 6541,  -- I come all the way here, and now you want me to leave? We'll have to do something about your impudence.
+        YOU_DON_T_WANT_ME_TO_STAY_MEOW                                       = 6542,  -- You don't want me to stay? Meow...
+        ID_6543                                                              = 6543,  -- [/Well./We're not done yet, right?/Changed your mind?/You wish to continue?/We're not done, are we?/We're still good to go, right?/Still ready for action?/You changed your mind!?/You wish to continue?] [/I suppose I could stick around./Let's go!/No problem./Very well, let us proceed./Then let's get back to it./Okay, off we go!/I can stay around a little more./Great, I'm ready for more!/Very well, let us proceed.]
+        WELL_I_SUPPOSE_I_COULD_STICK_AROUND                                  = 6544,  -- Well. I suppose I could stick around.
+        WE_RE_NOT_DONE_YET_RIGHT_LET_S                                       = 6545,  -- We're not done yet, right? Let's go!
+        CHANGED_YOUR_MIND_NO_PROBLEM                                         = 6546,  -- Changed your mind? No problem.
+        YOU_WISH_TO_CONTINUE_VERY_WELL_LET_US                                = 6547,  -- You wish to continue? Very well, let us proceed.
+        YAY_LET_S_KEEP_AT_IT                                                 = 6548,  -- Yay! let's keep at it!
+        THAT_S_MUSIC_TO_MY_EARS_IT_S                                         = 6549,  -- That's music to my ears! It's waaay too early for the party to end!
+        VERY_GOOD_SIR_MILADY_IT_WILL_BE_MY                                   = 6550,  -- Very good, sir/milady]. It will be my pleasure to accompany you further.
+        WE_RE_NOT_DONE_ARE_WE_THEN_LET                                       = 6551,  -- We're not done, are we? Then let's get back to it.
+        WE_RE_STILL_GOOD_TO_GO_RIGHT_OKAY                                    = 6552,  -- We're still good to go, right? Okay, off we go!
+        STILL_READY_FOR_ACTION_I_CAN_STAY_AROUND                             = 6553,  -- Still ready for action? I can stay around a little more.
+        YOU_CHANGED_YOUR_MIND_GREAT_I_M_READY                                = 6554,  -- You changed your mind!? Great, I'm ready for more!
+        YOU_WISH_TO_CONTINUE_VERY_WELL_LET_US_2                              = 6555,  -- You wish to continue? Very well, let us proceed.
+        CHANGED_YOUR_MIND_WE_LL_HAVE_TO_DO                                   = 6556,  -- Changed your mind? We'll have to do something about your indecisiveness.
+        YAY_LET_S_KEEP_GOING                                                 = 6557,  -- Yay! Let's keep going!
+        ID_6558                                                              = 6558,  -- [/Your fight is with me./Bring it on!/Over here./I will be your opponent this day!/I'll take it from here./Over here!/Over here./Hey! Don't ignore me!/I will be your opponent this day!]
+        YOUR_FIGHT_IS_WITH_ME                                                = 6559,  -- Your fight is with me.
+        BRING_IT_ON                                                          = 6560,  -- Bring it on!
+        OVER_HERE                                                            = 6561,  -- Over here.
+        I_WILL_BE_YOUR_OPPONENT_THIS_DAY                                     = 6562,  -- I will be your opponent this day!
+        OVER_HERE_YOU_BIG_MEANIE                                             = 6563,  -- Over here, you big meanie!
+        YOU_WANNA_FIGHT_FIGHT_ME                                             = 6564,  -- You wanna fight? Fight me!
+        AHEM_YOUR_ATTENTION_PLEASE                                           = 6565,  -- Ahem! Your attention, please!
+        I_LL_TAKE_IT_FROM_HERE                                               = 6566,  -- I'll take it from here.
+        OVER_HERE_2                                                          = 6567,  -- Over here!
+        OVER_HERE_3                                                          = 6568,  -- Over here.
+        HEY_DON_T_IGNORE_ME                                                  = 6569,  -- Hey! Don't ignore me!
+        I_WILL_BE_YOUR_OPPONENT_THIS_DAY_2                                   = 6570,  -- I will be your opponent this day!
+        LOOK_AT_ME_WHEN_I_M_TALKING_TO                                       = 6571,  -- Look at me when I'm talking to you!
+        HISSS                                                                = 6572,  -- Hisss!!!
+        ID_6573                                                              = 6573,  -- [/You called?/Here I am!/You're here. I'm here./Greetings./Sure, I'll help./Hey there!/Good day./Hello!/Greetings.] [/I'm ready to go./Ready for anything!/Let's get moving./A fine day for adventuring./Try not to slow me down./I'm ready to go!/Shall we get moving?/What are we up to today?/A fine day for adventuring.]
+        YOU_CALLED_I_M_READY_TO_GO                                           = 6574,  -- You called? I'm ready to go.
+        HERE_I_AM_READY_FOR_ANYTHING                                         = 6575,  -- Here I am! Ready for anything!
+        YOU_RE_HERE_I_M_HERE_LET_S                                           = 6576,  -- You're here. I'm here. Let's get moving.
+        GREETINGS_A_FINE_DAY_FOR_ADVENTURING                                 = 6577,  -- Greetings. A fine day for adventuring.
+        SORRY_TO_KEEP_YOU_WAITING_LET_S_GO                                   = 6578,  -- Sorry to keep you waiting. Let's go!
+        DID_YOU_WAIT_LONG_ALRIGHT_LET_S_GO                                   = 6579,  -- Did you wait long? Alright, let's go have some fun!
+        PLEASE_FORGIVE_MY_TARDINESS_I_M_YOURS_TO                             = 6580,  -- Please forgive my tardiness. I'm yours to command.
+        SURE_I_LL_HELP_TRY_NOT_TO_SLOW                                       = 6581,  -- Sure, I'll help. Try not to slow me down.
+        HEY_THERE_I_M_READY_TO_GO                                            = 6582,  -- Hey there! I'm ready to go!
+        GOOD_DAY_SHALL_WE_GET_MOVING                                         = 6583,  -- Good day. Shall we get moving?
+        HELLO_WHAT_ARE_WE_UP_TO_TODAY                                        = 6584,  -- Hello! What are we up to today?
+        GREETINGS_A_FINE_DAY_FOR_ADVENTURING_2                               = 6585,  -- Greetings. A fine day for adventuring.
+        LET_S_GO_TRY_NOT_TO_GET_IN                                           = 6586,  -- Let's go. Try not to get in the way.
+        MEOW                                                                 = 6587,  -- Meow!
+        ID_6588                                                              = 6588,  -- [/It might be time to head back to town./I have to be heading back soon./My reflexes are starting to slow./I believe it's almost time for a rest./A nice soft bed is looking good about now./We've been at this for a while now./Sorry, but I have some other chores to take care of./I'm starting to get kinda tired./I believe it's almost time for a rest.] [/I think I need a rest./Other duties call!/We should call it a day pretty soon./Shall we head back to town shortly?/Shall we call it quits soon?/I think I have enough energy for one last spurt!/Can we finish up here soon?/But I can keep going for a little while! <Yawn>.../Shall we head back to town shortly?]
+        IT_MIGHT_BE_TIME_TO_HEAD_BACK_TO                                     = 6589,  -- It might be time to head back to town. I think I need a rest.
+        I_HAVE_TO_BE_HEADING_BACK_SOON_OTHER                                 = 6590,  -- I have to be heading back soon. Other duties call!
+        MY_REFLEXES_ARE_STARTING_TO_SLOW_WE_SHOULD                           = 6591,  -- My reflexes are starting to slow. We should call it a day pretty soon.
+        I_BELIEVE_IT_S_ALMOST_TIME_FOR_A                                     = 6592,  -- I believe it's almost time for a rest. Shall we head back to town shortly?
+        I_VE_ALMOST_HAD_ENOUGH_FOR_ONE_DAY                                   = 6593,  -- I've almost had enough for one day.
+        WHOOPS_FORGOT_TO_TELL_YOU_BUT_I_HAVE                                 = 6594,  -- Whoops! Forgot to tell you, but I have to be somewhere soon.
+        I_REGRET_TO_INFORM_YOU_THAT_MY_PRESENCE                              = 6595,  -- I regret to inform you that my presence will be required in town shortly. I pray you do not think ill of me.
+        A_NICE_SOFT_BED_IS_LOOKING_GOOD_ABOUT                                = 6596,  -- A nice soft bed is looking good about now. Shall we call it quits soon?
+        WE_VE_BEEN_AT_THIS_FOR_A_WHILE                                       = 6597,  -- We've been at this for a while now. I think I have enough energy for one last spurt!
+        SORRY_BUT_I_HAVE_SOME_OTHER_CHORES_TO                                = 6598,  -- Sorry, but I have some other chores to take care of. Can we finish up here soon?
+        I_M_STARTING_TO_GET_KINDA_TIRED_BUT                                  = 6599,  -- I'm starting to get kinda tired. But I can keep going for a little while! <Yawn...>
+        I_BELIEVE_IT_S_ALMOST_TIME_FOR_A_2                                   = 6600,  -- I believe it's almost time for a rest. Shall we head back to town shortly?
+        I_VE_BABYSITTED_YOU_LONG_ENOUGH_FOR_ONE                              = 6601,  -- I've babysitted you long enough for one day. I will leave soon.
+        THIS_IS_GETTING_BORRRING                                             = 6602,  -- This is getting borrring...
+        ID_6603                                                              = 6603,  -- [/We've been through a good number of enemies./I think I'm finally getting tired./We've done enough today, I think./We've proved ourselves in battle this day./Phew, I'm beat./Maybe just one more battle./We should call it day./Phew! I'm beat!/We've proved ourselves in battle this day.] [/One more ought to do it./Should we make the next battle our last?/Let's make the next battle our last./Let us make the next opponent our last./One more battle ought to do it./This time I mean it, honest!/Let's make the next battle our last./One more battle?/Let us make the next opponent our last.]
+        WE_VE_BEEN_THROUGH_A_GOOD_NUMBER_OF                                  = 6604,  -- We've been through a good number of enemies. One more ought to do it.
+        I_THINK_I_M_FINALLY_GETTING_TIRED_SHOULD                             = 6605,  -- I think I'm finally getting tired. Should we make the next battle our last?
+        WE_VE_DONE_ENOUGH_TODAY_I_THINK_LET                                  = 6606,  -- We've done enough today, I think. Let's make the next battle our last.
+        WE_VE_PROVED_OURSELVES_IN_BATTLE_THIS_DAY                            = 6607,  -- We've proved ourselves in battle this day. Let us make the next opponent our last.
+        PUFF_WHEEZE_JUST_ONE_MORE_BATTLE_OKAY                                = 6608,  -- <Puff, wheeze> Just one more battle, okay?
+        I_M_STARTING_TO_FEEL_SORRY_FOR_OUR                                   = 6609,  -- I'm starting to feel sorry for our opponents! Think I'll call it a day after the next one.
+        WOULD_I_BE_OUT_OF_PLACE_TO_RECOMMEND                                 = 6610,  -- Would I be out of place to recommend recuperating? Let us return to town upon the next battle's conclusion.
+        PHEW_I_M_BEAT_ONE_MORE_BATTLE_OUGHT                                  = 6611,  -- Phew, I'm beat. One more battle ought to do it.
+        MAYBE_JUST_ONE_MORE_BATTLE_THIS_TIME_I                               = 6612,  -- Maybe just one more battle. This time I mean it, honest!
+        WE_SHOULD_CALL_IT_DAY_LET_S_MAKE                                     = 6613,  -- We should call it day. Let's make the next battle our last.
+        PHEW_I_M_BEAT_ONE_MORE_BATTLE                                        = 6614,  -- Phew! I'm beat! One more battle?
+        WE_VE_PROVED_OURSELVES_IN_BATTLE_THIS_DAY_2                          = 6615,  -- We've proved ourselves in battle this day. Let us make the next opponent our last.
+        ONE_MORE_VICTORY_SHOULD_SATISFY_ME_FOR_THE                           = 6616,  -- One more victory should satisfy me for the day.
+        I_M_SOOO_TIRRRED                                                     = 6617,  -- I'm sooo tirrred...
+        ID_6618                                                              = 6618,  -- [/Getting rid of me already?/Are we done already!?/Are we done for the day?/Time to part ways?/Sending me on my way?/Are we done already!?/Time for goodbyes?/What? You want me to go?/Time to part ways?] [/Call if you need me./Call me again any time!/No problem. Until we meet again./Very well. Until we meet again./I'll be around if you need me./It's been fun!/Until next we meet./Make sure you keep in touch!/Very well. Until we meet again.]
+        GETTING_RID_OF_ME_ALREADY_CALL_IF_YOU                                = 6619,  -- Getting rid of me already? Call if you need me.
+        ARE_WE_DONE_ALREADY_CALL_ME_AGAIN_ANY                                = 6620,  -- Are we done already!? Call me again any time!
+        ARE_WE_DONE_FOR_THE_DAY_NO_PROBLEM                                   = 6621,  -- Are we done for the day? No problem. Until we meet again.
+        TIME_TO_PART_WAYS_VERY_WELL_UNTIL_WE                                 = 6622,  -- Time to part ways? Very well. Until we meet again.
+        ARE_WE_FINISHED_ALREADY_AWWW_CALL_ME_AGAIN                           = 6623,  -- Are we finished already? Awww... Call me again, okay?
+        HUH_PARTY_S_OVER_THAT_S_A_SHAME                                      = 6624,  -- Huh? Party's over? That's a shame... Let's do this again sometime!
+        OH_DO_YOU_HAVE_ENGAGEMENTS_ELSEWHERE_AS_YOU_2                        = 6625,  -- Oh? Do you have engagements elsewhere? As you wish. I shall be prepared for when you next call.
+        SENDING_ME_ON_MY_WAY_I_LL_BE                                         = 6626,  -- Sending me on my way? I'll be around if you need me.
+        ARE_WE_DONE_ALREADY_IT_S_BEEN_FUN                                    = 6627,  -- Are we done already!? It's been fun!
+        TIME_FOR_GOODBYES_UNTIL_NEXT_WE_MEET                                 = 6628,  -- Time for goodbyes? Until next we meet.
+        WHAT_YOU_WANT_ME_TO_GO_MAKE_SURE                                     = 6629,  -- What? You want me to go? Make sure you keep in touch!
+        TIME_TO_PART_WAYS_VERY_WELL_UNTIL_WE_2                               = 6630,  -- Time to part ways? Very well. Until we meet again.
+        I_COME_ALL_THE_WAY_HERE_AND_NOW_2                                    = 6631,  -- I come all the way here, and now you want me to leave? Hmph. Just don't let me catch you slacking off from your drills.
+        ALRRRIGHT_I_LL_SEE_YOU_LATER                                         = 6632,  -- Alrrright! I'll see you later.
+        YOU_ARE_UNABLE_TO_DISBAND_WITH_YOUR_FELLOW                           = 6633,  -- You are unable to disband with your fellow at this time.
+        ID_6634                                                              = 6634,  -- [/A parting gift!/Ha!/Back to the pit with you!/The tide of battle turns!/Your time is up!/Time for action!/This battle is ours!/Try this on for size!/The tide of battle turns!]
+        A_PARTING_GIFT                                                       = 6635,  -- A parting gift!
+        HA                                                                   = 6636,  -- Ha!
+        BACK_TO_THE_PIT_WITH_YOU                                             = 6637,  -- Back to the pit with you!
+        THE_TIDE_OF_BATTLE_TURNS                                             = 6638,  -- The tide of battle turns!
+        HOW_DO_YOU_LIKE_THIS                                                 = 6639,  -- How do you like this!?
+        I_SAVED_THIS_JUST_FOR_YOU                                            = 6640,  -- I saved this just for you!
+        I_BELIEVE_IT_IS_MY_TURN                                              = 6641,  -- I believe it is my turn!
+        YOUR_TIME_IS_UP                                                      = 6642,  -- Your time is up!
+        TIME_FOR_ACTION                                                      = 6643,  -- Time for action!
+        THIS_BATTLE_IS_OURS                                                  = 6644,  -- This battle is ours!
+        TRY_THIS_ON_FOR_SIZE                                                 = 6645,  -- Try this on for size!
+        THE_TIDE_OF_BATTLE_TURNS_2                                           = 6646,  -- The tide of battle turns!
+        TASTE_MY_WRATH                                                       = 6647,  -- Taste my wrath!
+        HISSS_SUPERRR_ATTACK                                                 = 6648,  -- Hisss! Superrr...attack!
+        ID_6649                                                              = 6649,  -- [/I'm ready to fight./I'm in top shape and ready to go!/We can start fighting any time./I'm prepared for battle./I'm ready to fight anytime./I'm good to go!/I'm ready when you are./I'm all healed up and ready to go!/I'm prepared for battle.]
+        I_M_READY_TO_FIGHT                                                   = 6650,  -- I'm ready to fight.
+        I_M_IN_TOP_SHAPE_AND_READY_TO                                        = 6651,  -- I'm in top shape and ready to go!
+        WE_CAN_START_FIGHTING_ANY_TIME                                       = 6652,  -- We can start fighting any time.
+        I_M_PREPARED_FOR_BATTLE                                              = 6653,  -- I'm prepared for battle.
+        I_FEEL_GOOD                                                          = 6654,  -- I feel good!
+        I_M_READY_TO_RUMBLE                                                  = 6655,  -- I'm ready to rumble!
+        FIT_AS_A_FIDDLE_AND_AT_YOUR_COMMAND                                  = 6656,  -- Fit as a fiddle, and at your command.
+        I_M_READY_TO_FIGHT_ANYTIME                                           = 6657,  -- I'm ready to fight anytime.
+        I_M_GOOD_TO_GO                                                       = 6658,  -- I'm good to go!
+        I_M_READY_WHEN_YOU_ARE                                               = 6659,  -- I'm ready when you are.
+        I_M_ALL_HEALED_UP_AND_READY_TO                                       = 6660,  -- I'm all healed up and ready to go!
+        I_M_PREPARED_FOR_BATTLE_2                                            = 6661,  -- I'm prepared for battle.
+        YOU_PRESUME_TO_BE_MY_GUARDIAN_I_SUGGEST                              = 6662,  -- You presume to be my guardian? I suggest you worry about yourself.
+        I_FEEL_GRRREAT_COME_ON_LET_ME_AT                                     = 6663,  -- I feel grrreat! Come on, let me at them!
+        ID_6664                                                              = 6664,  -- [/Don't worry about me./No problem!/Nothing to worry about./Don't hold back on my account./This little scratch?/This little scratch?/Nice of you to worry./No problem!/Don't hold back on my account.] [/It's just a scratch./This is just a scratch!/Just a scratch./This is a mere scratch./Pay it no mind./I've had bigger paper cuts!/But I'm fine, it's just a scratch./This little scratch won't slow me down!/This is a mere scratch.]
+        DON_T_WORRY_ABOUT_ME_IT_S_JUST                                       = 6665,  -- Don't worry about me. It's just a scratch.
+        NO_PROBLEM_THIS_IS_JUST_A_SCRATCH                                    = 6666,  -- No problem! This is just a scratch!
+        NOTHING_TO_WORRY_ABOUT_JUST_A_SCRATCH                                = 6667,  -- Nothing to worry about. Just a scratch.
+        DON_T_HOLD_BACK_ON_MY_ACCOUNT_THIS                                   = 6668,  -- Don't hold back on my account. This is a mere scratch.
+        I_M_FINE_NO_NEED_TO_WORRY_OKAY                                       = 6669,  -- I'm fine. No need to worry, okay?
+        THIS_AN_INJURY_PSSHAW                                                = 6670,  -- This? An injury? Psshaw!
+        THANK_YOU_FOR_ASKING_BUT_THIS_IS_NO                                  = 6671,  -- Thank you for asking, but this is no cause for concern.
+        THIS_LITTLE_SCRATCH_PAY_IT_NO_MIND                                   = 6672,  -- This little scratch? Pay it no mind.
+        THIS_LITTLE_SCRATCH_I_VE_HAD_BIGGER_PAPER                            = 6673,  -- This little scratch? I've had bigger paper cuts!
+        NICE_OF_YOU_TO_WORRY_BUT_I_M                                         = 6674,  -- Nice of you to worry. But I'm fine, it's just a scratch.
+        NO_PROBLEM_THIS_LITTLE_SCRATCH_WON_T_SLOW                            = 6675,  -- No problem! This little scratch won't slow me down!
+        DON_T_HOLD_BACK_ON_MY_ACCOUNT_THIS_2                                 = 6676,  -- Don't hold back on my account. This is a mere scratch.
+        I_WOULD_HARDLY_CALL_THIS_A_SCRATCH_DON                               = 6677,  -- I would hardly call this a scratch. Don't mind me, mind yourself.
+        AROUND_SEVEN_OUT_OF_NINE_LIVES_RRREMAINING                           = 6678,  -- Around seven out of nine lives rrremaining!
+        ID_6679                                                              = 6679,  -- [/I should probably rest a little more./I'm not gonna let a slight wound like this keep me down!/You might want to keep on eye on my health./Shouldn't we rest a little?/I'm a little tired./I'm still fairly fresh, but maybe we should rest a bit more./I'm a little tired./Can we take a break?/Shouldn't we rest a little?] [/ Just in case./ I'm ready for more!/ Better to be ready for anything./I question my ability to survive another battle./Maybe we should rest a bit./Then I'll be ready for anything!/Shall we rest for a bit?/I don't think I can handle another fight just yet./I question my ability to survive another battle.]
+        I_SHOULD_PROBABLY_REST_A_LITTLE_MORE_JUST                            = 6680,  -- I should probably rest a little more. Just in case.
+        I_M_NOT_GONNA_LET_A_SLIGHT_WOUND                                     = 6681,  -- I'm not gonna let a slight wound like this keep me down! I'm ready for more!
+        YOU_MIGHT_WANT_TO_KEEP_ON_EYE_ON                                     = 6682,  -- You might want to keep on eye on my health. Better to be ready for anything.
+        SHOULDN_T_WE_REST_A_LITTLE_I_QUESTION                                = 6683,  -- Shouldn't we rest a little? I question my ability to survive another battle.
+        I_M_FINE_REALLY                                                      = 6684,  -- I'm fine...really.
+        I_THINK_I_STILL_CAN_PUSH_ON_FOR                                      = 6685,  -- I think I still can push on for a while.
+        I_AM_NOT_IN_IMMEDIATE_DANGER_BUT_PREVENTION                          = 6686,  -- I am not in immediate danger, but prevention is better than cure. And cure is better than raise...
+        I_M_A_LITTLE_TIRED_MAYBE_WE_SHOULD                                   = 6687,  -- I'm a little tired. Maybe we should rest a bit.
+        I_M_STILL_FAIRLY_FRESH_BUT_MAYBE_WE                                  = 6688,  -- I'm still fairly fresh, but maybe we should rest a bit more. Then I'll be ready for anything!
+        I_M_A_LITTLE_TIRED_SHALL_WE_REST                                     = 6689,  -- I'm a little tired. Shall we rest for a bit?
+        CAN_WE_TAKE_A_BREAK_I_DON_T                                          = 6690,  -- Can we take a break? I don't think I can handle another fight just yet.
+        SHOULDN_T_WE_REST_A_LITTLE_I_QUESTION_2                              = 6691,  -- Shouldn't we rest a little? I question my ability to survive another battle.
+        HM_OUR_OPPONENTS_ARE_QUITE_DETERMINED_TO_MAKE                        = 6692,  -- Hm... Our opponents are quite determined to make us work.
+        AROUND_FIVE_OUT_OF_NINE_LIVES_RRREMAINING                            = 6693,  -- Around five out of nine lives rrremaining!
+        ID_6694                                                              = 6694,  -- [/We should really take a break./I feel a little...lightheaded./That last fight took it out of me./Let's take a break, shall we?/I'm exhausted./Phew!/I'm exhausted./Phew.../Let's take a break, shall we?] [/I'm not ready for another battle./Maybe we should take a break./Let me catch my breath./No sense rushing into battle in this condition./Can you give me a minute./I think I've earned a break, don't you?/Can we sit down...for a bit...?/I think I need to lie down.../No sense rushing into battle in this condition.]
+        WE_SHOULD_REALLY_TAKE_A_BREAK_I_M                                    = 6695,  -- We should really take a break. I'm not ready for another battle.
+        I_FEEL_A_LITTLE_LIGHTHEADED_MAYBE_WE_SHOULD                          = 6696,  -- I feel a little...lightheaded. Maybe we should take a break.
+        THAT_LAST_FIGHT_TOOK_IT_OUT_OF_ME                                    = 6697,  -- That last fight took it out of me. Let me catch my breath.
+        LET_S_TAKE_A_BREAK_SHALL_WE_NO                                       = 6698,  -- Let's take a break, shall we? No sense rushing into battle in this condition.
+        I_NEED_TO_TAKE_A_BREAK_SOON                                          = 6699,  -- I need to take a break soon.
+        HEY_HOW_ABOUT_TAKING_FIVE                                            = 6700,  -- Hey, how about taking five?
+        MIGHT_I_BE_SO_BOLD_AS_TO_SUGGEST                                     = 6701,  -- Might I be so bold as to suggest we rest?
+        I_M_EXHAUSTED_CAN_YOU_GIVE_ME_A                                      = 6702,  -- I'm exhausted. Can you give me a minute?
+        PHEW_I_THINK_I_VE_EARNED_A_BREAK                                     = 6703,  -- Phew! I think I've earned a break, don't you?
+        I_M_EXHAUSTED_CAN_WE_SIT_DOWN_FOR                                    = 6704,  -- I'm exhausted. Can we sit down...for a bit...?
+        PHEW_I_THINK_I_NEED_TO_LIE_DOWN                                      = 6705,  -- Phew... I think I need to lie down...
+        LET_S_TAKE_A_BREAK_SHALL_WE_NO_2                                     = 6706,  -- Let's take a break, shall we? No sense rushing into battle in this condition.
+        PUFF_TELL_ME_IF_YOU_FEEL_YOU_NEED                                    = 6707,  -- <Puff> Tell me if you feel...you need rest... <Pant> I mean it...
+        AROUND_THREE_OUT_OF_NINE_LIVES_RRREMAINING                           = 6708,  -- Around three out of nine lives rrremaining...
+        ID_6709                                                              = 6709,  -- [/We really should rest./No...no more.../Hold on.../I'm at my limit./Enough!/Whoa.../Please.../Can't...fight...any...longer.../I'm at my limit.] [/I don't think I can survive another fight./I gotta sit down.../I need to get my strength back.../Please let me recover my strength./Let me rest already!/I think I'm gonna fall over.../I need to sit down.../Must...rest.../Please let me recover my strength.]
+        WE_REALLY_SHOULD_REST_I_DON_T_THINK                                  = 6710,  -- We really should rest. I don't think I can survive another fight.
+        NO_NO_MORE_I_GOTTA_SIT_DOWN                                          = 6711,  -- No...no more... I gotta sit down...
+        HOLD_ON_I_NEED_TO_GET_MY_STRENGTH                                    = 6712,  -- Hold on... I need to get my strength back...
+        I_M_AT_MY_LIMIT_PLEASE_LET_ME                                        = 6713,  -- I'm at my limit. Please let me recover my strength.
+        I_CAN_T_GO_ON_YOU_HAVE_TO                                            = 6714,  -- I can't...go on. You have to let me rest...
+        UGH_IF_YOU_HADN_T_NOTICED_I_SERIOUSLY                                = 6715,  -- Ugh... If you hadn't noticed, I seriously need rest.
+        I_FEAR_THE_NEXT_BATTLE_MAY_BE_MY                                     = 6716,  -- I fear the next battle may be my last. I beseech you, please permit me to rest.
+        ENOUGH_LET_ME_REST_ALREADY                                           = 6717,  -- Enough! Let me rest already!
+        WHOA_I_THINK_I_M_GONNA_FALL_OVER                                     = 6718,  -- Whoa... I think I'm gonna fall over...
+        PLEASE_I_NEED_TO_SIT_DOWN                                            = 6719,  -- Please... I need to sit down...
+        CAN_T_FIGHT_ANY_LONGER_MUST_REST                                     = 6720,  -- Can't...fight...any...longer... Must...rest...
+        I_M_AT_MY_LIMIT_PLEASE_LET_ME_2                                      = 6721,  -- I'm at my limit. Please let me recover my strength.
+        THE_ENEMY_ISN_T_GOING_ANYWHERE_WITHDRAW_AND                          = 6722,  -- The enemy isn't going anywhere. Withdraw and regroup!
+        I_M_ALMOST_OUT_OF_LIVES_MEOW                                         = 6723,  -- I'm almost out of lives. Meow...
+        ID_6724                                                              = 6724,  -- [/No need to worry about my magic, I have plenty./My magic reserves are full!/My magic has recovered./My magical reserves have recovered./My magic is restored./My magic status is A-OK!/My magical reserves are full./Magic-wise, I'm good to go!/My magical reserves have recovered.]
+        NO_NEED_TO_WORRY_ABOUT_MY_MAGIC_I                                    = 6725,  -- No need to worry about my magic, I have plenty.
+        MY_MAGIC_RESERVES_ARE_FULL                                           = 6726,  -- My magic reserves are full!
+        MY_MAGIC_HAS_RECOVERED                                               = 6727,  -- My magic has recovered.
+        MY_MAGICAL_RESERVES_HAVE_RECOVERED                                   = 6728,  -- My magical reserves have recovered.
+        MY_MAGIC_FULL_TO_THE_BRIM                                            = 6729,  -- My magic? Full to the brim!
+        I_VE_GOT_MAGIC_TO_BURN                                               = 6730,  -- I've got magic to burn!
+        I_AM_OVERFLOWING_WITH_MAGIC                                          = 6731,  -- I am overflowing with magic.
+        MY_MAGIC_IS_RESTORED                                                 = 6732,  -- My magic is restored.
+        MY_MAGIC_STATUS_IS_A_OK                                              = 6733,  -- My magic status is A-OK!
+        MY_MAGICAL_RESERVES_ARE_FULL                                         = 6734,  -- My magical reserves are full.
+        MAGIC_WISE_I_M_GOOD_TO_GO                                            = 6735,  -- Magic-wise, I'm good to go!
+        MY_MAGICAL_RESERVES_HAVE_RECOVERED_2                                 = 6736,  -- My magical reserves have recovered.
+        I_HAVE_MORE_THAN_ENOUGH_MAGIC                                        = 6737,  -- I have more than enough magic.
+        I_HAVE_A_FULL_TANK_OF_MAGIC                                          = 6738,  -- I have a full tank of magic!
+        ID_6739                                                              = 6739,  -- [/Hmm./Let's see now./My magic?/My magical reserves?/Are you relying on my magic?/I still have lots of magic left!/My magic?/Hmmm./My magical reserves?] [/Better keep an eye on my magic reserves./I think my magic is about half gone./It might be time to rest soon./Depleted to about the halfway mark./If so, we may need to rest soon./Well, maybe half.../It might be time to keep an eye on my reserves./I've used up half my magic already.../Depleted to about the halfway mark.]
+        HMM_BETTER_KEEP_AN_EYE_ON_MY_MAGIC                                   = 6740,  -- Hmm. Better keep an eye on my magic reserves.
+        LET_S_SEE_NOW_I_THINK_MY_MAGIC                                       = 6741,  -- Let's see now. I think my magic is about half gone.
+        MY_MAGIC_IT_MIGHT_BE_TIME_TO_REST                                    = 6742,  -- My magic? It might be time to rest soon.
+        MY_MAGICAL_RESERVES_DEPLETED_TO_ABOUT_THE_HALFWAY                    = 6743,  -- My magical reserves? Depleted to about the halfway mark.
+        I_HAVE_AROUND_HALF_OF_MY_MAGIC_LEFT                                  = 6744,  -- I have around half of my magic left.
+        MY_MAGIC_IS_GOOD_FOR_A_WHILE_YET                                     = 6745,  -- My magic is good for a while yet.
+        MY_MAGICAL_RESERVES_SHOULD_SUFFICE_FOR_NOW_BUT                       = 6746,  -- My magical reserves should suffice for now, but we best avoid taking unnecessary risks.
+        ARE_YOU_RELYING_ON_MY_MAGIC_IF_SO                                    = 6747,  -- Are you relying on my magic? If so, we may need to rest soon.
+        I_STILL_HAVE_LOTS_OF_MAGIC_LEFT_WELL                                 = 6748,  -- I still have lots of magic left! Well, maybe half...
+        MY_MAGIC_IT_MIGHT_BE_TIME_TO_KEEP                                    = 6749,  -- My magic? It might be time to keep an eye on my reserves.
+        HMMM_I_VE_USED_UP_HALF_MY_MAGIC                                      = 6750,  -- Hmmm. I've used up half my magic already...
+        MY_MAGICAL_RESERVES_DEPLETED_TO_ABOUT_THE_HALFWAY_2                  = 6751,  -- My magical reserves? Depleted to about the halfway mark.
+        MY_MAGICAL_RESERVES_DON_T_REQUIRE_YOUR_SYMPATHY                      = 6752,  -- My magical reserves don't require your sympathy just yet.
+        I_VE_USED_UP_ARRROUND_HALF_MY_MAGIC                                  = 6753,  -- I've used up arrround half my magic.
+        ID_6754                                                              = 6754,  -- [/My magic is running low.../I've almost run out of magic!/My magic is almost gone./My magical reserves are running low./I'm almost out of magic./Almost out of magic!/My magic is running low./Where'd all my magic go!?/My magical reserves are running low.]
+        MY_MAGIC_IS_RUNNING_LOW_2                                            = 6755,  -- My magic is running low...
+        I_VE_ALMOST_RUN_OUT_OF_MAGIC                                         = 6756,  -- I've almost run out of magic!
+        MY_MAGIC_IS_ALMOST_GONE                                              = 6757,  -- My magic is almost gone.
+        MY_MAGICAL_RESERVES_ARE_RUNNING_LOW                                  = 6758,  -- My magical reserves are running low.
+        NOOO_I_M_ALMOST_OUT_OF_MAGIC_2                                       = 6759,  -- Nooo... I'm almost out of magic...
+        MAGIC_I_M_SCRAPING_THE_BOTTOM_OF_THE                                 = 6760,  -- Magic? I'm scraping the bottom of the barrel here...
+        MY_MAGICAL_RESERVES_ARE_NEARING_DEPLETION                            = 6761,  -- My magical reserves are nearing depletion.
+        I_M_ALMOST_OUT_OF_MAGIC                                              = 6762,  -- I'm almost out of magic.
+        ALMOST_OUT_OF_MAGIC                                                  = 6763,  -- Almost out of magic!
+        MY_MAGIC_IS_RUNNING_LOW_3                                            = 6764,  -- My magic is running low.
+        WHERE_D_ALL_MY_MAGIC_GO                                              = 6765,  -- Where'd all my magic go!?
+        MY_MAGICAL_RESERVES_ARE_RUNNING_LOW_2                                = 6766,  -- My magical reserves are running low.
+        MY_MAGIC_WILL_NO_LONGER_BE_OF_MUCH                                   = 6767,  -- My magic will no longer be of much aid. Stay sharp!
+        MY_MAGIC_IT_S_ALL_GONE                                               = 6768,  -- My magic...it's all gone!
+        ID_6769                                                              = 6769,  -- [/I've just recently gained a level./I've just gained a level./Take it easy./I have recently risen in level./I've just gained a level./I just gained a level!/Little time has passed since I last gained a level./I've just gained a level, I know./I have recently risen in level.] [/There's still a lot of work to be done until the next one./I'm itching to get out and test my newfound strength!/I've just gained a level./The next level is still quite some distance away./The next level is still quite a way off./You can't expect me to level again any time soon!/The next level is still some distance away./But I still can't wait until I go up again!/The next level is still quite some distance away.]
+        I_VE_JUST_RECENTLY_GAINED_A_LEVEL_THERE                              = 6770,  -- I've just recently gained a level. There's still a lot of work to be done until the next one.
+        I_VE_JUST_GAINED_A_LEVEL_I_M                                         = 6771,  -- I've just gained a level. I'm itching to get out and test my newfound strength!
+        TAKE_IT_EASY_I_VE_JUST_GAINED_A                                      = 6772,  -- Take it easy. I've just gained a level.
+        I_HAVE_RECENTLY_RISEN_IN_LEVEL_THE_NEXT                              = 6773,  -- I have recently risen in level. The next level is still quite some distance away.
+        I_VE_JUST_LEVELED_UP_BUT_WITH_YOUR                                   = 6774,  -- I've just leveled up, but with your help, it'll take no time at all to get to the next level!
+        HEY_I_JUST_LEVELED_UP_DIDN_T_I                                       = 6775,  -- Hey, I just leveled up, didn't I? Easy on the expectations there, partner.
+        SINCE_I_HAVE_JUST_GAINED_A_LEVEL_IT                                  = 6776,  -- Since I have just gained a level, it will be quite some time until I reach the next. Sorry to disappoint you, sir/milady].
+        I_VE_JUST_GAINED_A_LEVEL_THE_NEXT                                    = 6777,  -- I've just gained a level. The next level is still quite a way off.
+        I_JUST_GAINED_A_LEVEL_YOU_CAN_T                                      = 6778,  -- I just gained a level! You can't expect me to level again any time soon!
+        LITTLE_TIME_HAS_PASSED_SINCE_I_LAST_GAINED                           = 6779,  -- Little time has passed since I last gained a level. The next level is still some distance away.
+        I_VE_JUST_GAINED_A_LEVEL_I_KNOW                                      = 6780,  -- I've just gained a level, I know. But I still can't wait until I go up again!
+        I_HAVE_RECENTLY_RISEN_IN_LEVEL_THE_NEXT_2                            = 6781,  -- I have recently risen in level. The next level is still quite some distance away.
+        I_JUST_LEVELED_UP_WE_LL_HAVE_TO                                      = 6782,  -- I just leveled up! We'll have to do something about your memory problem.
+        IT_S_SO_FARRR_AWAY                                                   = 6783,  -- It's so farrr away...
+        ID_6784                                                              = 6784,  -- [/My experience is still shallow./I have lots of work to do!/Not even close.../There is still much work to be done./Not even close.../I have lots of work to do!/I still have much to do./Ho-hum./There is still much work to be done.] [/I have much work to do./I need more experience if I'm gonna get stronger!/I still have much experience to gain./I must gain more experience if I am to become stronger./I still have much experience to gain./I need more experience if I'm gonna get stronger!/I must gain more experience in order to grow stronger./Still lots of work to do until my next level!/I must gain more experience if I am to become stronger.]
+        MY_EXPERIENCE_IS_STILL_SHALLOW_I_HAVE_MUCH                           = 6785,  -- My experience is still shallow. I have much work to do.
+        I_HAVE_LOTS_OF_WORK_TO_DO_I                                          = 6786,  -- I have lots of work to do! I need more experience if I'm gonna get stronger!
+        NOT_EVEN_CLOSE_I_STILL_HAVE_MUCH_EXPERIENCE                          = 6787,  -- Not even close... I still have much experience to gain.
+        THERE_IS_STILL_MUCH_WORK_TO_BE_DONE                                  = 6788,  -- There is still much work to be done. I must gain more experience if I am to become stronger.
+        I_STILL_HAVE_TO_GAIN_LOTS_MORE_EXPERIENCE                            = 6789,  -- I still have to gain lots more experience, but I'll do my best!
+        MY_NEXT_LEVEL_IS_STILL_AGES_AWAY_WHY                                 = 6790,  -- My next level is still ages away. Why hurry? Don't worry, be happy!
+        I_HAVE_MADE_SOME_PROGRESS_BUT_THE_NEXT                               = 6791,  -- I have made some progress, but the next level still eludes me.
+        NOT_EVEN_CLOSE_I_STILL_HAVE_MUCH_EXPERIENCE_2                        = 6792,  -- Not even close... I still have much experience to gain.
+        I_HAVE_LOTS_OF_WORK_TO_DO_I_2                                        = 6793,  -- I have lots of work to do! I need more experience if I'm gonna get stronger!
+        I_STILL_HAVE_MUCH_TO_DO_I_MUST                                       = 6794,  -- I still have much to do. I must gain more experience in order to grow stronger.
+        HO_HUM_STILL_LOTS_OF_WORK_TO_DO                                      = 6795,  -- Ho-hum. Still lots of work to do until my next level!
+        THERE_IS_STILL_MUCH_WORK_TO_BE_DONE_2                                = 6796,  -- There is still much work to be done. I must gain more experience if I am to become stronger.
+        MY_LEVEL_WON_T_RISE_IF_WE_STAND                                      = 6797,  -- My level won't rise if we stand around talking like this!
+        NO_DON_T_RRREMIND_ME_SUCH_A_LONG                                     = 6798,  -- No, don't rrremind me! Such a long way to go...
+        ID_6799                                                              = 6799,  -- [/I've gained a fair amount of experience./I think I must be almost halfway to my next level./Hmm./I believe I've almost reached the halfway point to my next level./I do believe I'm coming up on halfway to my next level./I think I must be almost halfway to my next level./I've come a long way towards my next level./We've been busy, huh?/I believe I've almost reached the halfway point to my next level.] [/I must be close to halfway to my next level by now./Can't slow down now!/I must be almost halfway to my next level by now./Let's not rest on our laurels, however!/That was much faster than I expected./No time to be slacking off!/Must be close to halfway by now./I think I'm almost halfway to my next level./Let's not rest on our laurels, however!]
+        I_VE_GAINED_A_FAIR_AMOUNT_OF_EXPERIENCE                              = 6800,  -- I've gained a fair amount of experience. I must be close to halfway to my next level by now.
+        I_THINK_I_MUST_BE_ALMOST_HALFWAY_TO                                  = 6801,  -- I think I must be almost halfway to my next level. Can't slow down now!
+        HMM_I_MUST_BE_ALMOST_HALFWAY_TO_MY                                   = 6802,  -- Hmm. I must be almost halfway to my next level by now.
+        I_BELIEVE_I_VE_ALMOST_REACHED_THE_HALFWAY                            = 6803,  -- I believe I've almost reached the halfway point to my next level. Let's not rest on our laurels, however!
+        I_THINK_I_M_ABOUT_HALF_WAY_THERE                                     = 6804,  -- I think I'm about half way there...
+        I_M_HALF_WAY_THERE_SO_LET_S                                          = 6805,  -- I'm half way there, so let's keep up the pace!
+        THROUGH_SUSTAINED_EFFORT_AND_YOUR_INVALUABLE_ASSISTANCE_I            = 6806,  -- Through sustained effort and your invaluable assistance, I believe I now stand at the halfway point.
+        I_DO_BELIEVE_I_M_COMING_UP_ON                                        = 6807,  -- I do believe I'm coming up on halfway to my next level. That was much faster than I expected.
+        I_THINK_I_MUST_BE_ALMOST_HALFWAY_TO_2                                = 6808,  -- I think I must be almost halfway to my next level. No time to be slacking off!
+        I_VE_COME_A_LONG_WAY_TOWARDS_MY                                      = 6809,  -- I've come a long way towards my next level. Must be close to halfway by now.
+        WE_VE_BEEN_BUSY_HUH_I_THINK_I                                        = 6810,  -- We've been busy, huh? I think I'm almost halfway to my next level.
+        I_BELIEVE_I_VE_ALMOST_REACHED_THE_HALFWAY_2                          = 6811,  -- I believe I've almost reached the halfway point to my next level. Let's not rest on our laurels, however!
+        I_STILL_HAVEN_T_ACQUIRED_ENOUGH_EXPERIENCE_ABOUT                     = 6812,  -- I still haven't acquired enough experience. About double what I have now should be sufficient for the next level.
+        I_M_HALFWAY_THERE_MAYBE                                              = 6813,  -- I'm halfway there...maybe?
+        ID_6814                                                              = 6814,  -- [/Hmm./This is a good pace!/Hmm./Well, well./Just a little more./Come on!/I'm past the halfway point./Just a little more!/Well, well.] [/Not too much further to my next level./Not much more to my next level!/Still need a little more experience for my next level./It appears my next level is not far off at all./My next level is not too far away./I need to gain a little more experience for my next level!/Not long now until I gain another level./My next level is almost within sight!/It appears my next level is not far off at all.]
+        HMM_NOT_TOO_MUCH_FURTHER_TO_MY_NEXT                                  = 6815,  -- Hmm. Not too much further to my next level.
+        THIS_IS_A_GOOD_PACE_NOT_MUCH_MORE                                    = 6816,  -- This is a good pace! Not much more to my next level!
+        HMM_STILL_NEED_A_LITTLE_MORE_EXPERIENCE_FOR                          = 6817,  -- Hmm. Still need a little more experience for my next level.
+        WELL_WELL_IT_APPEARS_MY_NEXT_LEVEL_IS                                = 6818,  -- Well, well. It appears my next level is not far off at all.
+        I_M_SLOWLY_GETTING_CLOSER_TO_THE_NEXT                                = 6819,  -- I'm slowly getting closer to the next level.
+        I_RECKON_I_M_FAIRLY_CLOSE_TO_THE                                     = 6820,  -- I reckon I'm fairly close to the next level.
+        MY_NEXT_LEVEL_IS_NOW_VISIBLE_ON_THE                                  = 6821,  -- My next level is now visible on the horizon.
+        JUST_A_LITTLE_MORE_MY_NEXT_LEVEL_IS                                  = 6822,  -- Just a little more. My next level is not too far away.
+        COME_ON_I_NEED_TO_GAIN_A_LITTLE                                      = 6823,  -- Come on! I need to gain a little more experience for my next level!
+        I_M_PAST_THE_HALFWAY_POINT_NOT_LONG                                  = 6824,  -- I'm past the halfway point. Not long now until I gain another level.
+        JUST_A_LITTLE_MORE_MY_NEXT_LEVEL_IS_2                                = 6825,  -- Just a little more! My next level is almost within sight!
+        WELL_WELL_IT_APPEARS_MY_NEXT_LEVEL_IS_2                              = 6826,  -- Well, well. It appears my next level is not far off at all.
+        MY_NEXT_LEVEL_DRAWS_EVER_NEARER_BUT_THAT                             = 6827,  -- My next level draws ever nearer. But that doesn't mean you can slack off.
+        IT_CAN_T_BE_SO_FAR_OFF_NOW                                           = 6828,  -- It can't be so far off, now...can it?
+        ID_6829                                                              = 6829,  -- [/Hmm./I'm almost there./Not long now./Any time now./Well, what do you know?/Woohoo!/This is encouraging./I love this time!/Any time now.] [/I should be gaining a level soon./I can almost taste my next level!/My next level is just around the corner./My next level is very close, indeed./I think I'll be gaining a level soon./I'll be leveling up really soon!/I should be gaining a level any time now./I'm on the final stretch towards my next level!/My next level is very close, indeed.]
+        HMM_I_SHOULD_BE_GAINING_A_LEVEL_SOON                                 = 6830,  -- Hmm. I should be gaining a level soon.
+        I_M_ALMOST_THERE_I_CAN_ALMOST_TASTE                                  = 6831,  -- I'm almost there! I can almost taste my next level!
+        NOT_LONG_NOW_MY_NEXT_LEVEL_IS_JUST                                   = 6832,  -- Not long now. My next level is just around the corner.
+        ANY_TIME_NOW_MY_NEXT_LEVEL_IS_VERY                                   = 6833,  -- Any time now. My next level is very close, indeed.
+        I_THINK_I_LL_LEVEL_UP_ANY_TIME                                       = 6834,  -- I think I'll level up any time now! Yay!
+        OOH_THE_NEXT_LEVEL_S_CLOSE_REALLY_CLOSE                              = 6835,  -- Ooh, the next level's close...really close. We should prepare to celebrate!
+        WHY_I_WOULD_NOT_BE_SURPRISED_IF_MY                                   = 6836,  -- Why, I would not be surprised if my level were to rise...now! Er...perhaps not quite yet.
+        WELL_WHAT_DO_YOU_KNOW_I_THINK_I                                      = 6837,  -- Well, what do you know? I think I'll be gaining a level soon.
+        WOOHOO_I_LL_BE_LEVELING_UP_REALLY_SOON                               = 6838,  -- Woohoo! I'll be leveling up really soon!
+        THIS_IS_ENCOURAGING_I_SHOULD_BE_GAINING_A                            = 6839,  -- This is encouraging. I should be gaining a level any time now.
+        I_LOVE_THIS_TIME_I_M_ON_THE                                          = 6840,  -- I love this time! I'm on the final stretch towards my next level!
+        ANY_TIME_NOW_MY_NEXT_LEVEL_IS_VERY_2                                 = 6841,  -- Any time now. My next level is very close, indeed.
+        MY_NEXT_LEVEL_IS_WITHIN_REACHING_DISTANCE_FROM                       = 6842,  -- My next level is within reaching distance! From now it's a charge to the finish line!
+        SNIFF_SNIFF_I_THINK_I_CAN_SMELL_MY                                   = 6843,  -- <Sniff, sniff> I think I can smell my next level! Come out, come out, whereverrr you are!
+        I_TELL_YOU_WHAT_CHANGING_YOUR_WEAPON_IS                              = 6844,  -- I tell you what. Changing your weapon is fun. Seriously.
+        IT_S_ALWAYS_NICE_TO_COME_OUTSIDE_AND                                 = 6845,  -- It's always nice to come outside and move around! Those Mog Houses can get so stuffy! Wanna race?
+        WE_SHOULD_KEEP_THE_CHAT_DOWN_THE_SOUND                               = 6846,  -- ... We should keep the chat down. The sound could give our position away to some beastman...
+        IT_S_ALL_VERY_WELL_AND_GOOD_TO                                       = 6847,  -- It's all very well and good to be heroic. But it's best not to overstretch yourself during battle. Overcautious? Perhaps.
+        WH_WHAT_Y_YOU_SAY_YOU_WANT_TO                                        = 6848,  -- Wh-what? Y...you say you want to have a conversation? Um, here goes... Er...nice weather, isn't it...?
+        YOU_KNOW_WE_VE_BEEN_ADVENTURING_TOGETHER_FOR                         = 6849,  -- You know, we've been adventuring together for a while now, but we still have lots to learn about each other.
+        YOU_CALLED_HOW_MAY_I_BE_OF_SERVICE                                   = 6850,  -- You called? How may I be of service? You need but ask, and it shall be done!
+        I_LOVE_TO_CHAT_BUT_WE_SHOULD_KEEP                                    = 6851,  -- I love to chat. But we should keep an eye out for wandering monsters. Just in case.
+        TREASURE_I_M_NOT_REALLY_INTERESTED_YOU_GO                            = 6852,  -- Treasure? I'm not really interested. You go ahead and keep it all.
+        I_JUST_REALIZED_SOMETHING_I_VE_NEVER_ONCE                            = 6853,  -- I just realized something. I've never once had Signet cast on me. Oh well, never mind...
+        COMMUNICATION_IS_REALLY_IMPORTANT_WE_SHOULD_ALWAYS_LET               = 6854,  -- Communication is really important. We should always let each other know what we're thinking, right? No secrets!
+        IT_S_ALL_VERY_WELL_AND_GOOD_TO_2                                     = 6855,  -- It's all very well and good to be heroic. But it's best not to overstretch yourself during battle. Overcautious? Perhaps.
+        THERE_IS_A_TIME_AND_PLACE_FOR_IDLE                                   = 6856,  -- There is a time and place for idle chatter. No, I stand corrected: There is no time nor place for idle chatter.
+        SHE_FLOATS_LIKE_A_BUTTERFLY_AND_STINGS_LIKE                          = 6857,  -- She floats like a butterfly and stings like a bee.t The grrreatest Mithra in the world--that's me!t
+        FIGHT_OR_EVADE_I_LL_LEAVE_THOSE_DECISIONS                            = 6858,  -- Fight or evade? I'll leave those decisions up to you. Either is fine with me.
+        BATTLE_STRATEGY_WE_SHOULD_WORK_TOGETHER_YOU_KNOW                     = 6859,  -- Battle strategy! We should work together, you know. I know some great weapon skills!
+        NO_NEED_TO_WORRY_I_VE_HAD_TRAINING                                   = 6860,  -- No need to worry. I've had training in all sorts of weapons. Try me.
+        LOOK_AT_THE_TIME_WE_COULD_SPEND_ALL                                  = 6861,  -- Look at the time. We could spend all day chatting like this. Not that we have to be fighting...
+        S_SORRY_BUT_I_COULDN_T_THINK_OF                                      = 6862,  -- ...... S-sorry, but I couldn't think of anything to say. I'm not very good at conversation and stuff...
+        SEEMS_TO_ME_ALL_WE_DO_IS_FIGHT                                       = 6863,  -- Seems to me all we do is fight, fight, and fight. Next time we should do something different--something fun!
+        WHILE_YOUR_BATTLE_PROWESS_IS_BEYOND_CRITICISM_THE                    = 6864,  -- While your battle prowess is beyond criticism, the ability to gracefully wield knife and fork at the dining table must not be underestimated. Might I be so bold as to suggest spending more time mastering table manners?
+        IT_S_SURPRISING_THERE_S_SO_MUCH_BEAUTY                               = 6865,  -- It's surprising. There's so much beauty to be found outside the city walls. I spend too much time in clothes stores.
+        LISTEN_LET_ME_KNOW_IF_YOU_WANT_ME                                    = 6866,  -- Listen. Let me know if you want me to take the heat. I can take it!
+        I_LIKE_THE_OUTDOORS_AWAY_FROM_THE_HUSTLE                             = 6867,  -- I like the outdoors. Away from the hustle and bustle of the towns. So relaxing...
+        HEY_IT_S_REALLY_A_LOT_OF_FUN                                         = 6868,  -- Hey! It's really a lot of fun adventuring with you. We get to see all kinds of things!
+        LOOK_AT_THE_TIME_WE_COULD_SPEND_ALL_2                                = 6869,  -- Look at the time. We could spend all day chatting like this. Not that we have to be fighting...
+        IF_I_WANTED_TO_ENGAGE_IN_PETTY_CONVERSATION                          = 6870,  -- If I wanted to engage in petty conversation, I'd ask for it!
+        HEAL_THE_WORRRLD_T_MAKE_IT_A_BETTER                                  = 6871,  -- Heal the worrrld.t Make it a better place.t For you and for me, and the entire Mithran rrrace.t
+        IS_THAT_A_YAWN_BE_CAREFUL_TO_GET                                     = 6872,  -- Is that a yawn? Be careful to get enough sleep. It could affect your performance in battle.
+        YOU_KNOW_ME_I_CAN_TAKE_THE_HITS                                      = 6873,  -- You know me! I can take the hits. Just bring it on!
+        SOMETIMES_I_JUST_LIKE_TO_BE_QUIET                                    = 6874,  -- ... Sometimes... I just like to be quiet...
+        A_SMALL_REMINDER_WE_SHOULD_BE_EXTRA_CAREFUL                          = 6875,  -- A small reminder: We should be extra careful out here. You never know when an enemy may be near...
+        UM_I_VE_BEEN_MEANING_TO_ASK_I                                        = 6876,  -- Um... I've been meaning to ask, I mean... I hope you don't mind me asking, but...uh... Nevermind... <Sigh>
+        YOU_KNOW_IT_S_KIND_OF_EMBARRASSING_WE                                = 6877,  -- You know, it's kind of embarrassing we have exactly the same pearl, don't you think?
+        NOTHING_GRANTS_ME_GREATER_HAPPINESS_THAN_BEING_ABLE                  = 6878,  -- Nothing grants me greater happiness than being able to stand at your side, come what may.
+        BY_THE_WAY_YOU_DON_T_HAVE_TO                                         = 6879,  -- By the way. You don't have to handle everything yourself. I can take the frontline sometimes, too.
+        AH_THIS_IS_FUN_I_LOVE_VISITING_DIFFERENT                             = 6880,  -- Ah, this is fun! I love visiting different places. Don't you?
+        BY_THE_WAY_I_LL_BE_THERE_FOR                                         = 6881,  -- By the way. I'll be there for you, no matter what. Even if your opponent seems too weak to be worthwhile.
+        YOU_NEVER_KNOW_WHEN_SOMETHING_BAD_IS_GOING                           = 6882,  -- You never know when something bad is going to happen. What's that over there!? Kidding!
+        A_SMALL_REMINDER_WE_SHOULD_BE_EXTRA_CAREFUL_2                        = 6883,  -- A small reminder: We should be extra careful out here. You never know when an enemy may be near...
+        YOUR_CURIOSITY_AND_PERSISTENCE_WILL_TAKE_YOU_A                       = 6884,  -- Your curiosity and persistence will take you a long way. But it can be irritating, so don't overdo it.
+        HUH_WHAT_IS_THIS_PLACE_WHY_AM_I                                      = 6885,  -- Huh...? What is this place? Why am I here? I was supposed to be--ow! My head hurrrts...
+        ID_6886                                                              = 6886,  -- [/Ready?/Keep your eyes open!/I see an opening./Are you ready?/I'm warmed up now./Don't blink now!/Are you ready?/Alrighty!/Are you ready?] [/I'm taking my shot!/You don't wanna miss this!/Get ready to follow up./I'm beginning my attack!/Time for a real attack!/Follow my lead!/I'm taking my shot!/Here goes nothing!/I'm beginning my attack!]
+        READY_I_M_TAKING_MY_SHOT                                             = 6887,  -- Ready? I'm taking my shot!
+        KEEP_YOUR_EYES_OPEN_YOU_DON_T_WANNA                                  = 6888,  -- Keep your eyes open! You don't wanna miss this!
+        I_SEE_AN_OPENING_GET_READY_TO_FOLLOW                                 = 6889,  -- I see an opening. Get ready to follow up.
+        ARE_YOU_READY_I_M_BEGINNING_MY_ATTACK                                = 6890,  -- Are you ready? I'm beginning my attack!
+        I_M_GOING_TO_ATTACK_ARE_YOU_READY                                    = 6891,  -- I'm going to attack! Are you ready?
+        KEEP_YOUR_EYES_PEELED_I_M_GOING_IN                                   = 6892,  -- Keep your eyes peeled! I'm going in for the big one!
+        ARE_PREPARATIONS_IN_ORDER_SIR_MILADY_THEN_I                          = 6893,  -- Are preparations in order, sir/milady]? Then, I shall proceed with my offensive.
+        I_M_WARMED_UP_NOW_TIME_FOR_A                                         = 6894,  -- I'm warmed up now. Time for a real attack!
+        DON_T_BLINK_NOW_FOLLOW_MY_LEAD                                       = 6895,  -- Don't blink now! Follow my lead!
+        ARE_YOU_READY_I_M_TAKING_MY_SHOT                                     = 6896,  -- Are you ready? I'm taking my shot!
+        ALRIGHTY_HERE_GOES_NOTHING                                           = 6897,  -- Alrighty! Here goes nothing!
+        ARE_YOU_READY_I_M_BEGINNING_MY_ATTACK_2                              = 6898,  -- Are you ready? I'm beginning my attack!
+        I_M_GOING_IN_SO_GET_READY_NO                                         = 6899,  -- I'm going in, so get ready! No slipping up!
+        IT_S_MY_TURRRN_GET_READY_TO_POUNCE                                   = 6900,  -- It's my turrrn! Get ready to pounce after me!
+        BLESSED_RADIANCE_PURGE_THIS_EVIL_WITH_YOUR_PURIFYING                 = 6901,  -- Blessed radiance! Purge this evil with your purifying light!
+        BLESSED_RADIANCE_GRANT_ME_YOUR_POWER                                 = 6902,  -- Blessed radiance! Grant me your power!
+        BLESSED_RADIANCE_STRIKE_DOWN_THIS_EVIL_WITH_BLADES                   = 6903,  -- Blessed radiance! Strike down this evil with blades of cleansing incandescence!
+        BLESSED_RADIANCE_LEND_ME_THE_STRENGTH_TO_DEFEAT                      = 6904,  -- Blessed radiance! Lend me the strength to defeat this evil!
+        BLESSED_RADIANCE_LEND_ME_YOUR_POWER                                  = 6905,  -- Blessed radiance! Lend me your power!
+        BLESSED_RADIANCE_SMITE_THIS_EVIL_WITH_YOUR_PURIFYING                 = 6906,  -- Blessed radiance! Smite this evil with your purifying light!
+        BLESSED_RADIANCE_I_HUMBLY_CALL_UPON_THEE_PROTECT                     = 6907,  -- Blessed radiance! I humbly call upon thee! Protect us with your divine light!
+        BLESSED_RADIANCE_PURGE_THIS_EVIL_WITH_YOUR_PURIFYING_2               = 6908,  -- Blessed radiance! Purge this evil with your purifying light!
+        BLESSED_RADIANCE_GRANT_ME_YOUR_POWER_2                               = 6909,  -- Blessed radiance! Grant me your power!
+        BLESSED_RADIANCE_STRIKE_DOWN_THIS_EVIL_WITH_BLADES_2                 = 6910,  -- Blessed radiance! Strike down this evil with blades of cleansing incandescence!
+        BLESSED_RADIANCE_GRANT_ME_YOUR_POWER_3                               = 6911,  -- Blessed radiance! Grant me your power!
+        BLESSED_RADIANCE_LEND_ME_THE_STRENGTH_TO_DEFEAT_2                    = 6912,  -- Blessed radiance! Lend me the strength to defeat this evil!
+        BLESSED_RADIANCE_STRIKE_DOWN_THIS_EVIL_WITH_YOUR                     = 6913,  -- Blessed radiance! Strike down this evil with your divine beam of judgment!
+        BLESSED_RRRADIANCE_GO_FORTH_AND_ZAP_THAT_EVIL                        = 6914,  -- Blessed rrradiance! Go forth and...zap that evil thing...over there! Meow!
+        DEFEATED_ENEMIES_THAT_WAS_NUMBER                                     = 6915,  -- Defeated enemies? That was number #.
+        SO_FAR_WE_VE_ONLY_TAKEN_DOWN_TODAY                                   = 6916,  -- So far, we've only taken down # [enemy/enemies] today!
+        HOW_MANY_ENEMIES_HAVE_WE_DEFEATED_ONLY_YOU                           = 6917,  -- How many enemies have we defeated? Only #. You can count that high, right...?
+        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED                               = 6918,  -- You wish to know the tally of defeated enemies? Why, we have only vanquished # [foe/foes] so far.
+        WE_HAVEN_T_DEFEATED_MANY_ENEMIES_YET_ONLY                            = 6919,  -- We haven't defeated many enemies yet. Only # so far.
+        WE_VE_ONLY_DEFEATED_SO_FAR_NOTHING_TO                                = 6920,  -- We've only defeated # [enemy/enemies] so far. Nothing to write home about.
+        OUR_PROGRESS_SIR_MILADY_THE_LAST_FOE_BESTED                          = 6921,  -- Our progress, sir/milady]? The last foe bested brings today's tally to # [enemy/enemies].
+        WE_VE_ONLY_BEATEN_SO_FAR_DON_T                                       = 6922,  -- We've only beaten # [enemy/enemies] so far. Don't tell me you're tired already!?
+        ONLY_FALLEN_TO_US_TODAY_WE_RE_JUST                                   = 6923,  -- Only # [enemy has/enemies have] fallen to us today! We're just getting started!
+        THE_LAST_ENEMY_WE_DEFEATED_WAS_NUMBER                                = 6924,  -- The last enemy we defeated was number #.
+        THE_LAST_ENEMY_WE_TOOK_DOWN_WAS_NUMBER                               = 6925,  -- The last enemy we took down was number #.
+        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED_2                             = 6926,  -- You wish to know the tally of defeated enemies? Why, we have only vanquished # [foe/foes] so far.
+        ONLY_DEFEATED_SO_FAR_THIS_DOESN_T_EVEN                               = 6927,  -- Only # [enemy/enemies] defeated so far. This doesn't even amount to a warm-up.
+        WE_VE_BEATEN_AT_LEAST_TWO_RIGHT                                      = 6928,  -- We've beaten at least two...right?
+        DEFEATED_ENEMIES_THAT_WAS_NUMBER_2                                   = 6929,  -- Defeated enemies? That was number #.
+        I_D_SAY_WE_VE_BLASTED_THROUGH_AROUND                                 = 6930,  -- I'd say we've blasted through around # [enemy/enemies] by now!
+        HOW_MANY_ENEMIES_HAVE_WE_DEFEATED_HMM_AROUND                         = 6931,  -- How many enemies have we defeated? Hmm, around #...
+        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED_3                             = 6932,  -- You wish to know the tally of defeated enemies? The last villain we defeated brings us to number #.
+        YOU_WANT_TO_KNOW_HOW_MANY_ENEMIES_WE                                 = 6933,  -- You want to know how many enemies we've beaten so far? Let me check... It's #.
+        THE_LAST_ONE_WE_TOOK_CARE_OF_MAKES                                   = 6934,  -- The last one we took care of makes number #, right? Not too shabby, if I do say so myself.
+        OUR_PROGRESS_SIR_MILADY_THE_LAST_FOE_BESTED_2                        = 6935,  -- Our progress, sir/milady]? The last foe bested brings today's tally to # [enemy/enemies].
+        WE_VE_DEFEATED_ABOUT_NOW_THAT_SHOULD_QUIETEN                         = 6936,  -- We've defeated about # [enemy/enemies] now. That should quieten things down around here!
+        I_WOULD_SAY_WE_VE_TAKEN_OUT_AROUND                                   = 6937,  -- I would say we've taken out around # [enemy/enemies] by now. Still more work to be done!
+        THE_LAST_ENEMY_WE_DEFEATED_WAS_NUMBER_AS                             = 6938,  -- The last enemy we defeated was number #. As far as I remember.
+        HOW_MANY_ENEMIES_HAVE_WE_DOWNED_UMM_AROUND                           = 6939,  -- How many enemies have we downed? Umm...around #. I think.
+        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED_4                             = 6940,  -- You wish to know the tally of defeated enemies? The last villain we defeated brings us to number #.
+        OUR_TALLY_STANDS_AT_A_MEAGER_ENEMIES_THIS                            = 6941,  -- Our tally stands at a meager # enemies. This is unacceptable. We're picking up the pace!
+        WE_VE_BEATEN_A_LOT_MORE_THAN_THREE                                   = 6942,  -- We've beaten a lot more than three now...prrrobably.
+        DEFEATED_ENEMIES_THAT_WAS_NUMBER_I_BELIEVE                           = 6943,  -- Defeated enemies? That was number #, I believe.
+        I_M_JUST_GUESSING_HERE_BUT_I_D                                       = 6944,  -- I'm just guessing here, but I'd say we've destroyed about # [enemy/enemies] today!
+        ENEMIES_DEFEATED_I_WASN_T_REALLY_KEEPING_TRACK                       = 6945,  -- Enemies defeated? I wasn't really keeping track. Around #, I suppose...
+        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED_5                             = 6946,  -- You wish to know the tally of defeated enemies? I believe our total comes to #.
+        HOW_MANY_ENEMIES_WE_VE_DEFEATED_ISN_T                                = 6947,  -- How many enemies we've defeated? Isn't it something like #?
+        LET_S_SEE_SO_FAR_WE_VE_WIPED                                         = 6948,  -- Let's see... So far we've wiped the floor with # enemies. Good job!
+        THE_LAST_FOE_BESTED_BRINGS_TODAY_S_TALLY                             = 6949,  -- The last foe bested brings today's tally to # [enemy/enemies]--a most impressive figure. Shall I prepare tea and biscuits?
+        WE_JUST_BEAT_ENEMY_NUMBER_THEY_JUST_KEEP                             = 6950,  -- We just beat enemy number #. They just keep coming, don't they?
+        THE_LAST_ENEMY_WE_TOOK_DOWN_WAS_NUMBER_2                             = 6951,  -- The last enemy we took down was number #...I think.
+        THAT_LAST_ENEMY_BRINGS_US_TO_A_TOTAL                                 = 6952,  -- That last enemy brings us to a total of # [enemy/enemies] defeated. We've been busy.
+        UMM_LET_S_SEE_HERE_WE_VE_BEATEN                                      = 6953,  -- Umm, let's see here... We've beaten # [enemy/enemies] today, right? I've totally lost count...
+        YOU_WISH_TO_KNOW_THE_TALLY_OF_DEFEATED_6                             = 6954,  -- You wish to know the tally of defeated enemies? I believe our total comes to #.
+        WE_VE_ALREADY_RID_THE_LAND_OF_ENEMIES                                = 6955,  -- We've already rid the land of # enemies today, but it doesn't seem to make even the slightest dint in their numbers.
+        HOW_MANY_ENEMIES_WE_VE_BEATEN_WHY_THAT                               = 6956,  -- How many enemies we've beaten? Why, that would be heaps and heaps!
+        APPEARS_FRIGHTENED_BY_THE                                            = 6957,  -- [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] appears frightened by the %.
+        APPEARS_FRIGHTENED_BY_THE_2                                          = 6958,  -- [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] appears frightened by the %.
+        APPEARS_FRIGHTENED_BY_THE_3                                          = 6959,  -- [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] appears frightened by the %.
+        APPEARS_FRIGHTENED_BY_THE_4                                          = 6960,  -- [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] appears frightened by the %.
+        APPEARS_FRIGHTENED_BY_THE_5                                          = 6961,  -- [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] appears frightened by the %.
+        APPEARS_FRIGHTENED_BY_THE_6                                          = 6962,  -- [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] appears frightened by the %.
+        APPEARS_FRIGHTENED_BY_THE_7                                          = 6963,  -- [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] appears frightened by the %.
+        APPEARS_FRIGHTENED_BY_THE_8                                          = 6964,  -- [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] appears frightened by the %.
+        S_PERSONALITY_CHANGES                                                = 6965,  -- [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji]'s personality changes!
+        S_PERSONALITY_CHANGED                                                = 6966,  -- [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde]'s personality changed!
+        S_PERSONALITY_CHANGES_2                                              = 6967,  -- [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant]'s personality changes!
+        S_PERSONALITY_CHANGES_3                                              = 6968,  -- [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue]'s personality changes!
+        S_PERSONALITY_CHANGES_4                                              = 6969,  -- [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga]'s personality changes!
+        S_PERSONALITY_CHANGES_5                                              = 6970,  -- [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa]'s personality changes!
+        S_PERSONALITY_CHANGES_6                                              = 6971,  -- [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli]'s personality changes!
+        S_PERSONALITY_CHANGES_7                                              = 6972,  -- [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof]'s personality changes!
+        WHAT_DO_YOU_THINK_IT_MIGHT_BE_SOMEWHAT                               = 6973,  -- What do you think? It might be somewhat of an acquired taste...
+        WELL_TASTES_GREAT_DOESN_T_IT                                         = 6974,  -- Well? Tastes great, doesn't it!?
+        YOU_VE_GOT_SOME_STUCK_ON_YOUR_LIPS                                   = 6975,  -- You've got some stuck on your lips.
+        DID_YOU_ENJOY_IT_OF_COURSE_I_M                                       = 6976,  -- Did you enjoy it? Of course, I'm not one to brag about a simple piece of bread...
+        I_THINK_I_OVERCOOKED_IT_A_LITTLE_WHAT                                = 6977,  -- I think I overcooked it a little. What do you think of the taste?
+        NOT_BAD_IS_IT_I_BET_YOU_NEVER                                        = 6978,  -- Not bad is it? I bet you never thought me to be a cooking type!
+        ARE_YOU_CHEWING_PROPERLY_I_WENT_THROUGH_A                            = 6980,  -- Are you chewing properly? I went through a lot of trouble to make that, so eat slowly and savor each bite, alright?
+        SO_HOW_WAS_IT_DID_I_MAKE_THE                                         = 6981,  -- So...how was it? Did I make the texture too firm?
+        WHAT_DO_YOU_THINK_I_TRIED_PICKING_AN                                 = 6982,  -- What do you think? I tried picking an aroma I thought you'd like, you know.
+        THAT_S_A_TASTY_LOOKING_STEW_YOU_VE                                   = 6983,  -- That's a tasty-looking stew you've got there! Why, all my favorite ingredients are in it! Oh, wait, is that the one I made for you?
+        I_HOPE_IT_S_COMPATIBLE_WITH_YOUR_TASTE                               = 6984,  -- I hope it's compatible with your taste buds...
+        THIS_ISN_T_THE_TIME_NOR_THE_PLACE                                    = 6985,  -- This isn't the time nor the place to be nonchalantly slurping up pasta!
+        ID_6987                                                              = 6987,  -- #...
+        THE_MINE_EXPLODES                                                    = 6988,  -- The mine explodes!
+        THE_MINE_MISFIRES                                                    = 6989,  -- The mine misfires...
+        YOU_RETRIEVE_THE_MINE                                                = 6990,  -- You retrieve the mine.
+        YOU_SUCCESSFULLY_DEACTIVATE_THE_MINE                                 = 6991,  -- You successfully deactivate the mine!
+        YOU_FAILED_TO_DEACTIVATE_THE_MINE                                    = 6992,  -- You failed to deactivate the mine...
+        OBTAINED_CRUOR_TOTAL                                                 = 6993,  -- Obtained # cruor. (Total: #)
+        OBTAINED_CRUOR_TOTAL_2                                               = 6994,  -- Obtained # cruor. (Total: #)
+        YOU_DO_NOT_HAVE_ENOUGH_CRUOR                                         = 6995,  -- You do not have enough cruor.
+        YOU_DO_NOT_HAVE_ENOUGH_CRUOR_2                                       = 6996,  -- You do not have enough cruor.
+        YOU_HAVE_OBTAINED_ALL_OF_LILISETTE_S_MEMORY                          = 6997,  -- You have obtained all of Lilisette's memory fragments. Make haste and report to Cait Sith.
+        YOU_CANNOT_PERFORM_THAT_ACTION_COME_BACK_AFTER                       = 6998,  -- You cannot perform that action. Come back after you have obtained visitant status.
+        YOU_CANNOT_PERFORM_THAT_ACTION_WHILE_PARTICIPATING_IN                = 6999,  -- You cannot perform that action while participating in Bastion.
+        TARGET_OUT_OF_RANGE                                                  = 7000,  -- Target out of range.
+        YOU_CANNOT_VIEW_THIS_EVENT_WHILE_HOLDING_CLAIM                       = 7001,  -- You cannot view this event while holding claim over a synergy furnace.
+        YOU_CANNOT_PERFORM_THAT_ACTION_WITH_A_FREE                           = 7002,  -- You cannot perform that action with a free trial account.
+        YOU_MUST_WAIT_ANOTHER_TO_PERFORM_THAT_ACTION                         = 7003,  -- You must wait another # [day/days] to perform that action.
+        GAINED                                                               = 7004,  -- % gained # [points of experience/limit points].
+        YOU_CANNOT_CARRY_ANY_MORE                                            = 7005,  -- You cannot carry any more %.
+        YOU_HAVE_CARRIED_OVER_LOGIN_POINT                                    = 7006,  -- You have carried over # login point[/s].
+        THE_LOGIN_CAMPAIGN_IS_CURRENTLY_UNDERWAY                             = 7007,  -- The [/January/February/March/April/May/June/July/August/September/October/November/December] # Login Campaign is currently underway!
+        IN_CELEBRATION_OF_YOUR_MOST_RECENT_LOGIN_LOGIN                       = 7008,  -- In celebration of your most recent login (login no. #), we have provided you with # points! You currently have a total of # points.
+        YOU_HAVE_OBTAINED_BAYLD                                              = 7012,  -- You have obtained # bayld!
+        YOU_HAVE_OBTAINED_BAYLD_2                                            = 7013,  -- You have obtained # bayld!
+        YOU_DO_NOT_HAVE_ENOUGH_BAYLD                                         = 7014,  -- You do not have enough bayld!
+        YOU_DO_NOT_HAVE_ENOUGH_BAYLD_2                                       = 7015,  -- You do not have enough bayld!
+        YOU_CAN_NOW_BECOME_A                                                 = 7016,  -- You can now become a [geomancer/rune fencer]!
+        YOUR_HAS_BEEN_ATTUNED_TO_A_GEOMAGNETIC_FOUNT                         = 7017,  -- Your % has been attuned to a geomagnetic fount in the corresponding locale.
+        A_FAINT_ENERGY_WAFTS_UP_FROM_THE_GROUND                              = 7018,  -- A faint energy wafts up from the ground.
+        YOUR_DEVICE_HAS_ALREADY_BEEN_ATTUNED_TO_A                            = 7019,  -- Your device has already been attuned to a geomagnetic fount in the corresponding locale.
+        YOU_HAVE_LEARNED                                                     = 7020,  -- You have learned %!
+        I_EAT_BREATHE_AND_SLEEP_DELIVERY_SERVICES_EVEN                       = 7021,  -- I eat, breathe, and sleep delivery services! Even if the heavens come tumbling down, the seas engulf all of Adoulin, or eternal darkness descends upon the world, you needn't worry about your package!
+        THE_LEVEL_OF_DIFFICULTY_FOR_THIS_CONTENT_IS                          = 7022,  -- The level of difficulty for this content is #.
+        YOUR_MAXIMUM_LEVEL_HAS_BEEN_RAISED_TO                                = 7023,  -- Your maximum level has been raised to [50/55/60/65/70/75/80/85/90/95/99]!
+        YOU_HAVE_ENTERED_BELLIGERENCY                                        = 7024,  -- You have entered belligerency.
+        YOU_HAVE_ENTERED_BELLIGERENCY_AND_YOUR_LEVEL_HAS                     = 7025,  -- You have entered belligerency and your level has been restricted to #.
+        YOU_HAVE_ENTERED_BELLIGERENCY_YOUR_LEVEL_HAS_BEEN                    = 7026,  -- You have entered belligerency. Your level has been restricted to # and the attributes of applicable equipment you may be wearing have been appropriately reduced.
+        YOU_HAVE_LEARNED_A_NEW_INSTINCT                                      = 7027,  -- You have learned a new instinct!
+        YOUR_PARTY_IS_UNABLE_TO_PARTICIPATE_BECAUSE_CERTAIN                  = 7028,  -- Your party is unable to participate because certain members' levels are restricted.
+        PLEASE_REMOVE_YOUR_LEVEL_RESTRICTION_BEFORE_ENDEAVORING_TO           = 7029,  -- Please remove your level restriction before endeavoring to participate.
+        YOU_LEARNED_TRUST                                                    = 7030,  -- You learned Trust: %!
+        YOU_ARE_NOW_ABLE_TO_CALL_MULTIPLE_ALTER                              = 7031,  -- You are now able to call multiple alter egos.
+        ENTER_YES_NO                                                         = 7032,  -- Enter? Yes. No.
+        LEAVE_YES_NO                                                         = 7033,  -- Leave? Yes. No.
+        THE_CUTSCENE_HAS_UNEXPECTEDLY_TERMINATED_EXAMINE_THE_RESUME          = 7034,  -- The cutscene has unexpectedly terminated. Examine the Resume Point to continue.
+        WHAT_DO_YOU_WISH_TO_DO_SHOW_ME                                       = 7035,  -- What do you wish to do? Show me the cutscene again. Skip the cutscene and continue.
+        DISPLAYING_THE_NEXT_SCENE                                            = 7036,  -- Displaying the next scene.
+        ALTER_EGOS_MAY_BE_USED_HERE_WITHOUT_ANY                              = 7037,  -- Alter egos may be used here without any effect on enmity.
+        THE_MAXIMUM_LEVEL_OF_THE_CONTENT_YOU_ARE                             = 7038,  -- The maximum level of the content you are currently attempting is #.
         ID_7039                                                              = 7039,  -- # # # #
-        THE_UNITY_RANKING_TABULATION_PERIOD_HAS_BEGUN                        = 7040,  -- The Unity ranking tabulation period has begun.
-        THE_UNITY_RANKING_TABULATION_PERIOD_HAS_ENDED                        = 7041,  -- The Unity ranking tabulation period has ended.
-        ID_7042                                                              = 7042,  -- [Unranked/First place/Second place/Third place/Fourth place/Fifth place]: [Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].
-        JUMP_INTO_THE_VORTEX_OFF_WE_GO_NOT                                   = 7043,  -- Jump into the vortex? Off we go! Not just yet.
-        NOTHING_OUT_OF_THE_ORDINARY_HAPPENS                                  = 7044,  -- Nothing out of the ordinary happens.
-        YOU_ARE_UNABLE_TO_PROCEED_TO_THE_NEXT                                = 7045,  -- You are unable to proceed to the next area because [Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] is not registered to your account.
-        YOU_ARE_NOW_ABLE_TO_CALL_FORTH_ALTER                                 = 7046,  -- You are now able to call forth alter egos here because you have obtained the % key item.
-        YOU_CANNOT_CARRY_ANY_MORE_2                                          = 7047,  -- You cannot carry any more %.
-        YOU_HAVE_BEEN_PROMOTED_TO                                            = 7048,  -- You have been promoted to [/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain]!
-        YOUR_BAGS_MYSTERIOUSLY_FEEL_A_LITTLE_BIT_HEAVIER                     = 7049,  -- Your bags mysteriously feel a little bit heavier...
-        THE_BONDS_TYING_YOU_TO_ALTANA_HAVE_STRENGTHENED                      = 7050,  -- The bonds tying you to Altana have strengthened, enabling you to experience all the memories of [Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin]!
-        YOU_ARE_UNABLE_TO_MAKE_FURTHER_PROGRESS_IN                           = 7051,  -- You are unable to make further progress in Rhapsodies of Vana'diel due to an event occurring in the [Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin/Rise of the Zilart] missions.
-        YOU_ARE_UNABLE_TO_MAKE_FURTHER_PROGRESS_IN_2                         = 7052,  -- You are unable to make further progress in Rhapsodies of Vana'diel due to an event occurring in the quest [Champion of the Dawn/A Forbidden Reunion].
-        THE_CRYSTAL_GLISTENS_WITH_A_DIVINE_RADIANCE                          = 7053,  -- The crystal glistens with a divine radiance.
-        YOU_MUST_VISIT_AHT_URHGAN_WHITEGATE_IN_ORDER                         = 7054,  -- You must visit Aht Urhgan Whitegate in order to progress in the Rhapsodies of Vana'diel missions.
-        YOU_HAVE_BEEN_AWARDED_THE_TEMPORARY_ITEM_AS                          = 7055,  -- You have been awarded the temporary item % as compensation.
-        YOU_ALREADY_POSSES_THE_TEMPORARY_ITEM_AND_CANNOT                     = 7056,  -- You already posses the temporary item % and cannot receive another one as compensation.
-        PLEASE_CLAIM_YOUR_ITEM_BEFORE_MAINTENANCE_FOR_THE                    = 7057,  -- Please claim your item before maintenance for the February 2022 version update begins.
-        YOU_HAVE_BEEN_REWARDED_AS_COMPENSATION                               = 7058,  -- You have been rewarded % as compensation.
-        YOU_ARE_UNABLE_TO_ACCEPT_THE_COMPENSATORY_FREE                       = 7059,  -- You are unable to accept the compensatory %. Free up some space in your inventory and try again.
-        PLEASE_CLAIM_YOUR_ITEM_BEFORE_MAINTENANCE_FOR_THE_2                  = 7060,  -- Please claim your item before maintenance for the October 2022 version update begins.
-        YOU_RECEIVE_DEEDS_FOR_A_TOTAL_OF                                     = 7061,  -- You receive # deeds for a total of #!
-        WORD_HAS_BEEN_RECEIVED_OF_A_MAMOOL_JA                                = 7062,  -- Word has been received of a Mamool Ja threat in Wajaom Woodlands.
-        WORD_HAS_BEEN_RECEIVED_OF_A_TROLL_THREAT                             = 7063,  -- Word has been received of a Troll threat in Wajaom Woodlands.
-        WORD_HAS_BEEN_RECEIVED_OF_AN_UNDEAD_THREAT                           = 7064,  -- Word has been received of an undead threat in Bhaflau Thickets.
-        N_TJ                                                                 = 7065,  -- --------------/ : (n%Tj
-        VANA_BOUT_RECORDS_OF_EMINENCE_OBJECTIVES_HAVE_BEEN                   = 7066,  -- Vana'Bout Records of Eminence objectives have been updated.
-        VANA_BOUT_NO_HAS_COMMENCED                                           = 7067,  -- Vana'Bout No. # has commenced!
-        VANA_BOUT_NO_HAS_CONCLUDED                                           = 7068,  -- Vana'Bout No. # has concluded.
-        OBTAINED_TEMPORARY_ITEM                                              = 7069,  -- Obtained temporary item: %.
-        LOST_TEMPORARY_ITEM                                                  = 7070,  -- Lost temporary item: %.
-        IT_WON_T_OPEN                                                        = 7071,  -- It won't open.
-        TALLYING_CONQUEST_RESULTS                                            = 7072,  -- Tallying conquest results...
-        CONQUEST_RESULTS_TALLIED                                             = 7073,  -- Conquest results tallied.
-        THIS_REGION_IS_CURRENTLY_UNDER_SAN_D_ORIAN                           = 7074,  -- This region is currently under San d'Orian control.
-        THIS_REGION_IS_CURRENTLY_UNDER_BASTOKAN_CONTROL                      = 7075,  -- This region is currently under Bastokan control.
-        THIS_REGION_IS_CURRENTLY_UNDER_WINDURSTIAN_CONTROL                   = 7076,  -- This region is currently under Windurstian control.
-        THIS_REGION_IS_CURRENTLY_UNDER_BEASTMAN_CONTROL_YOU                  = 7077,  -- This region is currently under beastman control. You cannot obtain crystals in this region.
-        THIS_REGION_IS_CURRENTLY_NEUTRAL                                     = 7078,  -- This region is currently neutral.
-        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA                               = 7079,  -- Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
-        ALL_THREE_NATIONS_ARE_TIED_FOR_FIRST_PLACE                           = 7080,  -- All three nations are tied for first place.
-        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_2                             = 7081,  -- Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_3                             = 7082,  -- Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_4                             = 7083,  -- Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
-        ALL_THREE_NATIONS_ARE_TIED_FOR_FIRST_PLACE_2                         = 7084,  -- All three nations are tied for first place.
-        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_5                             = 7085,  -- Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_6                             = 7086,  -- Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
-        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_2ND_SAN                           = 7087,  -- Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
-        ALL_THREE_NATIONS_ARE_TIED_FOR_FIRST_PLACE_3                         = 7088,  -- All three nations are tied for first place.
-        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_7                             = 7089,  -- Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
-        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_2ND_SAN_2                         = 7090,  -- Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_2ND_WINDURST                      = 7091,  -- Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
-        ALL_THREE_NATIONS_ARE_TIED_FOR_FIRST_PLACE_4                         = 7092,  -- All three nations are tied for first place.
-        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_AND_WINDURST                      = 7093,  -- Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
-        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_2ND_SAN_3                         = 7094,  -- Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
-        GLOBAL_BALANCE_OF_POWER_1ST_WINDURST_2ND_SAN                         = 7095,  -- Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
-        GLOBAL_BALANCE_OF_POWER_ALL_THREE_NATIONS_ARE                        = 7096,  -- Global balance of power: All three nations are tied for first place.
-        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_8                             = 7097,  -- Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
-        GLOBAL_BALANCE_OF_POWER_1ST_WINDURST_2ND_SAN_2                       = 7098,  -- Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
-        GLOBAL_BALANCE_OF_POWER_1ST_WINDURST_2ND_BASTOK                      = 7099,  -- Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
-        ALL_THREE_NATIONS_ARE_TIED_FOR_FIRST_PLACE_5                         = 7100,  -- All three nations are tied for first place.
-        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_AND_WINDURST_2                    = 7101,  -- Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
-        GLOBAL_BALANCE_OF_POWER_1ST_WINDURST_2ND_SAN_3                       = 7102,  -- Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
-        CONQUEST_UPDATE_THIS_REGION_IS_CURRENTLY_NEUTRAL                     = 7103,  -- Conquest update: This region is currently neutral.
-        CONQUEST_UPDATE_THIS_REGION_IS_CURRENTLY_UNDER_SAN                   = 7104,  -- Conquest update: This region is currently under San d'Orian control.
-        CONQUEST_UPDATE_THIS_REGION_IS_CURRENTLY_UNDER_BASTOKAN              = 7105,  -- Conquest update: This region is currently under Bastokan control.
-        CONQUEST_UPDATE_THIS_REGION_IS_CURRENTLY_UNDER_WINDURSTIAN           = 7106,  -- Conquest update: This region is currently under Windurstian control.
-        CONQUEST_UPDATE_THIS_REGION_IS_CURRENTLY_UNDER_BEASTMAN              = 7107,  -- Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
-        ALL_THREE_NATIONS_ARE_AT_A_DEADLOCK                                  = 7108,  -- All three nations are at a deadlock.
-        THE_BEASTMEN_ARE_ON_THE_RISE                                         = 7109,  -- The beastmen are on the rise.
-        REGIONAL_INFLUENCE_SAN_D_ORIA_DOMINANT                               = 7110,  -- Regional influence: San d'Oria - Dominant
-        REGIONAL_INFLUENCE_SAN_D_ORIA_MAJOR                                  = 7111,  -- Regional influence: San d'Oria - Major
-        REGIONAL_INFLUENCE_SAN_D_ORIA_MINOR                                  = 7112,  -- Regional influence: San d'Oria - Minor
-        REGIONAL_INFLUENCE_SAN_D_ORIA_MINIMAL                                = 7113,  -- Regional influence: San d'Oria - Minimal
-        BASTOK_DOMINANT                                                      = 7114,  -- Bastok - Dominant
-        BASTOK_MAJOR                                                         = 7115,  -- Bastok - Major
-        BASTOK_MINOR                                                         = 7116,  -- Bastok - Minor
-        BASTOK_MINIMAL                                                       = 7117,  -- Bastok - Minimal
-        WINDURST_DOMINANT                                                    = 7118,  -- Windurst - Dominant
-        WINDURST_MAJOR                                                       = 7119,  -- Windurst - Major
-        WINDURST_MINOR                                                       = 7120,  -- Windurst - Minor
-        WINDURST_MINIMAL                                                     = 7121,  -- Windurst - Minimal
-        BASTOK_AND_WINDURST_HAVE_FORMED_AN_ALLIANCE                          = 7122,  -- Bastok and Windurst have formed an alliance.
-        SAN_D_ORIA_AND_WINDURST_HAVE_FORMED_AN                               = 7123,  -- San d'Oria and Windurst have formed an alliance.
-        SAN_D_ORIA_AND_BASTOK_HAVE_FORMED_AN                                 = 7124,  -- San d'Oria and Bastok have formed an alliance.
-        BASTOK_AND_WINDURST_ARE_CURRENTLY_ALLIES                             = 7125,  -- Bastok and Windurst are currently allies.
-        SAN_D_ORIA_AND_WINDURST_ARE_CURRENTLY_ALLIES                         = 7126,  -- San d'Oria and Windurst are currently allies.
-        SAN_D_ORIA_AND_BASTOK_ARE_CURRENTLY_ALLIES                           = 7127,  -- San d'Oria and Bastok are currently allies.
-        F_HF                                                                 = 7128,  -- #.%F# ;hF#
-        U_FBNF_ACE_X_CGF                                                     = 7129,  -- %u`FbNF# ACe% %x-|CgF#
-        ITEM_ID_IT                                                           = 7130,  -- ITEM_ID:# #]$iT:#
-        IT_X_CG                                                              = 7131,  -- #]$iT:# %x-|Cg:#
-        LS5_R_BBR_BBD_D_DP_LLI_CG                                            = 7132,  -- [Th#A/oXgD[N/EB_X]Ls5:[r(/bbr(/bbD(/D(/dP% #Lli:#%|Cg:#
-        THE_BEASTMEN_ARE_GAINING_POWER                                       = 7133,  -- The beastmen are gaining power.
-        SAN_D_ORIA_S_REGIONAL_CONTROL_IS_NOW                                 = 7134,  -- San d'Oria's regional control is now 10% closer to the first place country's!
-        BASTOK_S_REGIONAL_CONTROL_IS_NOW_10_CLOSER                           = 7135,  -- Bastok's regional control is now 10% closer to the first place country's!
-        WINDURST_S_REGIONAL_CONTROL_ARE_NOW_10_CLOSER                        = 7136,  -- Windurst's regional control are now 10% closer to the first place country's!
-        SAN_D_ORIA_S_REGION_POINTS_HAVE_INCREASED                            = 7137,  -- San d'Oria's region points have increased!
-        BASTOK_S_REGION_POINTS_HAVE_INCREASED                                = 7138,  -- Bastok's region points have increased!
-        WINDURST_S_REGION_POINTS_HAVE_INCREASED                              = 7139,  -- Windurst's region points have increased!
-        SAN_D_ORIAN_E_F_DEFEATS_BEASTMEN_HORDES                              = 7140,  -- San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
-        BASTOKAN_E_F_DEFEATS_BEASTMEN_HORDES_MAINTAIN_CURRENT                = 7141,  -- Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
-        WINDURSTIAN_E_F_DEFEATS_BEASTMEN_HORDES_MAINTAIN_CURRENT             = 7142,  -- Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
-        A_SAN_D_ORIAN_EXPEDITIONARY_FORCE_HAS_BEEN                           = 7143,  -- A San d'Orian Expeditionary Force has been dispatched to this area.
-        A_BASTOKAN_EXPEDITIONARY_FORCE_HAS_BEEN_DISPATCHED_TO                = 7144,  -- A Bastokan Expeditionary Force has been dispatched to this area.
-        A_WINDURSTIAN_EXPEDITIONARY_FORCE_HAS_BEEN_DISPATCHED_TO             = 7145,  -- A Windurstian Expeditionary Force has been dispatched to this area.
-        E_F_INFLUENCE_GREAT_REGION_STATUS_DOMINANT_MAINTAIN                  = 7146,  -- E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
-        E_F_INFLUENCE_FAIR_REGION_STATUS_MAJOR_MAINTAIN                      = 7147,  -- E.F. Influence: Fair...Region Status: Major...Maintain momentum.
-        E_F_INFLUENCE_POOR_REGION_STATUS_MINOR_INCREASE                      = 7148,  -- E.F. Influence: Poor...Region Status: Minor...Increase efforts.
-        E_F_INFLUENCE_MINIMAL_REGION_STATUS_MINIMAL_INCREASE                 = 7149,  -- E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
-        E_F_INFLUENCE_NONE_REGION_STATUS_UNDER_BEASTMAN                      = 7150,  -- E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
-        THERE_WAS_A_CURSE_ON_THE_BEASTMEN_S                                  = 7151,  -- There was a curse on the beastmen's banner!
-        THE_CURSE_OF_THE_BEASTMEN_S_BANNER_HAS                               = 7152,  -- The curse of the beastmen's banner has been lifted!
-        THERE_IS_A_BEASTMEN_S_BANNER                                         = 7153,  -- There is a beastmen's banner.
-        F_W_IO_W_IO                                                          = 7229,  -- *f#[W io%[W io[@#
-        CG_JEG                                                               = 7230,  -- %&=|Cg%JEg@#
-        ENTER_THE_BATTLEFIELD_ENTER_DECLINE                                  = 7231,  -- Enter the battlefield? Enter. Decline.
-        LEAVE_THE_BATTLEFIELD_RUN_AWAY_STAY                                  = 7232,  -- Leave the battlefield? Run away. Stay.
-        YOU_CANNOT_ENTER_THE_BATTLEFIELD_AT_PRESENT_PLEASE                   = 7233,  -- You cannot enter the battlefield at present. Please wait a little longer.
-        YOU_CANNOT_ENTER_THE_BATTLEFIELD_AT_PRESENT_PLEASE_2                 = 7234,  -- You cannot enter the battlefield at present. Please wait a little longer.
-        YOU_HAVE_ALREADY_CLEARED_THIS_BATTLEFIELD_YOU_MAY                    = 7235,  -- You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
-        YOUR_TIME_IN_THE_BATTLEFIELD_IS_UP_NOW                               = 7236,  -- Your time in the battlefield is up! Now exiting...
-        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT                         = 7237,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_2                       = 7238,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_3                       = 7239,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_4                       = 7240,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_5                       = 7241,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_6                       = 7242,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_7                       = 7243,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_8                       = 7244,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_9                       = 7245,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_10                      = 7246,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
-        YOU_HAVE_BEEN_ENCHANTED_SO_THAT_YOU_MAY                              = 7247,  -- You have been enchanted so that you may enter!
-        YOUR_ENTRY_ENCHANTMENT_HAS_EXPIRED                                   = 7248,  -- Your entry enchantment has expired!
-        YOU_ARE_NOT_CLEARED_TO_ENTER_THE_BATTLEFIELD                         = 7249,  -- You are not cleared to enter the battlefield. Now exiting...
-        A_CURSED_SEAL_HAS_BEEN_PLACED_UPON_THIS                              = 7250,  -- A cursed seal has been placed upon this platform.
-        THE_BATTLEFIELD_WHERE_YOUR_PARTY_MEMBERS_ARE_ENGAGED                 = 7251,  -- The battlefield where your party members are engaged in combat is locked. Access is denied.
-        THERE_IS_NO_RESPONSE_YOU_CANNOT_ESCAPE                               = 7252,  -- There is no response. You cannot escape!
-        THE_DOOR_IS_SEALED_SHUT_WITH_AN_EVIL                                 = 7253,  -- The door is sealed shut with an evil curse.
-        A_MYSTERIOUS_FORCE_IS_SEALING_THE_PLATFORM                           = 7254,  -- A mysterious force is sealing the platform.
-        THE_OLD_WOODEN_DOOR_IS_LOCKED_TIGHT                                  = 7255,  -- The old wooden door is locked tight.
-        THE_DOOR_IS_SEALED_WITH_A_MYSTERIOUS_ENERGY                          = 7256,  -- The door is sealed with a mysterious energy.
-        IT_IS_A_GIANT_CRYSTAL                                                = 7257,  -- It is a giant crystal.
-        A_STRONG_MAGICAL_FORCE_IS_WHIRLING_UP_FROM                           = 7258,  -- A strong magical force is whirling up from the platform.
-        A_FIERCE_COLUMN_OF_WIND_BLOCKS_YOUR_PATH                             = 7259,  -- A fierce column of wind blocks your path. You cannot proceed any further...
-        AN_OMINOUS_VEIL_OF_PITCH_BLACK_GAS_BLOCKS                            = 7260,  -- An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
-        AN_UNFATHOMABLE_LIGHT_IS_RISING_FROM_THIS_STRANGELY                  = 7261,  -- An unfathomable light is rising from this strangely marked platform...
-        A_HEAVY_WOODEN_GATE_IT_IS_TIGHTLY_LOCKED                             = 7262,  -- A heavy wooden gate. It is tightly locked...
-        YOU_CAN_HEAR_A_FAINT_SCRAPING_SOUND_FROM                             = 7263,  -- You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
-        YOU_CAN_HEAR_A_FAINT_SCRAPING_SOUND_FROM_2                           = 7264,  -- You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
-        YOU_CAN_HEAR_A_FAINT_SCRAPING_SOUND_FROM_3                           = 7265,  -- You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
-        YOU_CAN_HEAR_A_FAINT_SCRAPING_SOUND_FROM_4                           = 7266,  -- You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
-        A_GLOWING_MIST_OF_EVER_CHANGING_PROPORTIONS_FLOATS                   = 7267,  -- A glowing mist of ever-changing proportions floats before you...
-        A_SOLID_IRON_GATE_IT_IS_TIGHTLY_LOCKED                               = 7268,  -- A solid iron gate. It is tightly locked...
-        YOU_SEE_A_GIGANTIC_CRYSTAL_GLOWING_WITH_AMBER                        = 7269,  -- You see a gigantic crystal, glowing with amber light...
-        YOU_SEE_A_GIGANTIC_CRYSTAL_GLOWING_WITH_AMBER_2                      = 7270,  -- You see a gigantic crystal, glowing with amber light...
-        LOOKING_CLOSELY_YOU_SEE_TWO_BELL_TYPE_SYMBOLS                        = 7271,  -- Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
-        LOOKING_CLOSELY_AT_THE_SURFACE_OF_THE_GATE                           = 7272,  -- Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
-        IF_YOU_LISTEN_CLOSELY_YOU_CAN_FAINTLY_HEAR                           = 7273,  -- If you listen closely, you can faintly hear female voices singing in rounds...
-        IT_APPEARS_AS_IF_SOMETHING_HAD_BEEN_THRUST                           = 7274,  -- It appears as if something had been thrust into the rockface here...
-        A_DECORATIVE_DOOR_IT_APPEARS_TO_BE_LOCKED                            = 7275,  -- A decorative door. It appears to be locked...
-        THE_DOOR_IS_LOCKED                                                   = 7276,  -- The door is locked.
-        THE_GATE_IS_LOCKED                                                   = 7277,  -- The gate is locked.
-        THE_DOOR_IS_LOCKED_2                                                 = 7278,  -- The door is locked.
-        THE_DOOR_IS_LOCKED_3                                                 = 7279,  -- The door is locked.
-        THERE_SEEMS_TO_BE_A_SPACE_BENEATH_THE                                = 7280,  -- There seems to be a space beneath the floor, but you are unable to access it.
-        YOU_DO_NOT_MEET_THE_REQUIREMENTS_TO_ENTER                            = 7281,  -- You do not meet the requirements to enter the battlefield. Access is denied.
-        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD                               = 7282,  -- [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
-        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_2                             = 7283,  -- [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
-        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_3                             = 7284,  -- [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
-        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_4                             = 7285,  -- [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
-        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_5                             = 7286,  -- [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
-        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_6                             = 7287,  -- [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
-        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_7                             = 7288,  -- [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
-        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_8                             = 7289,  -- [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
-        YOU_WERE_UNABLE_TO_PROTECT_THE_SPECIAL_CHARACTER                     = 7290,  -- You were unable to protect the special character. Now leaving the battlefield.
-        YOU_WERE_UNABLE_TO_PROTECT_PRINCE_TRION_NOW                          = 7291,  -- You were unable to protect Prince Trion. Now leaving the battlefield.
-        YOU_WERE_UNABLE_TO_PROTECT_CAPTAIN_VOLKER_NOW                        = 7292,  -- You were unable to protect Captain Volker. Now leaving the battlefield.
-        YOU_WERE_UNABLE_TO_PROTECT_AJIDO_MARUJIDO_NOW                        = 7293,  -- You were unable to protect Ajido-Marujido. Now leaving the battlefield.
-        YOUR_IS_TORN                                                         = 7294,  -- Your % is torn...
-        YOUR                                                                 = 7295,  -- Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
-        YOUR_IS_TORN_2                                                       = 7296,  -- Your % is torn...
-        YOUR_2                                                               = 7297,  -- Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
-        YOU_SEE_INNUMERABLE_STARS_SHIMMERING_IN_THE_DISTANCE                 = 7298,  -- You see innumerable stars shimmering in the distance...
-        OGTB_L_T_5_O5_7B                                                     = 7307,  -- ogtB%L'T*_,\5= %^o5\7B
-        OGTB_L_T_5_O5_7B_2                                                   = 7308,  -- ogtB%L'T*_,\5= %^o5\7B
-        OGTB_L_T_5_O5_7B_3                                                   = 7309,  -- ogtB%L'T*_,\5= %^o5\7B
-        OGTB_L_T_5_O5_7B_4                                                   = 7310,  -- ogtB%L'T*_,\5= %^o5\7B
-        OGTB_L_T_5_O5_7B_5                                                   = 7311,  -- ogtB%L'T*_,\5= %^o5\7B
-        OGTB_N_H_J                                                           = 7312,  -- (!ogtB%N`"H"j
-        OGTB_N_H_J_2                                                         = 7313,  -- (!ogtB%N`"H"j
-        OGTB_N_H_J_3                                                         = 7314,  -- (!ogtB%N`"H"j
-        OG_ZBG                                                               = 7315,  -- og#Zbg)/=
-        I_PZJ                                                                = 7316,  -- i.pzj
-        ID_39_5_BJ                                                           = 7317,  -- %39\5=Bj
-        ID_39_5_BJ_2                                                         = 7318,  -- %39\5=Bj
-        ID_39_5_BJ_3                                                         = 7319,  -- %39\5=Bj
-        REMOVE_1                                                             = 7320,  -- remove@1
-        REMOVE_2                                                             = 7321,  -- remove@2
-        REMOVE_3                                                             = 7322,  -- remove@3
-        J                                                                    = 7323,  -- %j
-        J_2                                                                  = 7324,  -- %j
-        J_3                                                                  = 7325,  -- %j
-        J_J                                                                  = 7326,  -- %j=j
-        OE_F_E7B                                                             = 7327,  -- <%OE"$F %%%%<E7B
-        IDE_F_LLM_E7B                                                        = 7328,  -- IDE"$F #%%LlM#E7B
-        IOGTB_H_L_AD_7J                                                      = 7329,  -- iogtB%@ H=L #*|AD"\7j
-        IOGTB_H_L_AD_7J_2                                                    = 7330,  -- iogtB%@ H=L #*|AD"\7j
-        IOGTB_H_L_AD_7J_3                                                    = 7331,  -- iogtB%@ H=L #*|AD"\7j
-        O_IDP_7_O_ID                                                         = 7332,  -- <%O)IDp\7 <%O ID
-        GL_L_OPI_A_B                                                         = 7333,  -- GL.L<%Opi%a b
-        GL_LIDPI_A_B                                                         = 7334,  -- GL.LIDpi%a b
-        ALP                                                                  = 7335,  -- ._ALp%
-        BLP                                                                  = 7336,  -- ._BLp%
-        CLP                                                                  = 7337,  -- ._CLp%
-        B_G                                                                  = 7338,  -- |:B@G%
-        B_G_2                                                                = 7339,  -- |:B@G%
-        H_E_JTEIOGTB_H_7                                                     = 7340,  -- H=*%E %jTEIogtB%h\7
-        H_E_JTEIOGTB_H_7_2                                                   = 7341,  -- H=*%E %jTEIogtB%h\7
-        H_E_JTEIOGTB_H_7_3                                                   = 7342,  -- H=*%E %jTEIogtB%h\7
-        FBN_JH_5_B_OGTB_H_7B                                                 = 7343,  -- %`FbN*Jh\5=B @ogtB%h\7B
-        FBN_JH_5_B_OGTB_H_7B_2                                               = 7344,  -- %`FbN*Jh\5=B @ogtB%h\7B
-        FBN_JH_5_B_OGTB_H_7B_3                                               = 7345,  -- %`FbN*Jh\5=B @ogtB%h\7B
-        LL_5                                                                 = 7346,  -- %Ll*()5"
-        LL_5_2                                                               = 7347,  -- %Ll*()5"
-        LL_5_3                                                               = 7348,  -- %Ll*()5"
-        IHGXZLG_AD_ITO_AD_9Q_MTALKG_MB5_GJH                                  = 7349,  -- %iHgXzLG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
-        IHGXZLG_AD_ITO_AD_9Q_MTALKG_MB5_GJH_2                                = 7350,  -- %iHgXzLG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
-        IHGXZLG_AD_ITO_AD_9Q_MTALKG_MB5_GJH_3                                = 7351,  -- %iHgXzLG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
-        H_LI_A_TO_IB                                                         = 7352,  -- %*H"LI._A|:tO*IB
-        H_LI_B_TO_IB                                                         = 7353,  -- %*H"LI._B|:tO*IB
-        H_LI_C_TO_IBJ                                                        = 7354,  -- %*H"LI._C|:tO*IBj
-        CXG                                                                  = 7355,  -- %Cxg
-        I_AT4_CXG                                                            = 7356,  -- i._AT4_Cxg
-        I_A_CXG                                                              = 7357,  -- i._A&%Cxg
-        CXG_2                                                                = 7358,  -- %Cxg
-        I_BT4_CXG                                                            = 7359,  -- i._BT4_Cxg
-        I_B_CXG                                                              = 7360,  -- i._B&%Cxg
-        CXG_3                                                                = 7361,  -- %Cxg
-        I_CT4_CXG                                                            = 7362,  -- i._CT4_Cxg
-        I_C_CXG                                                              = 7363,  -- i._C&%Cxg
-        ID_5_GJH_M8HQE7_7BJ                                                  = 7364,  -- %5)/gjH"M8HqE7* %\7Bj
-        NDINGE_5_XG_H_B                                                      = 7365,  -- %ndingE %\5=%xg#h]B
-        NDINGE_5_B_IPENDING_FBNI_X_3J_F                                      = 7366,  -- %ndingE %\5=B @ipending`FbNI{X*|3j=f$E7B
-        NDINGE_5_XG_H_B_2                                                    = 7367,  -- %ndingE %\5=%xg#h]B
-        NDINGE_5_B_PENDING_FBNI_X_3J_F                                       = 7368,  -- %ndingE %\5=B @pending`FbNI{X*|3j=f$E7B
-        NDINGE_5_XG_H_B_3                                                    = 7369,  -- %ndingE %\5=%xg#h]B
-        NDINGE_5_B_PENDING_FBNI_X_3J_F_2                                     = 7370,  -- %ndingE %\5=B @pending`FbNI{X*|3j=f$E7B
-        I_A_PENDING_P_S5_7B                                                  = 7371,  -- i._A&%pending%p@s5\7B
-        I_B_PENDING_P_S5_7B                                                  = 7372,  -- i._B&%pending%p@s5\7B
-        I_C_PENDING_P_S5_7B                                                  = 7373,  -- i._C&%pending%p@s5\7B
-        M_NFBH5_5_OGTB_7EIJLP_P5D_I_P                                        = 7374,  -- %=M#Nfbh5\5=%=*"=ogtB%@`$7EIJLp%p5D"i=_%=p%^o39\5=B
-        NDING_P_S5_5_B                                                       = 7375,  -- %nding%p@s5\5=B
-        LP_JL_CIX5_5_B                                                       = 7376,  -- %lp @%jl}CiX5\5=B
-        LP_JL_CIX5_5_B_2                                                     = 7377,  -- %lp @%jl}CiX5\5=B
-        LP_JL_CIX5_5_B_3                                                     = 7378,  -- %lp @%jl}CiX5\5=B
-        A_G_IPCE7_ZBG5_7B                                                    = 7379,  -- %=*._A)g %/iPCE7%%Zbg5\7B
-        B_G_IPCE7_ZBG5_7B                                                    = 7380,  -- %=*._B)g %/iPCE7%%Zbg5\7B
-        C_G_IPCE7_ZBG5_7B                                                    = 7381,  -- %=*._C)g %/iPCE7%%Zbg5\7B
-        L_A_TOP_5_B                                                          = 7382,  -- %=L._A|:tOp %\5=B
-        L_B_TOP_5_B                                                          = 7383,  -- %=L._B|:tOp %\5=B
-        L_C_TOP_5_B                                                          = 7384,  -- %=L._C|:tOp %\5=B
-        LO_X_AP_5_5_B_XMI9CXGP_N5                                            = 7385,  -- %=LO%@{X_Ap|5\5=B{XmI9Cxgp#n5\7B
-        LO_X_BP_5_5_B_XMI9CXGP_N5                                            = 7386,  -- %=LO%@{X_Bp|5\5=B{XmI9Cxgp#n5\7B
-        LO_X_CP_5_5_B_XMI9CXGP_N5                                            = 7387,  -- %=LO%@{X_Cp|5\5=B{XmI9Cxgp#n5\7B
-        M_AI_DM_H_LE_D_7B                                                    = 7388,  -- %=M._AI"DM"/H"LE%D"=>+\7B
-        M_BI_DM_H_LE_D_7B                                                    = 7389,  -- %=M._BI"DM"/H"LE%D"=>+\7B
-        M_CI_DM_H_LE_D_7B                                                    = 7390,  -- %=M._CI"DM"/H"LE%D"=>+\7B
-        AMUE7                                                                = 7391,  -- (._AMuE7)
-        BMUE7                                                                = 7392,  -- (._BMuE7)
-        CMUE7                                                                = 7393,  -- (._CMuE7)
-        M_H_5                                                                = 7394,  -- %=M %h\5=
-        I_NGXGG_H_H_L_AD_7J                                                  = 7395,  -- i.#NGXgG%h&H"l*|AD"\7j
-        C5_7                                                                 = 7396,  -- %C5\7
-        C5_7_2                                                               = 7397,  -- %C5\7
-        C5_7_3                                                               = 7398,  -- %C5\7
-        C5_5_A_LE_DGCB                                                       = 7399,  -- %C5\5=*%* A=LE %DgCB
-        C5_5_IID_A_LE_DGCB                                                   = 7400,  -- %C5\5=*%IID* A=LE %DgCB
-        AIMID_H_9QE5                                                         = 7401,  -- (AIMID* h\9qE5=)
-        BIMID_H_9QE5                                                         = 7402,  -- (BIMID* h\9qE5=)
-        CIMID_H_9QE5                                                         = 7403,  -- (CIMID* h\9qE5=)
-        AIID_H_5                                                             = 7404,  -- (AIID* h\5=)
-        BIID_H_5                                                             = 7405,  -- (BIID* h\5=)
-        CIID_H_5                                                             = 7406,  -- (CIID* h\5=)
-        AM7EIFQ_H_5                                                          = 7407,  -- (AM7EIfq* h\5=)
-        BM7EIFQ_H_5                                                          = 7408,  -- (BM7EIfq* h\5=)
-        CM7EIFQ_H_5                                                          = 7409,  -- (CM7EIfq* h\5=)
-        ADH_E_9Q                                                             = 7410,  -- %ADH"=_|:E+\9q
-        OG_ZBG_2                                                             = 7411,  -- og#Zbg)/=
-        I_PZJ_2                                                              = 7412,  -- i.pzj
-        ID_39_5_BJ_4                                                         = 7413,  -- %39\5=Bj
-        ID_39_5_BJ_5                                                         = 7414,  -- %39\5=Bj
-        ID_39_5_BJ_6                                                         = 7415,  -- %39\5=Bj
-        J_4                                                                  = 7416,  -- %j
-        J_5                                                                  = 7417,  -- %j
-        J_6                                                                  = 7418,  -- %j
-        J_7                                                                  = 7419,  -- %j
-        J_8                                                                  = 7420,  -- %j
-        J_9                                                                  = 7421,  -- %j
-        H_M_I_J_E7                                                           = 7422,  -- H=M.`I|j;$E7
-        H_M_AI_J_E7                                                          = 7423,  -- H=M.aI|j;$E7
-        H_M_BI_J_E7                                                          = 7424,  -- H=M.bI|j;$E7
-        L_E_JIM_I_M_L                                                        = 7425,  -- ];L.E%jIm&i #M %% ;L%<%
-        I                                                                    = 7426,  -- %i
-        I_2                                                                  = 7427,  -- %"i
-        ID_0_J                                                               = 7428,  -- %0=j
-        NFBHJ                                                                = 7429,  -- %Nfbhj
-        N_H                                                                  = 7430,  -- N`"H"
-        IOGTB_H_L_AD_7J_4                                                    = 7431,  -- iogtB%@ H=L #*|AD"\7j
-        IOGTB_H_L_AD_7J_5                                                    = 7432,  -- iogtB%@ H=L #*|AD"\7j
-        IOGTB_H_L_AD_7J_6                                                    = 7433,  -- iogtB%@ H=L #*|AD"\7j
-        OGTB_E5_7                                                            = 7434,  -- ogtB%#E5\7
-        OGTB_E5_7_2                                                          = 7435,  -- ogtB%#E5\7
-        OGTB_E5_7_3                                                          = 7436,  -- ogtB%#E5\7
-        OGTB_E5_7_4                                                          = 7437,  -- ogtB%#E5\7
-        OGTB_5_5                                                             = 7438,  -- ogtB%&%5\5=
-        OGTB_5_5_2                                                           = 7439,  -- ogtB%&%5\5=
-        OGTB_5_5_3                                                           = 7440,  -- ogtB%&%5\5=
-        PENDING_FBNI_P                                                       = 7441,  -- pending`FbNI[P[
-        OGTB_A5_7                                                            = 7442,  -- ogtB%#A5\7
-        OGTB_A5_7_2                                                          = 7443,  -- ogtB%#A5\7
-        OGTB_A5_7_3                                                          = 7444,  -- ogtB%#A5\7
-        INCAGCXGIK                                                           = 7445,  -- iNCAgCxgIK|
-        I_X_AMI9PCXGTO_D_7B                                                  = 7446,  -- i{X_AmI9pCxgtO'D\7B
-        I_X_BMI9PCXGTO_D_7B                                                  = 7447,  -- i{X_BmI9pCxgtO'D\7B
-        I_X_CMI9PCXGTO_D_7B                                                  = 7448,  -- i{X_CmI9pCxgtO'D\7B
-        IPCL_0GJ_9QB                                                         = 7449,  -- %iPCL %%0gj\9qB
-        IPCL_0GJ_9QB_2                                                       = 7450,  -- %iPCL %%0gj\9qB
-        IPCL_0GJ_9QB_3                                                       = 7451,  -- %iPCL %%0gj\9qB
-        M_OQ_NFBH5_5_B                                                       = 7452,  -- %=M%Oq#Nfbh5\5=B
-        I_AEG_OPJH_5_B                                                       = 7453,  -- i][AEg^OpJh\5=B
-        M_YFBO_OPJH_5                                                        = 7454,  -- %=M @yfBO^OpJh\5=
-        L_M_LO_Q3J_5_B_AIOX5_5                                               = 7455,  -- %+L.M %LO%q3j\5=B %._AIOX5\5=B
-        L_M_LO_Q3J_5_B_BIOX5_5                                               = 7456,  -- %+L.M %LO%q3j\5=B %._BIOX5\5=B
-        L_M_LO_Q3J_5_B_CIOX5_5                                               = 7457,  -- %+L.M %LO%q3j\5=B %._CIOX5\5=B
-        S_DH_7B                                                              = 7458,  -- %.*s"DH") %7B
-        J_J_2                                                                = 7459,  -- %j=j
-        OE_F_E7B_2                                                           = 7460,  -- <%OE"$F %%%%<E7B
-        IDE_F_LLM_E7B_2                                                      = 7461,  -- IDE"$F #%%LlM#E7B
-        O_IDP_7_O_ID_2                                                       = 7462,  -- <%O)IDp\7 <%O ID
-        GL_L_OPI_A_B_2                                                       = 7463,  -- GL.L<%Opi%a b
-        GL_LIDPI_A_B_2                                                       = 7464,  -- GL.LIDpi%a b
-        ALP_2                                                                = 7465,  -- ._ALp%
-        BLP_2                                                                = 7466,  -- ._BLp%
-        CLP_2                                                                = 7467,  -- ._CLp%
-        B_G_3                                                                = 7468,  -- |:B@G%
-        B_G_4                                                                = 7469,  -- |:B@G%
-        H_E_JTEIOGTB_H_7_4                                                   = 7470,  -- H=*%E %jTEIogtB%h\7
-        H_E_JTEIOGTB_H_7_5                                                   = 7471,  -- H=*%E %jTEIogtB%h\7
-        H_E_JTEIOGTB_H_7_6                                                   = 7472,  -- H=*%E %jTEIogtB%h\7
-        FBN_JH_5_B_OGTB_H_7B_4                                               = 7473,  -- %`FbN*Jh\5=B @ogtB%h\7B
-        FBN_JH_5_B_OGTB_H_7B_5                                               = 7474,  -- %`FbN*Jh\5=B @ogtB%h\7B
-        FBN_JH_5_B_OGTB_H_7B_6                                               = 7475,  -- %`FbN*Jh\5=B @ogtB%h\7B
-        FBN_JH_5_B_OGTB_H_7B_7                                               = 7476,  -- %`FbN*Jh\5=B @ogtB%h\7B
-        FBN_JH_5_B_OGTB_H_7B_8                                               = 7477,  -- %`FbN*Jh\5=B @ogtB%h\7B
-        LL_5_4                                                               = 7478,  -- %Ll*()5"
-        LL_5_5                                                               = 7479,  -- %Ll*()5"
-        IHGG_AD_ITO_AD_9Q_MTALKG_MB5_GJH                                     = 7480,  -- %iHgG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
-        IHGG_AD_ITO_AD_9Q_MTALKG_MB5_GJH_2                                   = 7481,  -- %iHgG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
-        IHGG_AD_ITO_AD_9Q_MTALKG_MB5_GJH_3                                   = 7482,  -- %iHgG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
-        H_LI_A_TO_IB_2                                                       = 7483,  -- %*H"LI._A|:tO*IB
-        H_LI_B_TO_IB_2                                                       = 7484,  -- %*H"LI._B|:tO*IB
-        H_LI_C_TO_IBJ_2                                                      = 7485,  -- %*H"LI._C|:tO*IBj
-        CXG_4                                                                = 7486,  -- %Cxg
-        I_AT4_CXG_2                                                          = 7487,  -- i._AT4_Cxg
-        I_A_CXG_2                                                            = 7488,  -- i._A&%Cxg
-        CXG_5                                                                = 7489,  -- %Cxg
-        I_BT4_CXG_2                                                          = 7490,  -- i._BT4_Cxg
-        I_B_CXG_2                                                            = 7491,  -- i._B&%Cxg
-        CXG_6                                                                = 7492,  -- %Cxg
-        I_CT4_CXG_2                                                          = 7493,  -- i._CT4_Cxg
-        I_C_CXG_2                                                            = 7494,  -- i._C&%Cxg
-        ID_5_GJH_M8HQE7_7BJ_2                                                = 7495,  -- %5)/gjH"M8HqE7* %\7Bj
-        NDINGE_5_XG_H_B_4                                                    = 7496,  -- %ndingE %\5=%xg#h]B
-        NDINGE_5_B_IPENDING_FBNI_X_3J_F_2                                    = 7497,  -- %ndingE %\5=B @ipending`FbNI{X*|3j=f$E7B
-        NDINGE_5_XG_H_B_5                                                    = 7498,  -- %ndingE %\5=%xg#h]B
-        NDINGE_5_B_PENDING_FBNI_X_3J_F_3                                     = 7499,  -- %ndingE %\5=B @pending`FbNI{X*|3j=f$E7B
-        NDINGE_5_XG_H_B_6                                                    = 7500,  -- %ndingE %\5=%xg#h]B
-        NDINGE_5_B_PENDING_FBNI_X_3J_F_4                                     = 7501,  -- %ndingE %\5=B @pending`FbNI{X*|3j=f$E7B
-        I_A_PENDING_P_S5_7B_2                                                = 7502,  -- i._A&%pending%p@s5\7B
-        I_B_PENDING_P_S5_7B_2                                                = 7503,  -- i._B&%pending%p@s5\7B
-        I_C_PENDING_P_S5_7B_2                                                = 7504,  -- i._C&%pending%p@s5\7B
-        M_NFBH5_5_OGTB_7EIJLP_P5D_I_P_2                                      = 7505,  -- %=M#Nfbh5\5=%=*"=ogtB%@`$7EIJLp%p5D"i=_%=p%^o39\5=B
-        NDING_P_S5_5_B_2                                                     = 7506,  -- %nding%p@s5\5=B
-        LP_JL_CIX5_5_B_4                                                     = 7507,  -- %lp @%jl}CiX5\5=B
-        LP_JL_CIX5_5_B_5                                                     = 7508,  -- %lp @%jl}CiX5\5=B
-        LP_JL_CIX5_5_B_6                                                     = 7509,  -- %lp @%jl}CiX5\5=B
-        A_G_IPCE7_ZBG5_7B_2                                                  = 7510,  -- %=*._A)g %/iPCE7%%Zbg5\7B
-        B_G_IPCE7_ZBG5_7B_2                                                  = 7511,  -- %=*._B)g %/iPCE7%%Zbg5\7B
-        C_G_IPCE7_ZBG5_7B_2                                                  = 7512,  -- %=*._C)g %/iPCE7%%Zbg5\7B
-        L_A_TOP_5_B_2                                                        = 7513,  -- %=L._A|:tOp %\5=B
-        L_B_TOP_5_B_2                                                        = 7514,  -- %=L._B|:tOp %\5=B
-        L_C_TOP_5_B_2                                                        = 7515,  -- %=L._C|:tOp %\5=B
-        LO_X_AP_5_5_B_XMI9CXGP_N5_2                                          = 7516,  -- %=LO%@{X_Ap|5\5=B{XmI9Cxgp#n5\7B
-        LO_X_BP_5_5_B_XMI9CXGP_N5_2                                          = 7517,  -- %=LO%@{X_Bp|5\5=B{XmI9Cxgp#n5\7B
-        LO_X_CP_5_5_B_XMI9CXGP_N5_2                                          = 7518,  -- %=LO%@{X_Cp|5\5=B{XmI9Cxgp#n5\7B
-        M_AI_DM_H_LE_D_7B_2                                                  = 7519,  -- %=M._AI"DM"/H"LE%D"=>+\7B
-        M_BI_DM_H_LE_D_7B_2                                                  = 7520,  -- %=M._BI"DM"/H"LE%D"=>+\7B
-        M_CI_DM_H_LE_D_7B_2                                                  = 7521,  -- %=M._CI"DM"/H"LE%D"=>+\7B
-        AMUE7_2                                                              = 7522,  -- (._AMuE7)
-        BMUE7_2                                                              = 7523,  -- (._BMuE7)
-        CMUE7_2                                                              = 7524,  -- (._CMuE7)
-        M_H_5_2                                                              = 7525,  -- %=M %h\5=
-        I_NGXGG_H_H_L_AD_7J_2                                                = 7526,  -- i.#NGXgG%h&H"l*|AD"\7j
-        C5_7_4                                                               = 7527,  -- %C5\7
-        C5_7_5                                                               = 7528,  -- %C5\7
-        C5_7_6                                                               = 7529,  -- %C5\7
-        C5_5_A_LE_DGCB_2                                                     = 7530,  -- %C5\5=*%* A=LE %DgCB
-        C5_5_IID_A_LE_DGCB_2                                                 = 7531,  -- %C5\5=*%IID* A=LE %DgCB
-        AIMID_H_9QE5_2                                                       = 7532,  -- (AIMID* h\9qE5=)
-        BIMID_H_9QE5_2                                                       = 7533,  -- (BIMID* h\9qE5=)
-        CIMID_H_9QE5_2                                                       = 7534,  -- (CIMID* h\9qE5=)
-        AIID_H_5_2                                                           = 7535,  -- (AIID* h\5=)
-        BIID_H_5_2                                                           = 7536,  -- (BIID* h\5=)
-        CIID_H_5_2                                                           = 7537,  -- (CIID* h\5=)
-        AM7EIFQ_H_5_2                                                        = 7538,  -- (AM7EIfq* h\5=)
-        BM7EIFQ_H_5_2                                                        = 7539,  -- (BM7EIfq* h\5=)
-        CM7EIFQ_H_5_2                                                        = 7540,  -- (CM7EIfq* h\5=)
-        ADH_E_9Q_2                                                           = 7541,  -- %ADH"=_|:E+\9q
-        CURRENTLY_MEMBERS_OF_YOUR_PARTY_INCLUDING_YOURSELF_HAVE              = 7542,  -- Currently, # members of your party (including yourself) have clearance to enter the battlefield.
-        CURRENTLY_MEMBERS_OF_YOUR_ALLIANCE_INCLUDING_YOURSELF_HAVE           = 7543,  -- Currently, # members of your alliance (including yourself) have clearance to enter the battlefield.
-        ONLY_CAN_ENTER_THE_BATTLEFIELD                                       = 7544,  -- Only % can enter the battlefield.
-        THE_TIME_LIMIT_FOR_THIS_BATTLE_IS_MINUTES                            = 7545,  -- The time limit for this battle is # minutes.
-        THERE_IS_A_CRACK_IN_THE_IT_NO                                        = 7546,  -- There is a crack in the %. It no longer contains a monster.
-        A_CRACK_HAS_FORMED_ON_THE_AND_THE                                    = 7547,  -- A crack has formed on the %, and the beast inside has been unleashed!
-        BOSS_MODE                                                            = 7548,  -- Boss mode : #!!
-        ROOM_NUMBER_TO_ATTEMPT_DESIRED_BOSS_MODE_DIFFICULTY                  = 7549,  -- Room number to attempt: #. Desired boss mode: #. Difficulty: # ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
-        DEBUG1                                                               = 7551,  -- DEBUG1
-        T_I_I_I                                                              = 7552,  -- T&:I_i)%" _i
-        IDEBUGJOGTB_I8S_7B                                                   = 7553,  -- iDEBUGjogtB%#;I8s%7B
-        X_BVB                                                                = 7554,  -- %{X|bvB
-        V_NGXG_T_NGXG_LL_NGXG_LBOSS_STATUS                                   = 7555,  -- +[v #NGXg.T@@@# #NGXg.Ll%NGXg.LBOSS_STATUS@@#
-        FBN_T_V                                                              = 7556,  -- `FbN.T%%*[v
-        NGXG_T_NGXG_LL_NGXG_LBOSS_STATUS_NCAGVL                              = 7557,  -- #NGXg.T@@@# #NGXg.Ll%NGXg.LBOSS_STATUS@@# NCAgVL=_@@#%
-        PARTY0F_PARTY1_ARTY2F                                                = 7558,  -- PARTY0F# PARTY1%ARTY2F#
-        PARTY3F_PARTY4_ARTY5F                                                = 7559,  -- PARTY3F# PARTY4%ARTY5F#
-        NCAG_OCXG_HP                                                         = 7560,  -- NCAg%^oCxg%hP
-        T_O_OCXG_HP                                                          = 7561,  -- T[o%^oCxg%hP
-        CLI_NUM0                                                             = 7562,  -- CLI_NUM0 = #
-        CLI_NUM1                                                             = 7563,  -- CLI_NUM1 = #
-        CLI_NUM2                                                             = 7564,  -- CLI_NUM2 = #
-        CLI_NUM3                                                             = 7565,  -- CLI_NUM3 = #
-        CLI_NUM4                                                             = 7566,  -- CLI_NUM4 = #
-        CLI_NUM5                                                             = 7567,  -- CLI_NUM5 = #
-        CLI_NUM6                                                             = 7568,  -- CLI_NUM6 = #
-        CLI_NUM7                                                             = 7569,  -- CLI_NUM7 = #
-        SKIP_THE_EVENT_YES_NO                                                = 7570,  -- Skip the event? Yes. No.
-        BATTLEFIELD_CLEAR_TIME_SECOND                                        = 7571,  -- Battlefield clear time: # second[/s]!
-        BATTLEFIELD_CLEAR_TIME_MINUTE_SECOND                                 = 7572,  -- Battlefield clear time: # minute[/s], # second[/s]!
-        THE_CURRENT_BATTLEFIELD_CLEAR_TIME_RECORD_IS_SECOND                  = 7573,  -- The current battlefield clear time record is # second[/s].
-        THE_CURRENT_BATTLEFIELD_CLEAR_TIME_RECORD_IS_MINUTE                  = 7574,  -- The current battlefield clear time record is # minute[/s] # second[/s].
-        CALLED_THE_NPC_PC_ID_RESULT                                          = 7575,  -- Called the NPC! PC ID = #! RESULT = #!
-        GOT_RID_OF_THE_NPC_PC_ID                                             = 7576,  -- Got rid of the NPC! PC ID = #!
-        THE_NPC_HAS_FALLEN_AND_HE_CAN_T                                      = 7577,  -- The NPC has fallen, and he can't get up! Leaving room A!
-        THE_NPC_HAS_FALLEN_AND_HE_CAN_T_2                                    = 7578,  -- The NPC has fallen, and he can't get up! Leaving room B!
-        THE_NPC_HAS_FALLEN_AND_HE_CAN_T_3                                    = 7579,  -- The NPC has fallen, and he can't get up! Leaving room C!
-        THE_NPC_HAS_FALLEN_AND_HE_CAN_T_4                                    = 7580,  -- The NPC has fallen, and he can't get up! Leaving room D!
-        ALL_PARTY_MEMBERS_HAVE_FALLEN_IN_BATTLE_NOW                          = 7581,  -- All party members have fallen in battle. Now leaving the battlefield.
-        EVERYBODY_S_FALLEN_IN_ROOM_A_AND_THEY                                = 7582,  -- Everybody's fallen in room A, and they can't get up! Leaving room A!
-        EVERYBODY_S_FALLEN_IN_ROOM_B_AND_THEY                                = 7583,  -- Everybody's fallen in room B, and they can't get up! Leaving room B!
-        EVERYBODY_S_FALLEN_IN_ROOM_C_AND_THEY                                = 7584,  -- Everybody's fallen in room C, and they can't get up! Leaving room C!
-        EVERYBODY_S_FALLEN_IN_ROOM_D_AND_THEY                                = 7585,  -- Everybody's fallen in room D, and they can't get up! Leaving room D!
-        EVERYBODY_S_FALLEN_IN_ROOM_E_AND_THEY                                = 7586,  -- Everybody's fallen in room E, and they can't get up! Leaving room E!
-        IF_ALL_PARTY_MEMBERS_HP_ARE_STILL_ZERO                               = 7587,  -- If all party members' HP are still zero after # minute[/s] # second[/s], the party will be removed from the battlefield.
-        IF_ALL_PARTY_MEMBERS_HP_ARE_STILL_ZERO_2                             = 7588,  -- If all party members' HP are still zero after # minute[/s], the party will be removed from the battlefield.
-        WHAT_THE_HELL_IS_THAT_NUMBER_IT_S                                    = 7589,  -- What the hell is that number!? It's not possible!!!
-        ONLY_HAVE_CLEARANCE_TO_ENTER_THE_BATTLEFIELD_THIS                    = 7590,  -- Only # [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
-        YOU_ARE_NOW_ABLE_TO_SUMMON                                           = 7591,  -- You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
-        YOU_DO_NOT_MEET_THE_REQUIREMENTS_TO_ENTER_2                          = 7592,  -- You do not meet the requirements to enter the battlefield with your party members. Access is denied.
-        THE_SHIMMERING_CIRCLE_YOU_ARE_TRYING_TO_ENTER                        = 7593,  -- The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
-        THAT_RECORD_IS_HELD_BY_ADVENTURERS_INCLUDING                         = 7594,  -- That record is held by # adventurers, including %!
-        THAT_RECORD_IS_HELD_BY                                               = 7595,  -- That record is held by %!
-        SELECT_DIFFICULTY_VERY_DIFFICULT_LEVEL_DIFFICULT_LEVEL_NORMAL        = 7596,  -- Select difficulty. Very difficult. (Level: ???) Difficult. (Level: ???) Normal. (Level: #) Easy. (Level: #) Very Easy. (Level: #) Leave.
-        CURRENT_DIFFICULTY_LEVEL                                             = 7597,  -- Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
-        A_MALIGNANT_FORCE_ESCAPES_FROM_YOUR                                  = 7598,  -- A malignant force escapes from your %.
-        YOU_ARE_UNABLE_TO_ENTER_THE_BATTLEFIELD_BECAUSE                      = 7599,  -- You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
-        YOUR_IS_CALLING_OUT_TO_SOMETHING                                     = 7600,  -- Your % is calling out to something...
-        THE_HAS_A_LARGE_CRACK_RUNNING_STRAIGHT_DOWN                          = 7601,  -- The % has a large crack running straight down the side.
-        SOMETHING_AWAKENS_OWING_TO_THE_PRESENCE_OF_THE                       = 7602,  -- Something awakens owing to the presence of the %...
-        THE_OATH_HAS_BEEN_FULFILLED_OWING_TO_THE                             = 7603,  -- The oath has been fulfilled owing to the power of your %.
-        YOU_WANT_TO_MAKE_IN_CASE_YOU_DIDN                                    = 7604,  -- You want to make %? In case you didn't already know, a volatile objectaru like that needs to be kept in a special container.
-        SUCH_A_CONTAINER_CAN_BE_SYNTHESIZED_IF_YOU                           = 7605,  -- Such a container can be synthesized if you have two % and %. And if my memory serves me true, % serves as the bonding agentaru.
-        I_HEAR_CAN_BE_HAD_WITHIN_THE_MAZE                                    = 7606,  -- %, I hear, can be had within the Maze of Shakhrami. Not lying scattered about the floors, obviously. One of the crawlers there might be willing to partaru with one, but if not...well, you adventuring types know what to do.
-        OH_DID_I_MENTION_NATURALLY_TO_SYNTHESIZE_YOU                         = 7607,  -- Oh, did I mention %? Naturally, to synthesize %, you'll be needing one of those, too.
-        YOU_WISH_TO_SYNTHESIZE_AH_YES_WELL_DO                                = 7608,  -- You wish to synthesize %? Ah, yes. Well do I know that recipe! Its creation requires a few %.
-        IN_TURN_MAKING_REQUIRES_AND_TOSS_INTO_THE                            = 7609,  -- In turn, making % requires % and %. Toss % into the mix, and what you seek shall be yours.
-        I_FEAR_WE_HAVEN_T_HERE_BUT_IT                                        = 7610,  -- I fear we haven't % here. But it should please you to know that skeletons dwelling within the Gusgen Mines are known to drop one on occasion.
-        WHAT_BRINGS_YOU_HERE_WELL_OF_ALL_THINGS                              = 7611,  -- What brings you here? Well, %, of all things... You couldn't hope to make one without some %, but I fear they aren't often stocked by vendors.
-        BUT_YOU_STRIKE_ME_AS_AN_INTREPID_TYPE                                = 7612,  -- But you strike me as an intrepid type, so I'll share with you some knowledge to help you on your way. Head over to Ordelle's Caves. Hunt enough bats there, and you might just come into some %. That's the main ingredient required to make %.
-        ALL_THAT_REMAINS_THEN_IS_TO_BIND_IT                                  = 7613,  -- All that remains, then, is to bind it with % using %. Good luck!
-        YOU_YES_THE_DESCRIPTION_FITS_I_DARESAY_YOU                           = 7614,  -- You... Yes, the description fits. I daresay, you're the one she sent, yes?
-        CAN_I_COUNT_ON_YOU_TO_AID_MY                                         = 7615,  -- Can I count on you to aid my investigation once more?
-        AT_MY_CLIENT_S_BEHEST_I_HAVE_PROCURED                                = 7616,  -- At my client's behest, I have procured the item you require. But alas, doing so drained far more of my time and resources than had been reckoned. As recompense for having exerted undue effort, I would ask a favor of you. Do as I say, and you may consider the item yours.
-        DO_AS_HE_SAYS_YES_NO                                                 = 7617,  -- Do as he says? Yes. No.
-        VERY_GOOD_I_KNEW_I_COULD_COUNT_ON                                    = 7618,  -- Very good. I knew I could count on us being on the same page. Now then, without further ado, I shall explain the task to you. It truly is simple.
-        YOU_ARE_TO_INVESTIGATE_A_NUMBER_OF_CREATURES                         = 7619,  -- You are to investigate a number of creatures dwelling within the Sea Serpent Grotto in my stead.
-        SHOULD_YOU_NOT_POSSESS_AND_I_CAN_FURNISH                             = 7620,  -- Should you not possess % and %, I can furnish you with both for a nominal fee of 800 gil.
-        USING_THE_WILL_TURN_INTO_A_VISUAL_RECORD                             = 7621,  -- Using the % will turn % into %--a visual record of the subject's physical characteristics.
-        I_M_CURRENTLY_INVESTIGATING_THE_THE_AND_THE                          = 7622,  -- I'm currently investigating the %, the %, and the %.
-        HM_IT_APPEARS_YOU_ARE_OVERBURDENED_SPEAK_WITH                        = 7623,  -- Hm? It appears you are overburdened. Speak with me again after you've reorganized your belongings.
-        THAT_IS_MOST_DISAPPOINTING_SHE_WOULD_NOT_BE                          = 7624,  -- That is most disappointing... She would not be pleased to hear of this.
-        AH_YES                                                               = 7625,  -- Ah, yes...
-        A_TRULY_MENACING_IMAGE_OF_THE_ALL_THAT                               = 7626,  -- A truly menacing image of the %! All that remains, then, is one each of the % and the %.
-        DO_YOU_REQUIRE_AND_I_CAN_PROVIDE_YOU                                 = 7627,  -- Do you require % and %? I can provide you with both for a nominal fee of 800 gil.
-        BUY_FOR_800_GIL_YOU_HAVE_YES_PLEASE                                  = 7628,  -- Buy for 800 gil? (You have #) Yes, please. No, thank you.
-        SHOULD_YOU_NOT_POSSESS_AND_I_CAN_FURNISH_2                           = 7629,  -- Should you not possess % and %, I can furnish you with both for a nominal fee. I've recently depleted my stores, however, so you will have to wait until the next shipment arrives.
-        IT_APPEARS_YOU_HAVEN_T_ENOUGH_GIL                                    = 7630,  -- It appears you haven't enough gil.
-        AH_A_POSITIVELY_IMPOSING_IMAGE_OF_THE_ALL                            = 7631,  -- Ah, a positively imposing image of the %! All that remains, then, is one of the %.
-        I_VE_EAGERLY_AWAITED_YOUR_RETURN_WITH_THIS                           = 7632,  -- I've eagerly awaited your return. With this image of the %, I hold your task fulfilled.
-        AS_PROMISED_I_RELINQUISH_THIS_TO_YOU_SHOULD                          = 7633,  -- As promised, I relinquish this to you. Should another be required, you shall find me here.
-        I_NEED_IMAGES_OF_THE_THE_AND_THE                                     = 7634,  -- I need images of the %, the %, and the %.
-        YOU_VE_YET_TO_BRING_ME_IMAGES_OF                                     = 7635,  -- You've yet to bring me images of the % and the %.
-        YOU_VE_YET_TO_BRING_ME_AN_IMAGE                                      = 7636,  -- You've yet to bring me an image of the %.
-        A_FINE_IMAGE_THIS_IS_BUT_THIS_CREATURE                               = 7637,  -- A fine image this is, but this creature isn't one of my investigation subjects.
-        I_FEAR_I_HAVEN_T_THE_TIME_TO                                         = 7638,  -- I fear I haven't the time to trade pleasantries with random strangers. Please leave me be.
-        IS_THERE_SOMETHING_ELSE_YOU_WISH_OF_ME                               = 7639,  -- Is there something else you wish of me? You already have what you came for, no?
-        WE_DON_T_KNOW_WHAT_YOU_RE_DOING                                      = 7640,  -- We don't know what you're doing here, but truth be told, we're not really interested.
-        PUTTING_UP_A_FIGHT_EH_GORATTZ_BOMPUPU_SHOW                           = 7641,  -- Putting up a fight, eh? Gorattz! Bompupu! Show him/her] what the Tenshodo thinks of meddlesome adventurers!
-        D_DAMN_I_M_IN_WAY_OVER_MY                                            = 7642,  -- D-damn... I'm in way over my head...
-        UGH_HE_SHE_S_TOUGHER_THAN_HE_SHE                                     = 7643,  -- Ugh... He/She]'s tougher than he/she] looks...
-        WAAAH_I_DIDN_T_SIGNY_WIGN_UP_FOR                                     = 7644,  -- Waaah! I didn't signy-wign up for this...
-        S_SHADOW_IMAGE_DISAPPEARS                                            = 7645,  -- [Renfred/Gorattz/Bompupu]'s shadow image disappears...
-        THE_FADES_AWAY_INTO_NOTHINGNESS                                      = 7646,  -- The [Skeleton Scuffler/Blest Bones/Holey Horror/Steely Weapon/Lode Golem/Fired Urn] fades away into nothingness...
-        THE_POWER_OF_THE_GREAT_STAR_TREE_HAS                                 = 7647,  -- The power of the Great Star Tree has been released!
-        WE_WARMLY_WELCOME_YOU_TO_THE_PLACE_OF                                = 7648,  -- We warmly welcome you to the place of your unmaking.
-        FROM_YOUR_GROUND_BONES_A_LOAF_OF_BREAD                               = 7649,  -- From your ground bones, a loaf of bread we shall be baking.
-        WE_SHALL_CURSE_YOU_UNTO_DEATH_PREPARE_TO                             = 7650,  -- We shall curse you unto death! Prepare to breathe your final breath!
-        WE_WILL_MAKE_YOU_BEG_TO_DIE_SIX                                      = 7651,  -- We will make you beg to die! Six fulms under you will lie!
-        NAUGHTY_CHILDREN_SHALL_RECEIVE_NO_QUARTER_CURL_UP                    = 7652,  -- Naughty children shall receive no quarter! Curl up and die, this is your empress's order!
-        YOU_VE_LONG_OVERSTAYED_YOUR_WELCOME_THE_PUNISHMENT                   = 7653,  -- You've long overstayed your welcome! The punishment will be brutal and gruesome!
-        WHICH_WAY_DO_YOU_LIKE_IT_SLOW_OR                                     = 7654,  -- Which way do you like it--slow or fast? Should you lose a limb, be not aghast!
-        YOU_LL_WISH_YOU_WERE_NEVER_BORN_FROM                                 = 7655,  -- You'll wish you were never born! From your torso limbs will be torn!
-        STEEL_YOURSELF_FOR_A_WICKED_FRIGHT                                   = 7656,  -- Steel yourself for a wicked fright!
-        WE_SHALL_SET_YOUR_PANTS_ALIGHT                                       = 7657,  -- We shall set your pants alight!
-        THE_WORLD_SHALL_BOW_BEFORE_OUR_MIGHT                                 = 7658,  -- The world shall bow before our might!
-        H_HOW_COULD_THIS_BE_THIS_OUTCOME_WE                                  = 7659,  -- H-how could this be? This outcome, we did not foresee...
-        BE_THIS_A_DREAM_OR_IS_IT_REAL                                        = 7660,  -- Be this a dream? Or is it real? This ending falls sorely short of ideal...
-        TWAS_HIGH_TIME_YOU_WERE_MADE_TO_KNOW                                 = 7661,  -- 'Twas high time you were made to know that your abilities are purely for show. O`hohohohoho!
-        A_FITTING_END_FOR_A_TALENTLESS_CREW_THAT                             = 7662,  -- A fitting end for a talentless crew that tried to bite off more than it could chew. O`hohohohoho!
-        YOUR_BODY_ABSORBS_THE_POWER_HELD_WITHIN_THE                          = 7663,  -- Your body absorbs the power held within the ancient runes!
-        YOU_CANNOT_ENTER_THIS_BATTLEFIELD_WITH_IN_YOUR                       = 7664,  -- You cannot enter this battlefield with % in your possession.
-        IT_APPEARS_YOU_MUST_WAIT_LONGER_TO_COMMENCE                          = 7665,  -- It appears you must wait longer to commence the battle.
-        YOU_ARE_NOT_IN_POSSESSION_OF_UNABLE_TO                               = 7666,  -- You are not in possession of %. Unable to enter the battlefield for [Sugar-coated Directive/Battaru Royale/Project: Shantottofication].
-        YOU_CANNOT_ENTER_THE_BATTLEFIELD_FOR_WITH_IN                         = 7667,  -- You cannot enter the battlefield for [Sugar-coated Directive/Battaru Royale/Project: Shantottofication] with % in your possession.
-        THE_HAS_NO_EFFECT_IT_APPEARS_YOU_SHOULD                              = 7668,  -- The % has no effect. It appears you should come back later.
-        YOU_ARE_NOT_IN_POSSESSION_OF_A_SAP                                   = 7669,  -- You are not in possession of a sap crystal. Unable to enter the battlefield for Battaru Royale.
-        THE_SAP_CRYSTAL_HAS_NO_EFFECT_MORE_TIME                              = 7670,  -- The sap crystal has no effect. More time must elapse before you can enter the battlefield for Battaru Royale.
-        YOU_ARE_NOT_IN_POSSESSION_OF_A_TABLET                                = 7671,  -- You are not in possession of a Tablet of Hexes. Unable to enter the battlefield for Project: Shantottofication.
-        THE_TABLET_OF_HEXES_HAS_NO_EFFECT_MORE                               = 7672,  -- The Tablet of Hexes has no effect. More time must elapse before you can enter the battlefield for Project: Shantottofication.
-        THE_DOOR_IS_SEALED                                                   = 7673,  -- The door is sealed.
-        YOUR_OPPONENTS_DEEM_YOU_TOO_WEAK_TO_BE                               = 7674,  -- Your opponents deem you too weak to be worthwhile, disappearing whence they came.
-        THERE_IS_NO_RESPONSE_YOU_CANNOT_ESCAPE_2                             = 7675,  -- There is no response. You cannot escape!
-        YOU_HAVE_BROKEN_THE_CLEAR_TIME_RECORD_FOR                            = 7676,  -- You have broken the clear time record for [Trial by Water/Trial-Size Trial by Water/Waking the Beast/Sugar-coated Directive/rial by Water]!
-        THE_CURRENT_BATTLEFIELD_CLEAR_TIME_RECORD_FOR_IS                     = 7677,  -- The current battlefield clear time record for [Trial by Water/Trial-Size Trial by Water/Waking the Beast/Sugar-coated Directive/rial by Water] is # second[/s].
-        THE_CURRENT_BATTLEFIELD_CLEAR_TIME_RECORD_FOR_IS_2                   = 7678,  -- The current battlefield clear time record for [Trial by Water/Trial-Size Trial by Water/Waking the Beast/Sugar-coated Directive/rial by Water] is # minute[/s] # second[/s].
-        ENTERING_THE_BATTLEFIELD_FOR                                         = 7679,  -- Entering the battlefield for [Trial by Water/Trial-Size Trial by Water/Waking the Beast/Sugar-coated Directive/rial by Water]!
-        WHICH_BATTLEFIELD_WILL_YOU_ENTER_NONE_TRIAL_BY                       = 7680,  -- Which battlefield will you enter? None. Trial by Water. Trial-Size Trial by Water. Waking the Beast. Sugar-coated Directive. rial by Water. . . . . . . . . . . . . . . . . . . . . . . . . .
-        AS_IF_SENSING_THE_PRESENCE_OF_THE_PROTOCRYSTAL                       = 7681,  -- As if sensing the presence of the protocrystal, the % begins to softly resonate...
-        WHO_INTERRUPTS_MY_SLUMBER                                            = 7682,  -- ...Who interrupts my slumber?
-        WAS_I_DREAMING_FOR_BUT_AN_INSTANT_OR                                 = 7683,  -- Was I dreaming for but an instant, or an eternity? The radiance that illuminates all, lost...
-        WHICH_IS_THE_REAL_WORLD_AND_WHICH_IS                                 = 7684,  -- Which is the real world, and which is the dream? Am I...?
-        BUT_ENOUGH_WAGER_YOUR_LIFE_TO_PROVE_YOUR                             = 7685,  -- But enough... Wager your life to prove your skill. Let us see if you can provide me with a moment of amusement.
-        ARE_YOU_READY_YOU_WHO_IS_ONE_YET                                     = 7686,  -- Are you ready, you who is one yet many?
-        IMPRESSIVE_CHILD_OF_VANA_DIEL                                        = 7687,  -- ...Impressive, child of Vana'diel.
-        WE_SLEEP_IN_A_TIME_THAT_IS_NEITHER                                   = 7688,  -- We sleep in a time that is neither an instant, nor an eternity.
-        IS_THIS_WORLD_A_DREAM_OR_IS_THE                                      = 7689,  -- Is this world a dream, or is the dreamworld an illusion...?
-        VERY_WELL_CHILD_OF_VANA_DIEL_I_WILL                                  = 7690,  -- Very well, child of Vana'diel. I will grant you a fragment of my power to bring order to chaos.
-        THE_BEGINS_TO_SOFTLY_RESONATE_WITH_THE_PROTOCRYSTAL                  = 7692,  -- The % begins to softly resonate with the protocrystal.
-        WHO_INTERRUPTS                                                       = 7693,  -- Who interrupts...
-        WAS_I_DREAMING_AN_ETERNITY_LOST                                      = 7694,  -- Was I dreaming...? ...an eternity? ...lost...
-        BUT_ENOUGH_WAGER_YOUR_LIFE_PROVIDE_ME_WITH                           = 7695,  -- But enough... Wager your life... ...provide me ...with...amusement.
-        ARE_YOU_READY                                                        = 7696,  -- Are you ready...?
-        IMPRESSIVE                                                           = 7697,  -- ...Impressive...
-        TIME_IS_NEITHER_AN_ETERNITY                                          = 7698,  -- ...time is neither ...an eternity.
-        TO_BRING_ORDER                                                       = 7699,  -- ...to bring order...
-        YOU_ARE_NOW_ABLE_TO_SUMMON_2                                         = 7700,  -- You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
-        LFOBOPJ_LZ_V_J_H_WBN_WBNEX_B                                         = 7701,  -- lfobOpj%[ LZ [v J[h ~%[WbN ~%[WbNEX "#b`FbN
-        WVFP_I_P_X_X_B_M6_H                                                  = 7702,  -- Wvfp%I%p {X.`%{X.b M6\h (5\" "#b2.
-        PRESS_THE_CONFIRMATION_BUTTON                                        = 7703,  -- Press the confirmation button.
-        WHAT_SONG_DO_YOU_WANT_TO_HEAR_1                                      = 7704,  -- What song do you want to hear? (1) Next Page. Field Battle (Solo). Field Battle (Party). Dungeon Battle (Solo). Dungeon Battle (Party). Windurst. San d'Oria. Bastok. Chateau d'Oraguille. Metalworks. Heavens Tower. Jeuno. Ru'Lude Gardens. Selbina. Mahura. Ronfaure. Sarutabaruta. Gustaberg. Batallia Downs. Sauromugue Champaign. Rolanberry Fields.
-        WHAT_SONG_DO_YOU_WANT_TO_HEAR_2                                      = 7705,  -- What song do you want to hear? (2) Next Page. Northlands. Delkfutt's Tower. Castle Zvahl. Shadow Lord Battle. Shadow Lord Theme. Bravery. Ghelsba. Ferry. Prelude. Mog House. Installation. Game Over, man! Airship. No Hope 1. No Hope 2. Anger. Sadness. Mid-Boss. Sometime, Somewhere. Memories. Uneasy. Theme (2). Theme (3).
-        WHAT_SONG_DO_YOU_WANT_TO_HEAR_3                                      = 7706,  -- What song do you want to hear? (3) First Page. 130. 131. 132. 133. 165. 166. 167. 168. 170. Music...stop!
-        WHAT_SONG_DO_YOU_WANT_TO_HEAR_4                                      = 7707,  -- What song do you want to hear? (4) Next Page. EX Field Battle! (Party). EX Dungeon Battle (Party). EX Mid-Boss. Eald'narche. Crystal Warriors. Raogrimm's Theme. To Tu'Lia! Athanasium. Grav'iton. Kam'lanaut's Theme. EX Ending. Quest Complete! Quest 1. Quest 2. Quest 3.
-        WHAT_SONG_DO_YOU_WANT_TO_HEAR_5                                      = 7708,  -- What song do you want to hear? (5) Previous Page. Yve'noile. Norg. Kazham. Rabao. Jungle Fever. Altepa. Tu'Lia. The Sanctuary of Zi'Tah. Ro'Maeve. The Hall of the Gods. Ve'Lugannon Palace. Chocobo de Go. Wedding Bells.
-        BP_I_P_LZ_CT_G_C_CAT                                                 = 7709,  -- "#bp%I%p LZ Ct#[g ^C^ #@CAT K[_ V@ E
-        BL_XGI_I_A_N_X                                                       = 7710,  -- "#bL' #XgI_i "# A# N#X^
-        THERE_IS_NOTHING_OUT_OF_THE_ORDINARY_HERE_2                          = 7711,  -- There is nothing out of the ordinary here.
-        YOU_CAN_HEAR_A_STRANGE_VOICE_ITEMS_ITEMS                             = 7712,  -- You can hear a strange voice... Items, items, la la la la la`t
-        OH_MY_GOB_YOU_RE_ONE_OF_THOSE                                        = 7713,  -- Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
-        HEY_WATCH_OUT_YOU_DON_T_WANNA_FIGHT                                  = 7714,  -- Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
-        I_TRAVEL_ALL_OVER_THE_WORLD_AND_HEAR                                 = 7715,  -- I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
-        NOW_LISTEN_CLOSE                                                     = 7716,  -- Now, listen close...
-        OH_WELL_IF_THAT_S_THE_CASE_I                                         = 7717,  -- Oh... Well, if that's the case, I'm outta here.
-        THE_GOBLIN_SLIPPED_AWAY_WHEN_YOU_WERE_NOT                            = 7718,  -- The Goblin slipped away when you were not looking...
-        YOU_CAN_HEAR_A_STRANGE_RASPY_VOICE                                   = 7719,  -- You can hear a strange, raspy voice...
-        I_TRAVEL_HEAR_LOTS_HEAR_STORIES_CAN_TELL                             = 7720,  -- I travel......hear lots... Hear...stories... Can tell...if...
-        LISTEN                                                               = 7721,  -- .........listen......
-        OH_OUTTA_HERE                                                        = 7722,  -- Oh...... ...outta here.........
-        DO_YOU_WANT_TO_HEAR_A_STORY_NO                                       = 7723,  -- Do you want to hear a story? No, thank you. Let's hear one.
-        WHAT_STORY_WOULD_YOU_LIKE_TO_BE_TOLD                                 = 7724,  -- What story would you like to be told? On second thought, maybe later. Trial by Water(pt.1). Trial by Water(pt.2). Trial-Size Trial by Water(pt.1). Trial-Size Trial by Water(pt.2). Waking the Beast(pt.1). Waking the Beast(pt.2). Sugar-coated Directive.
-        WHAT_PITIFUL_FOOL_DARES_DISTURB_MY_SLUMBER                           = 7728,  -- What pitiful fool dares disturb my slumber?
-        ON_THE_FACE_OF_THE_WORLD_WE_HAVE                                     = 7729,  -- On the face of the world we have created...
-        YOUR_MORTALITY_IS_A_SIN                                              = 7730,  -- Your mortality is a sin...
-        WHAT_ARE_YOU_PLANNING_TO_WHERE_DO_YOU                                = 7731,  -- What are you planning...? To where do you take my power...?
-        THIS_WORLD_IS_NO_DREAM_THE_WORLD_I                                   = 7732,  -- This world is no dream... The world I dream of is no illusion...
-        YOUR_KIND_HAS_FORGOTTEN_ITS_DIVINITY                                 = 7733,  -- Your kind has forgotten its divinity...
-        HEED_MY_WORDS_THE_CREATURE_CARBUNCLE                                 = 7734,  -- Heed my words. The creature...Carbuncle?
-        IT_IS_A_FALSE_GOD_AND_YOUR_WORLD                                     = 7735,  -- It is a false god. And your world is a finite thing.
-        REMEMBER_YOUR_DIVINE_ORIGIN_ONLY_THEN_CAN_WE                         = 7736,  -- Remember your divine origin. Only then can we help you.
-        YOU_OBTAIN_3                                                         = 7737,  -- You obtain %!
-        ATTACHES_TO_THE_PROTOCRYSTAL                                         = 7738,  -- % attaches % to the protocrystal.
-        AN_UNSEEN_POWER_STYMIES_YOUR_EFFORTS_TO_ATTACH                       = 7739,  -- An unseen power stymies your efforts to attach % to the protocrystal.
+        ID_7040                                                              = 7040,  -- # # # #
+        THE_UNITY_RANKING_TABULATION_PERIOD_HAS_BEGUN                        = 7041,  -- The Unity ranking tabulation period has begun.
+        THE_UNITY_RANKING_TABULATION_PERIOD_HAS_ENDED                        = 7042,  -- The Unity ranking tabulation period has ended.
+        ID_7043                                                              = 7043,  -- [Unranked/First place/Second place/Third place/Fourth place/Fifth place]: [Pieuje/Ayame/Invincible Shield/Apururu/Maat/Aldo/Jakoh Wahcondalo/Naja Salaheem/Flaviria/Yoran-Oran/Sylvie].
+        JUMP_INTO_THE_VORTEX_OFF_WE_GO_NOT                                   = 7044,  -- Jump into the vortex? Off we go! Not just yet.
+        NOTHING_OUT_OF_THE_ORDINARY_HAPPENS                                  = 7045,  -- Nothing out of the ordinary happens.
+        YOU_ARE_UNABLE_TO_PROCEED_TO_THE_NEXT                                = 7046,  -- You are unable to proceed to the next area because [Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin] is not registered to your account.
+        YOU_ARE_NOW_ABLE_TO_CALL_FORTH_ALTER                                 = 7047,  -- You are now able to call forth alter egos here because you have obtained the % key item.
+        YOU_CANNOT_CARRY_ANY_MORE_2                                          = 7048,  -- You cannot carry any more %.
+        YOU_HAVE_BEEN_PROMOTED_TO                                            = 7049,  -- You have been promoted to [/Private First Class/Superior Private/Lance Corporal/Corporal/Sergeant/Sergeant Major/Chief Sergeant/Second Lieutenant/First Lieutenant/Captain]!
+        YOUR_BAGS_MYSTERIOUSLY_FEEL_A_LITTLE_BIT_HEAVIER                     = 7050,  -- Your bags mysteriously feel a little bit heavier...
+        THE_BONDS_TYING_YOU_TO_ALTANA_HAVE_STRENGTHENED                      = 7051,  -- The bonds tying you to Altana have strengthened, enabling you to experience all the memories of [Rise of the Zilart/Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin]!
+        YOU_ARE_UNABLE_TO_MAKE_FURTHER_PROGRESS_IN                           = 7052,  -- You are unable to make further progress in Rhapsodies of Vana'diel due to an event occurring in the [Chains of Promathia/Treasures of Aht Urhgan/Wings of the Goddess/Seekers of Adoulin/Rise of the Zilart] missions.
+        YOU_ARE_UNABLE_TO_MAKE_FURTHER_PROGRESS_IN_2                         = 7053,  -- You are unable to make further progress in Rhapsodies of Vana'diel due to an event occurring in the quest [Champion of the Dawn/A Forbidden Reunion].
+        THE_CRYSTAL_GLISTENS_WITH_A_DIVINE_RADIANCE                          = 7054,  -- The crystal glistens with a divine radiance.
+        YOU_MUST_VISIT_AHT_URHGAN_WHITEGATE_IN_ORDER                         = 7055,  -- You must visit Aht Urhgan Whitegate in order to progress in the Rhapsodies of Vana'diel missions.
+        YOU_HAVE_BEEN_AWARDED_THE_TEMPORARY_ITEM_AS                          = 7056,  -- You have been awarded the temporary item % as compensation.
+        YOU_ALREADY_POSSES_THE_TEMPORARY_ITEM_AND_CANNOT                     = 7057,  -- You already posses the temporary item % and cannot receive another one as compensation.
+        PLEASE_CLAIM_YOUR_ITEM_BEFORE_MAINTENANCE_FOR_THE                    = 7058,  -- Please claim your item before maintenance for the February 2022 version update begins.
+        YOU_HAVE_BEEN_REWARDED_AS_COMPENSATION                               = 7059,  -- You have been rewarded % as compensation.
+        YOU_ARE_UNABLE_TO_ACCEPT_THE_COMPENSATORY_FREE                       = 7060,  -- You are unable to accept the compensatory %. Free up some space in your inventory and try again.
+        PLEASE_CLAIM_YOUR_ITEM_BEFORE_MAINTENANCE_FOR_THE_2                  = 7061,  -- Please claim your item before maintenance for the October 2022 version update begins.
+        YOU_RECEIVE_DEEDS_FOR_A_TOTAL_OF                                     = 7062,  -- You receive # deeds for a total of #!
+        WORD_HAS_BEEN_RECEIVED_OF_A_MAMOOL_JA                                = 7063,  -- Word has been received of a Mamool Ja threat in Wajaom Woodlands.
+        WORD_HAS_BEEN_RECEIVED_OF_A_TROLL_THREAT                             = 7064,  -- Word has been received of a Troll threat in Wajaom Woodlands.
+        WORD_HAS_BEEN_RECEIVED_OF_AN_UNDEAD_THREAT                           = 7065,  -- Word has been received of an undead threat in Bhaflau Thickets.
+        N_TJ                                                                 = 7066,  -- --------------/ : (n%Tj
+        VANA_BOUT_RECORDS_OF_EMINENCE_OBJECTIVES_HAVE_BEEN                   = 7067,  -- Vana'Bout Records of Eminence objectives have been updated.
+        VANA_BOUT_NO_HAS_COMMENCED                                           = 7068,  -- Vana'Bout No. # has commenced!
+        VANA_BOUT_NO_HAS_CONCLUDED                                           = 7069,  -- Vana'Bout No. # has concluded.
+        OBTAINED_TEMPORARY_ITEM                                              = 7070,  -- Obtained temporary item: %.
+        LOST_TEMPORARY_ITEM                                                  = 7071,  -- Lost temporary item: %.
+        IT_WON_T_OPEN                                                        = 7072,  -- It won't open.
+        TALLYING_CONQUEST_RESULTS                                            = 7073,  -- Tallying conquest results...
+        CONQUEST_RESULTS_TALLIED                                             = 7074,  -- Conquest results tallied.
+        THIS_REGION_IS_CURRENTLY_UNDER_SAN_D_ORIAN                           = 7075,  -- This region is currently under San d'Orian control.
+        THIS_REGION_IS_CURRENTLY_UNDER_BASTOKAN_CONTROL                      = 7076,  -- This region is currently under Bastokan control.
+        THIS_REGION_IS_CURRENTLY_UNDER_WINDURSTIAN_CONTROL                   = 7077,  -- This region is currently under Windurstian control.
+        THIS_REGION_IS_CURRENTLY_UNDER_BEASTMAN_CONTROL_YOU                  = 7078,  -- This region is currently under beastman control. You cannot obtain crystals in this region.
+        THIS_REGION_IS_CURRENTLY_NEUTRAL                                     = 7079,  -- This region is currently neutral.
+        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA                               = 7080,  -- Global balance of power: 1st: San d'Oria 2nd: Windurst 3rd: Bastok
+        ALL_THREE_NATIONS_ARE_TIED_FOR_FIRST_PLACE                           = 7081,  -- All three nations are tied for first place.
+        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_2                             = 7082,  -- Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_3                             = 7083,  -- Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_4                             = 7084,  -- Global balance of power: 1st: San d'Oria 2nd: Bastok 3rd: Windurst
+        ALL_THREE_NATIONS_ARE_TIED_FOR_FIRST_PLACE_2                         = 7085,  -- All three nations are tied for first place.
+        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_5                             = 7086,  -- Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_6                             = 7087,  -- Global balance of power: 1st: San d'Oria 2nd: Bastok and Windurst (tie)
+        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_2ND_SAN                           = 7088,  -- Global balance of power: 1st: Bastok 2nd: San d'Oria 3rd: Windurst
+        ALL_THREE_NATIONS_ARE_TIED_FOR_FIRST_PLACE_3                         = 7089,  -- All three nations are tied for first place.
+        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_7                             = 7090,  -- Global balance of power: 1st: San d'Oria and Bastok (tie) 3rd: Windurst
+        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_2ND_SAN_2                         = 7091,  -- Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_2ND_WINDURST                      = 7092,  -- Global balance of power: 1st: Bastok 2nd: Windurst 3rd: San d'Oria
+        ALL_THREE_NATIONS_ARE_TIED_FOR_FIRST_PLACE_4                         = 7093,  -- All three nations are tied for first place.
+        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_AND_WINDURST                      = 7094,  -- Global balance of power: 1st: Bastok and Windurst (tie) 3rd: San d'Oria
+        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_2ND_SAN_3                         = 7095,  -- Global balance of power: 1st: Bastok 2nd: San d'Oria and Windurst (tie)
+        GLOBAL_BALANCE_OF_POWER_1ST_WINDURST_2ND_SAN                         = 7096,  -- Global balance of power: 1st: Windurst 2nd: San d'Oria 3rd: Bastok
+        GLOBAL_BALANCE_OF_POWER_ALL_THREE_NATIONS_ARE                        = 7097,  -- Global balance of power: All three nations are tied for first place.
+        GLOBAL_BALANCE_OF_POWER_1ST_SAN_D_ORIA_8                             = 7098,  -- Global balance of power: 1st: San d'Oria and Windurst (tie) 3rd: Bastok
+        GLOBAL_BALANCE_OF_POWER_1ST_WINDURST_2ND_SAN_2                       = 7099,  -- Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok (tie)
+        GLOBAL_BALANCE_OF_POWER_1ST_WINDURST_2ND_BASTOK                      = 7100,  -- Global balance of power: 1st: Windurst 2nd: Bastok 3rd: San d'Oria
+        ALL_THREE_NATIONS_ARE_TIED_FOR_FIRST_PLACE_5                         = 7101,  -- All three nations are tied for first place.
+        GLOBAL_BALANCE_OF_POWER_1ST_BASTOK_AND_WINDURST_2                    = 7102,  -- Global balance of power: 1st: Bastok and Windurst 2nd: San d'Oria
+        GLOBAL_BALANCE_OF_POWER_1ST_WINDURST_2ND_SAN_3                       = 7103,  -- Global balance of power: 1st: Windurst 2nd: San d'Oria and Bastok
+        CONQUEST_UPDATE_THIS_REGION_IS_CURRENTLY_NEUTRAL                     = 7104,  -- Conquest update: This region is currently neutral.
+        CONQUEST_UPDATE_THIS_REGION_IS_CURRENTLY_UNDER_SAN                   = 7105,  -- Conquest update: This region is currently under San d'Orian control.
+        CONQUEST_UPDATE_THIS_REGION_IS_CURRENTLY_UNDER_BASTOKAN              = 7106,  -- Conquest update: This region is currently under Bastokan control.
+        CONQUEST_UPDATE_THIS_REGION_IS_CURRENTLY_UNDER_WINDURSTIAN           = 7107,  -- Conquest update: This region is currently under Windurstian control.
+        CONQUEST_UPDATE_THIS_REGION_IS_CURRENTLY_UNDER_BEASTMAN              = 7108,  -- Conquest update: This region is currently under beastman control. You cannot obtain crystals in this region.
+        ALL_THREE_NATIONS_ARE_AT_A_DEADLOCK                                  = 7109,  -- All three nations are at a deadlock.
+        THE_BEASTMEN_ARE_ON_THE_RISE                                         = 7110,  -- The beastmen are on the rise.
+        REGIONAL_INFLUENCE_SAN_D_ORIA_DOMINANT                               = 7111,  -- Regional influence: San d'Oria - Dominant
+        REGIONAL_INFLUENCE_SAN_D_ORIA_MAJOR                                  = 7112,  -- Regional influence: San d'Oria - Major
+        REGIONAL_INFLUENCE_SAN_D_ORIA_MINOR                                  = 7113,  -- Regional influence: San d'Oria - Minor
+        REGIONAL_INFLUENCE_SAN_D_ORIA_MINIMAL                                = 7114,  -- Regional influence: San d'Oria - Minimal
+        BASTOK_DOMINANT                                                      = 7115,  -- Bastok - Dominant
+        BASTOK_MAJOR                                                         = 7116,  -- Bastok - Major
+        BASTOK_MINOR                                                         = 7117,  -- Bastok - Minor
+        BASTOK_MINIMAL                                                       = 7118,  -- Bastok - Minimal
+        WINDURST_DOMINANT                                                    = 7119,  -- Windurst - Dominant
+        WINDURST_MAJOR                                                       = 7120,  -- Windurst - Major
+        WINDURST_MINOR                                                       = 7121,  -- Windurst - Minor
+        WINDURST_MINIMAL                                                     = 7122,  -- Windurst - Minimal
+        BASTOK_AND_WINDURST_HAVE_FORMED_AN_ALLIANCE                          = 7123,  -- Bastok and Windurst have formed an alliance.
+        SAN_D_ORIA_AND_WINDURST_HAVE_FORMED_AN                               = 7124,  -- San d'Oria and Windurst have formed an alliance.
+        SAN_D_ORIA_AND_BASTOK_HAVE_FORMED_AN                                 = 7125,  -- San d'Oria and Bastok have formed an alliance.
+        BASTOK_AND_WINDURST_ARE_CURRENTLY_ALLIES                             = 7126,  -- Bastok and Windurst are currently allies.
+        SAN_D_ORIA_AND_WINDURST_ARE_CURRENTLY_ALLIES                         = 7127,  -- San d'Oria and Windurst are currently allies.
+        SAN_D_ORIA_AND_BASTOK_ARE_CURRENTLY_ALLIES                           = 7128,  -- San d'Oria and Bastok are currently allies.
+        F_HF                                                                 = 7129,  -- #.%F# ;hF#
+        U_FBNF_ACE_X_CGF                                                     = 7130,  -- %u`FbNF# ACe% %x-|CgF#
+        ITEM_ID_IT                                                           = 7131,  -- ITEM_ID:# #]$iT:#
+        IT_X_CG                                                              = 7132,  -- #]$iT:# %x-|Cg:#
+        LS5_R_BBR_BBD_D_DP_LLI_CG                                            = 7133,  -- [Th#A/oXgD[N/EB_X]Ls5:[r(/bbr(/bbD(/D(/dP% #Lli:#%|Cg:#
+        THE_BEASTMEN_ARE_GAINING_POWER                                       = 7134,  -- The beastmen are gaining power.
+        SAN_D_ORIA_S_REGIONAL_CONTROL_IS_NOW                                 = 7135,  -- San d'Oria's regional control is now 10% closer to the first place country's!
+        BASTOK_S_REGIONAL_CONTROL_IS_NOW_10_CLOSER                           = 7136,  -- Bastok's regional control is now 10% closer to the first place country's!
+        WINDURST_S_REGIONAL_CONTROL_ARE_NOW_10_CLOSER                        = 7137,  -- Windurst's regional control are now 10% closer to the first place country's!
+        SAN_D_ORIA_S_REGION_POINTS_HAVE_INCREASED                            = 7138,  -- San d'Oria's region points have increased!
+        BASTOK_S_REGION_POINTS_HAVE_INCREASED                                = 7139,  -- Bastok's region points have increased!
+        WINDURST_S_REGION_POINTS_HAVE_INCREASED                              = 7140,  -- Windurst's region points have increased!
+        SAN_D_ORIAN_E_F_DEFEATS_BEASTMEN_HORDES                              = 7141,  -- San d'Orian E.F. defeats beastmen hordes... Maintain current momentum.
+        BASTOKAN_E_F_DEFEATS_BEASTMEN_HORDES_MAINTAIN_CURRENT                = 7142,  -- Bastokan E.F. defeats beastmen hordes...Maintain current momentum.
+        WINDURSTIAN_E_F_DEFEATS_BEASTMEN_HORDES_MAINTAIN_CURRENT             = 7143,  -- Windurstian E.F. defeats beastmen hordes...Maintain current momentum.
+        A_SAN_D_ORIAN_EXPEDITIONARY_FORCE_HAS_BEEN                           = 7144,  -- A San d'Orian Expeditionary Force has been dispatched to this area.
+        A_BASTOKAN_EXPEDITIONARY_FORCE_HAS_BEEN_DISPATCHED_TO                = 7145,  -- A Bastokan Expeditionary Force has been dispatched to this area.
+        A_WINDURSTIAN_EXPEDITIONARY_FORCE_HAS_BEEN_DISPATCHED_TO             = 7146,  -- A Windurstian Expeditionary Force has been dispatched to this area.
+        E_F_INFLUENCE_GREAT_REGION_STATUS_DOMINANT_MAINTAIN                  = 7147,  -- E.F. Influence: Great...Region Status: Dominant...Maintain current level of combat.
+        E_F_INFLUENCE_FAIR_REGION_STATUS_MAJOR_MAINTAIN                      = 7148,  -- E.F. Influence: Fair...Region Status: Major...Maintain momentum.
+        E_F_INFLUENCE_POOR_REGION_STATUS_MINOR_INCREASE                      = 7149,  -- E.F. Influence: Poor...Region Status: Minor...Increase efforts.
+        E_F_INFLUENCE_MINIMAL_REGION_STATUS_MINIMAL_INCREASE                 = 7150,  -- E.F. Influence: Minimal...Region Status: Minimal...Increase efforts tenfold.
+        E_F_INFLUENCE_NONE_REGION_STATUS_UNDER_BEASTMAN                      = 7151,  -- E.F. Influence: None...Region Status: Under beastman control...Keep losses to minimum.
+        THERE_WAS_A_CURSE_ON_THE_BEASTMEN_S                                  = 7152,  -- There was a curse on the beastmen's banner!
+        THE_CURSE_OF_THE_BEASTMEN_S_BANNER_HAS                               = 7153,  -- The curse of the beastmen's banner has been lifted!
+        THERE_IS_A_BEASTMEN_S_BANNER                                         = 7154,  -- There is a beastmen's banner.
+        F_W_IO_W_IO                                                          = 7230,  -- *f#[W io%[W io[@#
+        CG_JEG                                                               = 7231,  -- %&=|Cg%JEg@#
+        ENTER_THE_BATTLEFIELD_ENTER_DECLINE                                  = 7232,  -- Enter the battlefield? Enter. Decline.
+        LEAVE_THE_BATTLEFIELD_RUN_AWAY_STAY                                  = 7233,  -- Leave the battlefield? Run away. Stay.
+        YOU_CANNOT_ENTER_THE_BATTLEFIELD_AT_PRESENT_PLEASE                   = 7234,  -- You cannot enter the battlefield at present. Please wait a little longer.
+        YOU_CANNOT_ENTER_THE_BATTLEFIELD_AT_PRESENT_PLEASE_2                 = 7235,  -- You cannot enter the battlefield at present. Please wait a little longer.
+        YOU_HAVE_ALREADY_CLEARED_THIS_BATTLEFIELD_YOU_MAY                    = 7236,  -- You have already cleared this battlefield. You may not enter unless you are assisting a player who has not defeated this boss.
+        YOUR_TIME_IN_THE_BATTLEFIELD_IS_UP_NOW                               = 7237,  -- Your time in the battlefield is up! Now exiting...
+        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT                         = 7238,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_2                       = 7239,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_3                       = 7240,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_4                       = 7241,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_5                       = 7242,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_6                       = 7243,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_7                       = 7244,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_8                       = 7245,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_9                       = 7246,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        YOU_ARE_CLEARED_TO_ENTER_THE_BATTLEFIELD_BUT_10                      = 7247,  -- You are cleared to enter the battlefield, but you cannot while party members are engaged in combat.
+        YOU_HAVE_BEEN_ENCHANTED_SO_THAT_YOU_MAY                              = 7248,  -- You have been enchanted so that you may enter!
+        YOUR_ENTRY_ENCHANTMENT_HAS_EXPIRED                                   = 7249,  -- Your entry enchantment has expired!
+        YOU_ARE_NOT_CLEARED_TO_ENTER_THE_BATTLEFIELD                         = 7250,  -- You are not cleared to enter the battlefield. Now exiting...
+        A_CURSED_SEAL_HAS_BEEN_PLACED_UPON_THIS                              = 7251,  -- A cursed seal has been placed upon this platform.
+        THE_BATTLEFIELD_WHERE_YOUR_PARTY_MEMBERS_ARE_ENGAGED                 = 7252,  -- The battlefield where your party members are engaged in combat is locked. Access is denied.
+        THERE_IS_NO_RESPONSE_YOU_CANNOT_ESCAPE                               = 7253,  -- There is no response. You cannot escape!
+        THE_DOOR_IS_SEALED_SHUT_WITH_AN_EVIL                                 = 7254,  -- The door is sealed shut with an evil curse.
+        A_MYSTERIOUS_FORCE_IS_SEALING_THE_PLATFORM                           = 7255,  -- A mysterious force is sealing the platform.
+        THE_OLD_WOODEN_DOOR_IS_LOCKED_TIGHT                                  = 7256,  -- The old wooden door is locked tight.
+        THE_DOOR_IS_SEALED_WITH_A_MYSTERIOUS_ENERGY                          = 7257,  -- The door is sealed with a mysterious energy.
+        IT_IS_A_GIANT_CRYSTAL                                                = 7258,  -- It is a giant crystal.
+        A_STRONG_MAGICAL_FORCE_IS_WHIRLING_UP_FROM                           = 7259,  -- A strong magical force is whirling up from the platform.
+        A_FIERCE_COLUMN_OF_WIND_BLOCKS_YOUR_PATH                             = 7260,  -- A fierce column of wind blocks your path. You cannot proceed any further...
+        AN_OMINOUS_VEIL_OF_PITCH_BLACK_GAS_BLOCKS                            = 7261,  -- An ominous veil of pitch-black gas blocks your path. You cannot proceed any further...
+        AN_UNFATHOMABLE_LIGHT_IS_RISING_FROM_THIS_STRANGELY                  = 7262,  -- An unfathomable light is rising from this strangely marked platform...
+        A_HEAVY_WOODEN_GATE_IT_IS_TIGHTLY_LOCKED                             = 7263,  -- A heavy wooden gate. It is tightly locked...
+        YOU_CAN_HEAR_A_FAINT_SCRAPING_SOUND_FROM                             = 7264,  -- You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+        YOU_CAN_HEAR_A_FAINT_SCRAPING_SOUND_FROM_2                           = 7265,  -- You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+        YOU_CAN_HEAR_A_FAINT_SCRAPING_SOUND_FROM_3                           = 7266,  -- You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+        YOU_CAN_HEAR_A_FAINT_SCRAPING_SOUND_FROM_4                           = 7267,  -- You can hear a faint scraping sound from within, but the way is barred by some strange membrane...
+        A_GLOWING_MIST_OF_EVER_CHANGING_PROPORTIONS_FLOATS                   = 7268,  -- A glowing mist of ever-changing proportions floats before you...
+        A_SOLID_IRON_GATE_IT_IS_TIGHTLY_LOCKED                               = 7269,  -- A solid iron gate. It is tightly locked...
+        YOU_SEE_A_GIGANTIC_CRYSTAL_GLOWING_WITH_AMBER                        = 7270,  -- You see a gigantic crystal, glowing with amber light...
+        YOU_SEE_A_GIGANTIC_CRYSTAL_GLOWING_WITH_AMBER_2                      = 7271,  -- You see a gigantic crystal, glowing with amber light...
+        LOOKING_CLOSELY_YOU_SEE_TWO_BELL_TYPE_SYMBOLS                        = 7272,  -- Looking closely, you see two bell-type symbols painted on the wood, one in red and one in blue...
+        LOOKING_CLOSELY_AT_THE_SURFACE_OF_THE_GATE                           = 7273,  -- Looking closely at the surface of the gate, you can see what appears to be the imprints of a Troll's fist...
+        IF_YOU_LISTEN_CLOSELY_YOU_CAN_FAINTLY_HEAR                           = 7274,  -- If you listen closely, you can faintly hear female voices singing in rounds...
+        IT_APPEARS_AS_IF_SOMETHING_HAD_BEEN_THRUST                           = 7275,  -- It appears as if something had been thrust into the rockface here...
+        A_DECORATIVE_DOOR_IT_APPEARS_TO_BE_LOCKED                            = 7276,  -- A decorative door. It appears to be locked...
+        THE_DOOR_IS_LOCKED                                                   = 7277,  -- The door is locked.
+        THE_GATE_IS_LOCKED                                                   = 7278,  -- The gate is locked.
+        THE_DOOR_IS_LOCKED_2                                                 = 7279,  -- The door is locked.
+        THE_DOOR_IS_LOCKED_3                                                 = 7280,  -- The door is locked.
+        THERE_SEEMS_TO_BE_A_SPACE_BENEATH_THE                                = 7281,  -- There seems to be a space beneath the floor, but you are unable to access it.
+        YOU_DO_NOT_MEET_THE_REQUIREMENTS_TO_ENTER                            = 7282,  -- You do not meet the requirements to enter the battlefield. Access is denied.
+        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD                               = 7283,  -- [Feliz/Ferdinand/Gunnar/Massimo/Oldrich/Siegward/Theobald/Zenji] has fallen. Now leaving the battlefield.
+        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_2                             = 7284,  -- [Amerita/Beatrice/Henrietta/Jesimae/Karyn/Nanako/Sharlene/Sieghilde] has fallen. Now leaving the battlefield.
+        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_3                             = 7285,  -- [Chanandit/Deulmaeux/Demresinaux/Ephealgaux/Gauldeval/Grauffemart/Migaifongut/Romidiant] has fallen. Now leaving the battlefield.
+        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_4                             = 7286,  -- [Armittie/Cadepure/Clearite/Epilleve/Liabelle/Nauthima/Radille/Vimechue] has fallen. Now leaving the battlefield.
+        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_5                             = 7287,  -- [Balu-Falu/Burg-Ladarg/Ehgo-Ryuhgo/Kolui-Pelui/Nokum-Akkum/Savul-Kivul/Vinja-Kanja/Yarga-Umiga] has fallen. Now leaving the battlefield.
+        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_6                             = 7288,  -- [Cupapa/Jajuju/Kalokoko/Mahoyaya/Pakurara/Ripokeke/Yawawa/Yufafa] has fallen. Now leaving the battlefield.
+        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_7                             = 7289,  -- [Fhig/Khuma/Pimy/Raka/Sahyu/Sufhi/Tsuim/Yoli] has fallen. Now leaving the battlefield.
+        HAS_FALLEN_NOW_LEAVING_THE_BATTLEFIELD_8                             = 7290,  -- [Durib/Dzapiwa/Jugowa/Mugido/Voldai/Wagwei/Zayag/Zoldof] has fallen. Now leaving the battlefield.
+        YOU_WERE_UNABLE_TO_PROTECT_THE_SPECIAL_CHARACTER                     = 7291,  -- You were unable to protect the special character. Now leaving the battlefield.
+        YOU_WERE_UNABLE_TO_PROTECT_PRINCE_TRION_NOW                          = 7292,  -- You were unable to protect Prince Trion. Now leaving the battlefield.
+        YOU_WERE_UNABLE_TO_PROTECT_CAPTAIN_VOLKER_NOW                        = 7293,  -- You were unable to protect Captain Volker. Now leaving the battlefield.
+        YOU_WERE_UNABLE_TO_PROTECT_AJIDO_MARUJIDO_NOW                        = 7294,  -- You were unable to protect Ajido-Marujido. Now leaving the battlefield.
+        YOUR_IS_TORN                                                         = 7295,  -- Your % is torn...
+        YOUR                                                                 = 7296,  -- Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
+        YOUR_IS_TORN_2                                                       = 7297,  -- Your % is torn...
+        YOUR_2                                                               = 7298,  -- Your % [/rips into shreds!/is on the verge of tearing apart.../is showing signs of wear...] (# [use remains/uses remain].)
+        YOU_SEE_INNUMERABLE_STARS_SHIMMERING_IN_THE_DISTANCE                 = 7299,  -- You see innumerable stars shimmering in the distance...
+        OGTB_L_T_5_O5_7B                                                     = 7308,  -- ogtB%L'T*_,\5= %^o5\7B
+        OGTB_L_T_5_O5_7B_2                                                   = 7309,  -- ogtB%L'T*_,\5= %^o5\7B
+        OGTB_L_T_5_O5_7B_3                                                   = 7310,  -- ogtB%L'T*_,\5= %^o5\7B
+        OGTB_L_T_5_O5_7B_4                                                   = 7311,  -- ogtB%L'T*_,\5= %^o5\7B
+        OGTB_L_T_5_O5_7B_5                                                   = 7312,  -- ogtB%L'T*_,\5= %^o5\7B
+        OGTB_N_H_J                                                           = 7313,  -- (!ogtB%N`"H"j
+        OGTB_N_H_J_2                                                         = 7314,  -- (!ogtB%N`"H"j
+        OGTB_N_H_J_3                                                         = 7315,  -- (!ogtB%N`"H"j
+        OG_ZBG                                                               = 7316,  -- og#Zbg)/=
+        I_PZJ                                                                = 7317,  -- i.pzj
+        ID_39_5_BJ                                                           = 7318,  -- %39\5=Bj
+        ID_39_5_BJ_2                                                         = 7319,  -- %39\5=Bj
+        ID_39_5_BJ_3                                                         = 7320,  -- %39\5=Bj
+        REMOVE_1                                                             = 7321,  -- remove@1
+        REMOVE_2                                                             = 7322,  -- remove@2
+        REMOVE_3                                                             = 7323,  -- remove@3
+        J                                                                    = 7324,  -- %j
+        J_2                                                                  = 7325,  -- %j
+        J_3                                                                  = 7326,  -- %j
+        J_J                                                                  = 7327,  -- %j=j
+        OE_F_E7B                                                             = 7328,  -- <%OE"$F %%%%<E7B
+        IDE_F_LLM_E7B                                                        = 7329,  -- IDE"$F #%%LlM#E7B
+        IOGTB_H_L_AD_7J                                                      = 7330,  -- iogtB%@ H=L #*|AD"\7j
+        IOGTB_H_L_AD_7J_2                                                    = 7331,  -- iogtB%@ H=L #*|AD"\7j
+        IOGTB_H_L_AD_7J_3                                                    = 7332,  -- iogtB%@ H=L #*|AD"\7j
+        O_IDP_7_O_ID                                                         = 7333,  -- <%O)IDp\7 <%O ID
+        GL_L_OPI_A_B                                                         = 7334,  -- GL.L<%Opi%a b
+        GL_LIDPI_A_B                                                         = 7335,  -- GL.LIDpi%a b
+        ALP                                                                  = 7336,  -- ._ALp%
+        BLP                                                                  = 7337,  -- ._BLp%
+        CLP                                                                  = 7338,  -- ._CLp%
+        B_G                                                                  = 7339,  -- |:B@G%
+        B_G_2                                                                = 7340,  -- |:B@G%
+        H_E_JTEIOGTB_H_7                                                     = 7341,  -- H=*%E %jTEIogtB%h\7
+        H_E_JTEIOGTB_H_7_2                                                   = 7342,  -- H=*%E %jTEIogtB%h\7
+        H_E_JTEIOGTB_H_7_3                                                   = 7343,  -- H=*%E %jTEIogtB%h\7
+        FBN_JH_5_B_OGTB_H_7B                                                 = 7344,  -- %`FbN*Jh\5=B @ogtB%h\7B
+        FBN_JH_5_B_OGTB_H_7B_2                                               = 7345,  -- %`FbN*Jh\5=B @ogtB%h\7B
+        FBN_JH_5_B_OGTB_H_7B_3                                               = 7346,  -- %`FbN*Jh\5=B @ogtB%h\7B
+        LL_5                                                                 = 7347,  -- %Ll*()5"
+        LL_5_2                                                               = 7348,  -- %Ll*()5"
+        LL_5_3                                                               = 7349,  -- %Ll*()5"
+        IHGXZLG_AD_ITO_AD_9Q_MTALKG_MB5_GJH                                  = 7350,  -- %iHgXzLG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
+        IHGXZLG_AD_ITO_AD_9Q_MTALKG_MB5_GJH_2                                = 7351,  -- %iHgXzLG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
+        IHGXZLG_AD_ITO_AD_9Q_MTALKG_MB5_GJH_3                                = 7352,  -- %iHgXzLG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
+        H_LI_A_TO_IB                                                         = 7353,  -- %*H"LI._A|:tO*IB
+        H_LI_B_TO_IB                                                         = 7354,  -- %*H"LI._B|:tO*IB
+        H_LI_C_TO_IBJ                                                        = 7355,  -- %*H"LI._C|:tO*IBj
+        CXG                                                                  = 7356,  -- %Cxg
+        I_AT4_CXG                                                            = 7357,  -- i._AT4_Cxg
+        I_A_CXG                                                              = 7358,  -- i._A&%Cxg
+        CXG_2                                                                = 7359,  -- %Cxg
+        I_BT4_CXG                                                            = 7360,  -- i._BT4_Cxg
+        I_B_CXG                                                              = 7361,  -- i._B&%Cxg
+        CXG_3                                                                = 7362,  -- %Cxg
+        I_CT4_CXG                                                            = 7363,  -- i._CT4_Cxg
+        I_C_CXG                                                              = 7364,  -- i._C&%Cxg
+        ID_5_GJH_M8HQE7_7BJ                                                  = 7365,  -- %5)/gjH"M8HqE7* %\7Bj
+        NDINGE_5_XG_H_B                                                      = 7366,  -- %ndingE %\5=%xg#h]B
+        NDINGE_5_B_IPENDING_FBNI_X_3J_F                                      = 7367,  -- %ndingE %\5=B @ipending`FbNI{X*|3j=f$E7B
+        NDINGE_5_XG_H_B_2                                                    = 7368,  -- %ndingE %\5=%xg#h]B
+        NDINGE_5_B_PENDING_FBNI_X_3J_F                                       = 7369,  -- %ndingE %\5=B @pending`FbNI{X*|3j=f$E7B
+        NDINGE_5_XG_H_B_3                                                    = 7370,  -- %ndingE %\5=%xg#h]B
+        NDINGE_5_B_PENDING_FBNI_X_3J_F_2                                     = 7371,  -- %ndingE %\5=B @pending`FbNI{X*|3j=f$E7B
+        I_A_PENDING_P_S5_7B                                                  = 7372,  -- i._A&%pending%p@s5\7B
+        I_B_PENDING_P_S5_7B                                                  = 7373,  -- i._B&%pending%p@s5\7B
+        I_C_PENDING_P_S5_7B                                                  = 7374,  -- i._C&%pending%p@s5\7B
+        M_NFBH5_5_OGTB_7EIJLP_P5D_I_P                                        = 7375,  -- %=M#Nfbh5\5=%=*"=ogtB%@`$7EIJLp%p5D"i=_%=p%^o39\5=B
+        NDING_P_S5_5_B                                                       = 7376,  -- %nding%p@s5\5=B
+        LP_JL_CIX5_5_B                                                       = 7377,  -- %lp @%jl}CiX5\5=B
+        LP_JL_CIX5_5_B_2                                                     = 7378,  -- %lp @%jl}CiX5\5=B
+        LP_JL_CIX5_5_B_3                                                     = 7379,  -- %lp @%jl}CiX5\5=B
+        A_G_IPCE7_ZBG5_7B                                                    = 7380,  -- %=*._A)g %/iPCE7%%Zbg5\7B
+        B_G_IPCE7_ZBG5_7B                                                    = 7381,  -- %=*._B)g %/iPCE7%%Zbg5\7B
+        C_G_IPCE7_ZBG5_7B                                                    = 7382,  -- %=*._C)g %/iPCE7%%Zbg5\7B
+        L_A_TOP_5_B                                                          = 7383,  -- %=L._A|:tOp %\5=B
+        L_B_TOP_5_B                                                          = 7384,  -- %=L._B|:tOp %\5=B
+        L_C_TOP_5_B                                                          = 7385,  -- %=L._C|:tOp %\5=B
+        LO_X_AP_5_5_B_XMI9CXGP_N5                                            = 7386,  -- %=LO%@{X_Ap|5\5=B{XmI9Cxgp#n5\7B
+        LO_X_BP_5_5_B_XMI9CXGP_N5                                            = 7387,  -- %=LO%@{X_Bp|5\5=B{XmI9Cxgp#n5\7B
+        LO_X_CP_5_5_B_XMI9CXGP_N5                                            = 7388,  -- %=LO%@{X_Cp|5\5=B{XmI9Cxgp#n5\7B
+        M_AI_DM_H_LE_D_7B                                                    = 7389,  -- %=M._AI"DM"/H"LE%D"=>+\7B
+        M_BI_DM_H_LE_D_7B                                                    = 7390,  -- %=M._BI"DM"/H"LE%D"=>+\7B
+        M_CI_DM_H_LE_D_7B                                                    = 7391,  -- %=M._CI"DM"/H"LE%D"=>+\7B
+        AMUE7                                                                = 7392,  -- (._AMuE7)
+        BMUE7                                                                = 7393,  -- (._BMuE7)
+        CMUE7                                                                = 7394,  -- (._CMuE7)
+        M_H_5                                                                = 7395,  -- %=M %h\5=
+        I_NGXGG_H_H_L_AD_7J                                                  = 7396,  -- i.#NGXgG%h&H"l*|AD"\7j
+        C5_7                                                                 = 7397,  -- %C5\7
+        C5_7_2                                                               = 7398,  -- %C5\7
+        C5_7_3                                                               = 7399,  -- %C5\7
+        C5_5_A_LE_DGCB                                                       = 7400,  -- %C5\5=*%* A=LE %DgCB
+        C5_5_IID_A_LE_DGCB                                                   = 7401,  -- %C5\5=*%IID* A=LE %DgCB
+        AIMID_H_9QE5                                                         = 7402,  -- (AIMID* h\9qE5=)
+        BIMID_H_9QE5                                                         = 7403,  -- (BIMID* h\9qE5=)
+        CIMID_H_9QE5                                                         = 7404,  -- (CIMID* h\9qE5=)
+        AIID_H_5                                                             = 7405,  -- (AIID* h\5=)
+        BIID_H_5                                                             = 7406,  -- (BIID* h\5=)
+        CIID_H_5                                                             = 7407,  -- (CIID* h\5=)
+        AM7EIFQ_H_5                                                          = 7408,  -- (AM7EIfq* h\5=)
+        BM7EIFQ_H_5                                                          = 7409,  -- (BM7EIfq* h\5=)
+        CM7EIFQ_H_5                                                          = 7410,  -- (CM7EIfq* h\5=)
+        ADH_E_9Q                                                             = 7411,  -- %ADH"=_|:E+\9q
+        OG_ZBG_2                                                             = 7412,  -- og#Zbg)/=
+        I_PZJ_2                                                              = 7413,  -- i.pzj
+        ID_39_5_BJ_4                                                         = 7414,  -- %39\5=Bj
+        ID_39_5_BJ_5                                                         = 7415,  -- %39\5=Bj
+        ID_39_5_BJ_6                                                         = 7416,  -- %39\5=Bj
+        J_4                                                                  = 7417,  -- %j
+        J_5                                                                  = 7418,  -- %j
+        J_6                                                                  = 7419,  -- %j
+        J_7                                                                  = 7420,  -- %j
+        J_8                                                                  = 7421,  -- %j
+        J_9                                                                  = 7422,  -- %j
+        H_M_I_J_E7                                                           = 7423,  -- H=M.`I|j;$E7
+        H_M_AI_J_E7                                                          = 7424,  -- H=M.aI|j;$E7
+        H_M_BI_J_E7                                                          = 7425,  -- H=M.bI|j;$E7
+        L_E_JIM_I_M_L                                                        = 7426,  -- ];L.E%jIm&i #M %% ;L%<%
+        I                                                                    = 7427,  -- %i
+        I_2                                                                  = 7428,  -- %"i
+        ID_0_J                                                               = 7429,  -- %0=j
+        NFBHJ                                                                = 7430,  -- %Nfbhj
+        N_H                                                                  = 7431,  -- N`"H"
+        IOGTB_H_L_AD_7J_4                                                    = 7432,  -- iogtB%@ H=L #*|AD"\7j
+        IOGTB_H_L_AD_7J_5                                                    = 7433,  -- iogtB%@ H=L #*|AD"\7j
+        IOGTB_H_L_AD_7J_6                                                    = 7434,  -- iogtB%@ H=L #*|AD"\7j
+        OGTB_E5_7                                                            = 7435,  -- ogtB%#E5\7
+        OGTB_E5_7_2                                                          = 7436,  -- ogtB%#E5\7
+        OGTB_E5_7_3                                                          = 7437,  -- ogtB%#E5\7
+        OGTB_E5_7_4                                                          = 7438,  -- ogtB%#E5\7
+        OGTB_5_5                                                             = 7439,  -- ogtB%&%5\5=
+        OGTB_5_5_2                                                           = 7440,  -- ogtB%&%5\5=
+        OGTB_5_5_3                                                           = 7441,  -- ogtB%&%5\5=
+        PENDING_FBNI_P                                                       = 7442,  -- pending`FbNI[P[
+        OGTB_A5_7                                                            = 7443,  -- ogtB%#A5\7
+        OGTB_A5_7_2                                                          = 7444,  -- ogtB%#A5\7
+        OGTB_A5_7_3                                                          = 7445,  -- ogtB%#A5\7
+        INCAGCXGIK                                                           = 7446,  -- iNCAgCxgIK|
+        I_X_AMI9PCXGTO_D_7B                                                  = 7447,  -- i{X_AmI9pCxgtO'D\7B
+        I_X_BMI9PCXGTO_D_7B                                                  = 7448,  -- i{X_BmI9pCxgtO'D\7B
+        I_X_CMI9PCXGTO_D_7B                                                  = 7449,  -- i{X_CmI9pCxgtO'D\7B
+        IPCL_0GJ_9QB                                                         = 7450,  -- %iPCL %%0gj\9qB
+        IPCL_0GJ_9QB_2                                                       = 7451,  -- %iPCL %%0gj\9qB
+        IPCL_0GJ_9QB_3                                                       = 7452,  -- %iPCL %%0gj\9qB
+        M_OQ_NFBH5_5_B                                                       = 7453,  -- %=M%Oq#Nfbh5\5=B
+        I_AEG_OPJH_5_B                                                       = 7454,  -- i][AEg^OpJh\5=B
+        M_YFBO_OPJH_5                                                        = 7455,  -- %=M @yfBO^OpJh\5=
+        L_M_LO_Q3J_5_B_AIOX5_5                                               = 7456,  -- %+L.M %LO%q3j\5=B %._AIOX5\5=B
+        L_M_LO_Q3J_5_B_BIOX5_5                                               = 7457,  -- %+L.M %LO%q3j\5=B %._BIOX5\5=B
+        L_M_LO_Q3J_5_B_CIOX5_5                                               = 7458,  -- %+L.M %LO%q3j\5=B %._CIOX5\5=B
+        S_DH_7B                                                              = 7459,  -- %.*s"DH") %7B
+        J_J_2                                                                = 7460,  -- %j=j
+        OE_F_E7B_2                                                           = 7461,  -- <%OE"$F %%%%<E7B
+        IDE_F_LLM_E7B_2                                                      = 7462,  -- IDE"$F #%%LlM#E7B
+        O_IDP_7_O_ID_2                                                       = 7463,  -- <%O)IDp\7 <%O ID
+        GL_L_OPI_A_B_2                                                       = 7464,  -- GL.L<%Opi%a b
+        GL_LIDPI_A_B_2                                                       = 7465,  -- GL.LIDpi%a b
+        ALP_2                                                                = 7466,  -- ._ALp%
+        BLP_2                                                                = 7467,  -- ._BLp%
+        CLP_2                                                                = 7468,  -- ._CLp%
+        B_G_3                                                                = 7469,  -- |:B@G%
+        B_G_4                                                                = 7470,  -- |:B@G%
+        H_E_JTEIOGTB_H_7_4                                                   = 7471,  -- H=*%E %jTEIogtB%h\7
+        H_E_JTEIOGTB_H_7_5                                                   = 7472,  -- H=*%E %jTEIogtB%h\7
+        H_E_JTEIOGTB_H_7_6                                                   = 7473,  -- H=*%E %jTEIogtB%h\7
+        FBN_JH_5_B_OGTB_H_7B_4                                               = 7474,  -- %`FbN*Jh\5=B @ogtB%h\7B
+        FBN_JH_5_B_OGTB_H_7B_5                                               = 7475,  -- %`FbN*Jh\5=B @ogtB%h\7B
+        FBN_JH_5_B_OGTB_H_7B_6                                               = 7476,  -- %`FbN*Jh\5=B @ogtB%h\7B
+        FBN_JH_5_B_OGTB_H_7B_7                                               = 7477,  -- %`FbN*Jh\5=B @ogtB%h\7B
+        FBN_JH_5_B_OGTB_H_7B_8                                               = 7478,  -- %`FbN*Jh\5=B @ogtB%h\7B
+        LL_5_4                                                               = 7479,  -- %Ll*()5"
+        LL_5_5                                                               = 7480,  -- %Ll*()5"
+        IHGG_AD_ITO_AD_9Q_MTALKG_MB5_GJH                                     = 7481,  -- %iHgG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
+        IHGG_AD_ITO_AD_9Q_MTALKG_MB5_GJH_2                                   = 7482,  -- %iHgG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
+        IHGG_AD_ITO_AD_9Q_MTALKG_MB5_GJH_3                                   = 7483,  -- %iHgG%AD"itO*'AD"\9q%-MtalkG%Mb5)/gjH"Bj
+        H_LI_A_TO_IB_2                                                       = 7484,  -- %*H"LI._A|:tO*IB
+        H_LI_B_TO_IB_2                                                       = 7485,  -- %*H"LI._B|:tO*IB
+        H_LI_C_TO_IBJ_2                                                      = 7486,  -- %*H"LI._C|:tO*IBj
+        CXG_4                                                                = 7487,  -- %Cxg
+        I_AT4_CXG_2                                                          = 7488,  -- i._AT4_Cxg
+        I_A_CXG_2                                                            = 7489,  -- i._A&%Cxg
+        CXG_5                                                                = 7490,  -- %Cxg
+        I_BT4_CXG_2                                                          = 7491,  -- i._BT4_Cxg
+        I_B_CXG_2                                                            = 7492,  -- i._B&%Cxg
+        CXG_6                                                                = 7493,  -- %Cxg
+        I_CT4_CXG_2                                                          = 7494,  -- i._CT4_Cxg
+        I_C_CXG_2                                                            = 7495,  -- i._C&%Cxg
+        ID_5_GJH_M8HQE7_7BJ_2                                                = 7496,  -- %5)/gjH"M8HqE7* %\7Bj
+        NDINGE_5_XG_H_B_4                                                    = 7497,  -- %ndingE %\5=%xg#h]B
+        NDINGE_5_B_IPENDING_FBNI_X_3J_F_2                                    = 7498,  -- %ndingE %\5=B @ipending`FbNI{X*|3j=f$E7B
+        NDINGE_5_XG_H_B_5                                                    = 7499,  -- %ndingE %\5=%xg#h]B
+        NDINGE_5_B_PENDING_FBNI_X_3J_F_3                                     = 7500,  -- %ndingE %\5=B @pending`FbNI{X*|3j=f$E7B
+        NDINGE_5_XG_H_B_6                                                    = 7501,  -- %ndingE %\5=%xg#h]B
+        NDINGE_5_B_PENDING_FBNI_X_3J_F_4                                     = 7502,  -- %ndingE %\5=B @pending`FbNI{X*|3j=f$E7B
+        I_A_PENDING_P_S5_7B_2                                                = 7503,  -- i._A&%pending%p@s5\7B
+        I_B_PENDING_P_S5_7B_2                                                = 7504,  -- i._B&%pending%p@s5\7B
+        I_C_PENDING_P_S5_7B_2                                                = 7505,  -- i._C&%pending%p@s5\7B
+        M_NFBH5_5_OGTB_7EIJLP_P5D_I_P_2                                      = 7506,  -- %=M#Nfbh5\5=%=*"=ogtB%@`$7EIJLp%p5D"i=_%=p%^o39\5=B
+        NDING_P_S5_5_B_2                                                     = 7507,  -- %nding%p@s5\5=B
+        LP_JL_CIX5_5_B_4                                                     = 7508,  -- %lp @%jl}CiX5\5=B
+        LP_JL_CIX5_5_B_5                                                     = 7509,  -- %lp @%jl}CiX5\5=B
+        LP_JL_CIX5_5_B_6                                                     = 7510,  -- %lp @%jl}CiX5\5=B
+        A_G_IPCE7_ZBG5_7B_2                                                  = 7511,  -- %=*._A)g %/iPCE7%%Zbg5\7B
+        B_G_IPCE7_ZBG5_7B_2                                                  = 7512,  -- %=*._B)g %/iPCE7%%Zbg5\7B
+        C_G_IPCE7_ZBG5_7B_2                                                  = 7513,  -- %=*._C)g %/iPCE7%%Zbg5\7B
+        L_A_TOP_5_B_2                                                        = 7514,  -- %=L._A|:tOp %\5=B
+        L_B_TOP_5_B_2                                                        = 7515,  -- %=L._B|:tOp %\5=B
+        L_C_TOP_5_B_2                                                        = 7516,  -- %=L._C|:tOp %\5=B
+        LO_X_AP_5_5_B_XMI9CXGP_N5_2                                          = 7517,  -- %=LO%@{X_Ap|5\5=B{XmI9Cxgp#n5\7B
+        LO_X_BP_5_5_B_XMI9CXGP_N5_2                                          = 7518,  -- %=LO%@{X_Bp|5\5=B{XmI9Cxgp#n5\7B
+        LO_X_CP_5_5_B_XMI9CXGP_N5_2                                          = 7519,  -- %=LO%@{X_Cp|5\5=B{XmI9Cxgp#n5\7B
+        M_AI_DM_H_LE_D_7B_2                                                  = 7520,  -- %=M._AI"DM"/H"LE%D"=>+\7B
+        M_BI_DM_H_LE_D_7B_2                                                  = 7521,  -- %=M._BI"DM"/H"LE%D"=>+\7B
+        M_CI_DM_H_LE_D_7B_2                                                  = 7522,  -- %=M._CI"DM"/H"LE%D"=>+\7B
+        AMUE7_2                                                              = 7523,  -- (._AMuE7)
+        BMUE7_2                                                              = 7524,  -- (._BMuE7)
+        CMUE7_2                                                              = 7525,  -- (._CMuE7)
+        M_H_5_2                                                              = 7526,  -- %=M %h\5=
+        I_NGXGG_H_H_L_AD_7J_2                                                = 7527,  -- i.#NGXgG%h&H"l*|AD"\7j
+        C5_7_4                                                               = 7528,  -- %C5\7
+        C5_7_5                                                               = 7529,  -- %C5\7
+        C5_7_6                                                               = 7530,  -- %C5\7
+        C5_5_A_LE_DGCB_2                                                     = 7531,  -- %C5\5=*%* A=LE %DgCB
+        C5_5_IID_A_LE_DGCB_2                                                 = 7532,  -- %C5\5=*%IID* A=LE %DgCB
+        AIMID_H_9QE5_2                                                       = 7533,  -- (AIMID* h\9qE5=)
+        BIMID_H_9QE5_2                                                       = 7534,  -- (BIMID* h\9qE5=)
+        CIMID_H_9QE5_2                                                       = 7535,  -- (CIMID* h\9qE5=)
+        AIID_H_5_2                                                           = 7536,  -- (AIID* h\5=)
+        BIID_H_5_2                                                           = 7537,  -- (BIID* h\5=)
+        CIID_H_5_2                                                           = 7538,  -- (CIID* h\5=)
+        AM7EIFQ_H_5_2                                                        = 7539,  -- (AM7EIfq* h\5=)
+        BM7EIFQ_H_5_2                                                        = 7540,  -- (BM7EIfq* h\5=)
+        CM7EIFQ_H_5_2                                                        = 7541,  -- (CM7EIfq* h\5=)
+        ADH_E_9Q_2                                                           = 7542,  -- %ADH"=_|:E+\9q
+        CURRENTLY_MEMBERS_OF_YOUR_PARTY_INCLUDING_YOURSELF_HAVE              = 7543,  -- Currently, # members of your party (including yourself) have clearance to enter the battlefield.
+        CURRENTLY_MEMBERS_OF_YOUR_ALLIANCE_INCLUDING_YOURSELF_HAVE           = 7544,  -- Currently, # members of your alliance (including yourself) have clearance to enter the battlefield.
+        ONLY_CAN_ENTER_THE_BATTLEFIELD                                       = 7545,  -- Only % can enter the battlefield.
+        THE_TIME_LIMIT_FOR_THIS_BATTLE_IS_MINUTES                            = 7546,  -- The time limit for this battle is # minutes.
+        THERE_IS_A_CRACK_IN_THE_IT_NO                                        = 7547,  -- There is a crack in the %. It no longer contains a monster.
+        A_CRACK_HAS_FORMED_ON_THE_AND_THE                                    = 7548,  -- A crack has formed on the %, and the beast inside has been unleashed!
+        BOSS_MODE                                                            = 7549,  -- Boss mode : #!!
+        ROOM_NUMBER_TO_ATTEMPT_DESIRED_BOSS_MODE_DIFFICULTY                  = 7550,  -- Room number to attempt: #. Desired boss mode: #. Difficulty: # ([Not set/Very difficult/Difficult/Normal/Easy/Very easy].
+        DEBUG1                                                               = 7552,  -- DEBUG1
+        T_I_I_I                                                              = 7553,  -- T&:I_i)%" _i
+        IDEBUGJOGTB_I8S_7B                                                   = 7554,  -- iDEBUGjogtB%#;I8s%7B
+        X_BVB                                                                = 7555,  -- %{X|bvB
+        V_NGXG_T_NGXG_LL_NGXG_LBOSS_STATUS                                   = 7556,  -- +[v #NGXg.T@@@# #NGXg.Ll%NGXg.LBOSS_STATUS@@#
+        FBN_T_V                                                              = 7557,  -- `FbN.T%%*[v
+        NGXG_T_NGXG_LL_NGXG_LBOSS_STATUS_NCAGVL                              = 7558,  -- #NGXg.T@@@# #NGXg.Ll%NGXg.LBOSS_STATUS@@# NCAgVL=_@@#%
+        PARTY0F_PARTY1_ARTY2F                                                = 7559,  -- PARTY0F# PARTY1%ARTY2F#
+        PARTY3F_PARTY4_ARTY5F                                                = 7560,  -- PARTY3F# PARTY4%ARTY5F#
+        NCAG_OCXG_HP                                                         = 7561,  -- NCAg%^oCxg%hP
+        T_O_OCXG_HP                                                          = 7562,  -- T[o%^oCxg%hP
+        CLI_NUM0                                                             = 7563,  -- CLI_NUM0 = #
+        CLI_NUM1                                                             = 7564,  -- CLI_NUM1 = #
+        CLI_NUM2                                                             = 7565,  -- CLI_NUM2 = #
+        CLI_NUM3                                                             = 7566,  -- CLI_NUM3 = #
+        CLI_NUM4                                                             = 7567,  -- CLI_NUM4 = #
+        CLI_NUM5                                                             = 7568,  -- CLI_NUM5 = #
+        CLI_NUM6                                                             = 7569,  -- CLI_NUM6 = #
+        CLI_NUM7                                                             = 7570,  -- CLI_NUM7 = #
+        SKIP_THE_EVENT_YES_NO                                                = 7571,  -- Skip the event? Yes. No.
+        BATTLEFIELD_CLEAR_TIME_SECOND                                        = 7572,  -- Battlefield clear time: # second[/s]!
+        BATTLEFIELD_CLEAR_TIME_MINUTE_SECOND                                 = 7573,  -- Battlefield clear time: # minute[/s], # second[/s]!
+        THE_CURRENT_BATTLEFIELD_CLEAR_TIME_RECORD_IS_SECOND                  = 7574,  -- The current battlefield clear time record is # second[/s].
+        THE_CURRENT_BATTLEFIELD_CLEAR_TIME_RECORD_IS_MINUTE                  = 7575,  -- The current battlefield clear time record is # minute[/s] # second[/s].
+        CALLED_THE_NPC_PC_ID_RESULT                                          = 7576,  -- Called the NPC! PC ID = #! RESULT = #!
+        GOT_RID_OF_THE_NPC_PC_ID                                             = 7577,  -- Got rid of the NPC! PC ID = #!
+        THE_NPC_HAS_FALLEN_AND_HE_CAN_T                                      = 7578,  -- The NPC has fallen, and he can't get up! Leaving room A!
+        THE_NPC_HAS_FALLEN_AND_HE_CAN_T_2                                    = 7579,  -- The NPC has fallen, and he can't get up! Leaving room B!
+        THE_NPC_HAS_FALLEN_AND_HE_CAN_T_3                                    = 7580,  -- The NPC has fallen, and he can't get up! Leaving room C!
+        THE_NPC_HAS_FALLEN_AND_HE_CAN_T_4                                    = 7581,  -- The NPC has fallen, and he can't get up! Leaving room D!
+        ALL_PARTY_MEMBERS_HAVE_FALLEN_IN_BATTLE_NOW                          = 7582,  -- All party members have fallen in battle. Now leaving the battlefield.
+        EVERYBODY_S_FALLEN_IN_ROOM_A_AND_THEY                                = 7583,  -- Everybody's fallen in room A, and they can't get up! Leaving room A!
+        EVERYBODY_S_FALLEN_IN_ROOM_B_AND_THEY                                = 7584,  -- Everybody's fallen in room B, and they can't get up! Leaving room B!
+        EVERYBODY_S_FALLEN_IN_ROOM_C_AND_THEY                                = 7585,  -- Everybody's fallen in room C, and they can't get up! Leaving room C!
+        EVERYBODY_S_FALLEN_IN_ROOM_D_AND_THEY                                = 7586,  -- Everybody's fallen in room D, and they can't get up! Leaving room D!
+        EVERYBODY_S_FALLEN_IN_ROOM_E_AND_THEY                                = 7587,  -- Everybody's fallen in room E, and they can't get up! Leaving room E!
+        IF_ALL_PARTY_MEMBERS_HP_ARE_STILL_ZERO                               = 7588,  -- If all party members' HP are still zero after # minute[/s] # second[/s], the party will be removed from the battlefield.
+        IF_ALL_PARTY_MEMBERS_HP_ARE_STILL_ZERO_2                             = 7589,  -- If all party members' HP are still zero after # minute[/s], the party will be removed from the battlefield.
+        WHAT_THE_HELL_IS_THAT_NUMBER_IT_S                                    = 7590,  -- What the hell is that number!? It's not possible!!!
+        ONLY_HAVE_CLEARANCE_TO_ENTER_THE_BATTLEFIELD_THIS                    = 7591,  -- Only # [member/members] have clearance to enter the battlefield. This room has reached its maximum capacity.
+        YOU_ARE_NOW_ABLE_TO_SUMMON                                           = 7592,  -- You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+        YOU_DO_NOT_MEET_THE_REQUIREMENTS_TO_ENTER_2                          = 7593,  -- You do not meet the requirements to enter the battlefield with your party members. Access is denied.
+        THE_SHIMMERING_CIRCLE_YOU_ARE_TRYING_TO_ENTER                        = 7594,  -- The Shimmering Circle you are trying to enter differs from the one your party members have entered. Access is denied.
+        THAT_RECORD_IS_HELD_BY_ADVENTURERS_INCLUDING                         = 7595,  -- That record is held by # adventurers, including %!
+        THAT_RECORD_IS_HELD_BY                                               = 7596,  -- That record is held by %!
+        SELECT_DIFFICULTY_VERY_DIFFICULT_LEVEL_DIFFICULT_LEVEL_NORMAL        = 7597,  -- Select difficulty. Very difficult. (Level: ???) Difficult. (Level: ???) Normal. (Level: #) Easy. (Level: #) Very Easy. (Level: #) Leave.
+        CURRENT_DIFFICULTY_LEVEL                                             = 7598,  -- Current difficulty level: [Normal/Very difficult/Difficult/Normal/Easy/Very easy].
+        A_MALIGNANT_FORCE_ESCAPES_FROM_YOUR                                  = 7599,  -- A malignant force escapes from your %.
+        YOU_ARE_UNABLE_TO_ENTER_THE_BATTLEFIELD_BECAUSE                      = 7600,  -- You are unable to enter the battlefield because [one or more of your party members does not have the job master designation/you do not have the job master designation].
+        YOUR_IS_CALLING_OUT_TO_SOMETHING                                     = 7601,  -- Your % is calling out to something...
+        THE_HAS_A_LARGE_CRACK_RUNNING_STRAIGHT_DOWN                          = 7602,  -- The % has a large crack running straight down the side.
+        SOMETHING_AWAKENS_OWING_TO_THE_PRESENCE_OF_THE                       = 7603,  -- Something awakens owing to the presence of the %...
+        THE_OATH_HAS_BEEN_FULFILLED_OWING_TO_THE                             = 7604,  -- The oath has been fulfilled owing to the power of your %.
+        YOU_WANT_TO_MAKE_IN_CASE_YOU_DIDN                                    = 7605,  -- You want to make %? In case you didn't already know, a volatile objectaru like that needs to be kept in a special container.
+        SUCH_A_CONTAINER_CAN_BE_SYNTHESIZED_IF_YOU                           = 7606,  -- Such a container can be synthesized if you have two % and %. And if my memory serves me true, % serves as the bonding agentaru.
+        I_HEAR_CAN_BE_HAD_WITHIN_THE_MAZE                                    = 7607,  -- %, I hear, can be had within the Maze of Shakhrami. Not lying scattered about the floors, obviously. One of the crawlers there might be willing to partaru with one, but if not...well, you adventuring types know what to do.
+        OH_DID_I_MENTION_NATURALLY_TO_SYNTHESIZE_YOU                         = 7608,  -- Oh, did I mention %? Naturally, to synthesize %, you'll be needing one of those, too.
+        YOU_WISH_TO_SYNTHESIZE_AH_YES_WELL_DO                                = 7609,  -- You wish to synthesize %? Ah, yes. Well do I know that recipe! Its creation requires a few %.
+        IN_TURN_MAKING_REQUIRES_AND_TOSS_INTO_THE                            = 7610,  -- In turn, making % requires % and %. Toss % into the mix, and what you seek shall be yours.
+        I_FEAR_WE_HAVEN_T_HERE_BUT_IT                                        = 7611,  -- I fear we haven't % here. But it should please you to know that skeletons dwelling within the Gusgen Mines are known to drop one on occasion.
+        WHAT_BRINGS_YOU_HERE_WELL_OF_ALL_THINGS                              = 7612,  -- What brings you here? Well, %, of all things... You couldn't hope to make one without some %, but I fear they aren't often stocked by vendors.
+        BUT_YOU_STRIKE_ME_AS_AN_INTREPID_TYPE                                = 7613,  -- But you strike me as an intrepid type, so I'll share with you some knowledge to help you on your way. Head over to Ordelle's Caves. Hunt enough bats there, and you might just come into some %. That's the main ingredient required to make %.
+        ALL_THAT_REMAINS_THEN_IS_TO_BIND_IT                                  = 7614,  -- All that remains, then, is to bind it with % using %. Good luck!
+        YOU_YES_THE_DESCRIPTION_FITS_I_DARESAY_YOU                           = 7615,  -- You... Yes, the description fits. I daresay, you're the one she sent, yes?
+        CAN_I_COUNT_ON_YOU_TO_AID_MY                                         = 7616,  -- Can I count on you to aid my investigation once more?
+        AT_MY_CLIENT_S_BEHEST_I_HAVE_PROCURED                                = 7617,  -- At my client's behest, I have procured the item you require. But alas, doing so drained far more of my time and resources than had been reckoned. As recompense for having exerted undue effort, I would ask a favor of you. Do as I say, and you may consider the item yours.
+        DO_AS_HE_SAYS_YES_NO                                                 = 7618,  -- Do as he says? Yes. No.
+        VERY_GOOD_I_KNEW_I_COULD_COUNT_ON                                    = 7619,  -- Very good. I knew I could count on us being on the same page. Now then, without further ado, I shall explain the task to you. It truly is simple.
+        YOU_ARE_TO_INVESTIGATE_A_NUMBER_OF_CREATURES                         = 7620,  -- You are to investigate a number of creatures dwelling within the Sea Serpent Grotto in my stead.
+        SHOULD_YOU_NOT_POSSESS_AND_I_CAN_FURNISH                             = 7621,  -- Should you not possess % and %, I can furnish you with both for a nominal fee of 800 gil.
+        USING_THE_WILL_TURN_INTO_A_VISUAL_RECORD                             = 7622,  -- Using the % will turn % into %--a visual record of the subject's physical characteristics.
+        I_M_CURRENTLY_INVESTIGATING_THE_THE_AND_THE                          = 7623,  -- I'm currently investigating the %, the %, and the %.
+        HM_IT_APPEARS_YOU_ARE_OVERBURDENED_SPEAK_WITH                        = 7624,  -- Hm? It appears you are overburdened. Speak with me again after you've reorganized your belongings.
+        THAT_IS_MOST_DISAPPOINTING_SHE_WOULD_NOT_BE                          = 7625,  -- That is most disappointing... She would not be pleased to hear of this.
+        AH_YES                                                               = 7626,  -- Ah, yes...
+        A_TRULY_MENACING_IMAGE_OF_THE_ALL_THAT                               = 7627,  -- A truly menacing image of the %! All that remains, then, is one each of the % and the %.
+        DO_YOU_REQUIRE_AND_I_CAN_PROVIDE_YOU                                 = 7628,  -- Do you require % and %? I can provide you with both for a nominal fee of 800 gil.
+        BUY_FOR_800_GIL_YOU_HAVE_YES_PLEASE                                  = 7629,  -- Buy for 800 gil? (You have #) Yes, please. No, thank you.
+        SHOULD_YOU_NOT_POSSESS_AND_I_CAN_FURNISH_2                           = 7630,  -- Should you not possess % and %, I can furnish you with both for a nominal fee. I've recently depleted my stores, however, so you will have to wait until the next shipment arrives.
+        IT_APPEARS_YOU_HAVEN_T_ENOUGH_GIL                                    = 7631,  -- It appears you haven't enough gil.
+        AH_A_POSITIVELY_IMPOSING_IMAGE_OF_THE_ALL                            = 7632,  -- Ah, a positively imposing image of the %! All that remains, then, is one of the %.
+        I_VE_EAGERLY_AWAITED_YOUR_RETURN_WITH_THIS                           = 7633,  -- I've eagerly awaited your return. With this image of the %, I hold your task fulfilled.
+        AS_PROMISED_I_RELINQUISH_THIS_TO_YOU_SHOULD                          = 7634,  -- As promised, I relinquish this to you. Should another be required, you shall find me here.
+        I_NEED_IMAGES_OF_THE_THE_AND_THE                                     = 7635,  -- I need images of the %, the %, and the %.
+        YOU_VE_YET_TO_BRING_ME_IMAGES_OF                                     = 7636,  -- You've yet to bring me images of the % and the %.
+        YOU_VE_YET_TO_BRING_ME_AN_IMAGE                                      = 7637,  -- You've yet to bring me an image of the %.
+        A_FINE_IMAGE_THIS_IS_BUT_THIS_CREATURE                               = 7638,  -- A fine image this is, but this creature isn't one of my investigation subjects.
+        I_FEAR_I_HAVEN_T_THE_TIME_TO                                         = 7639,  -- I fear I haven't the time to trade pleasantries with random strangers. Please leave me be.
+        IS_THERE_SOMETHING_ELSE_YOU_WISH_OF_ME                               = 7640,  -- Is there something else you wish of me? You already have what you came for, no?
+        WE_DON_T_KNOW_WHAT_YOU_RE_DOING                                      = 7641,  -- We don't know what you're doing here, but truth be told, we're not really interested.
+        PUTTING_UP_A_FIGHT_EH_GORATTZ_BOMPUPU_SHOW                           = 7642,  -- Putting up a fight, eh? Gorattz! Bompupu! Show him/her] what the Tenshodo thinks of meddlesome adventurers!
+        D_DAMN_I_M_IN_WAY_OVER_MY                                            = 7643,  -- D-damn... I'm in way over my head...
+        UGH_HE_SHE_S_TOUGHER_THAN_HE_SHE                                     = 7644,  -- Ugh... He/She]'s tougher than he/she] looks...
+        WAAAH_I_DIDN_T_SIGNY_WIGN_UP_FOR                                     = 7645,  -- Waaah! I didn't signy-wign up for this...
+        S_SHADOW_IMAGE_DISAPPEARS                                            = 7646,  -- [Renfred/Gorattz/Bompupu]'s shadow image disappears...
+        THE_FADES_AWAY_INTO_NOTHINGNESS                                      = 7647,  -- The [Skeleton Scuffler/Blest Bones/Holey Horror/Steely Weapon/Lode Golem/Fired Urn] fades away into nothingness...
+        THE_POWER_OF_THE_GREAT_STAR_TREE_HAS                                 = 7648,  -- The power of the Great Star Tree has been released!
+        WE_WARMLY_WELCOME_YOU_TO_THE_PLACE_OF                                = 7649,  -- We warmly welcome you to the place of your unmaking.
+        FROM_YOUR_GROUND_BONES_A_LOAF_OF_BREAD                               = 7650,  -- From your ground bones, a loaf of bread we shall be baking.
+        WE_SHALL_CURSE_YOU_UNTO_DEATH_PREPARE_TO                             = 7651,  -- We shall curse you unto death! Prepare to breathe your final breath!
+        WE_WILL_MAKE_YOU_BEG_TO_DIE_SIX                                      = 7652,  -- We will make you beg to die! Six fulms under you will lie!
+        NAUGHTY_CHILDREN_SHALL_RECEIVE_NO_QUARTER_CURL_UP                    = 7653,  -- Naughty children shall receive no quarter! Curl up and die, this is your empress's order!
+        YOU_VE_LONG_OVERSTAYED_YOUR_WELCOME_THE_PUNISHMENT                   = 7654,  -- You've long overstayed your welcome! The punishment will be brutal and gruesome!
+        WHICH_WAY_DO_YOU_LIKE_IT_SLOW_OR                                     = 7655,  -- Which way do you like it--slow or fast? Should you lose a limb, be not aghast!
+        YOU_LL_WISH_YOU_WERE_NEVER_BORN_FROM                                 = 7656,  -- You'll wish you were never born! From your torso limbs will be torn!
+        STEEL_YOURSELF_FOR_A_WICKED_FRIGHT                                   = 7657,  -- Steel yourself for a wicked fright!
+        WE_SHALL_SET_YOUR_PANTS_ALIGHT                                       = 7658,  -- We shall set your pants alight!
+        THE_WORLD_SHALL_BOW_BEFORE_OUR_MIGHT                                 = 7659,  -- The world shall bow before our might!
+        H_HOW_COULD_THIS_BE_THIS_OUTCOME_WE                                  = 7660,  -- H-how could this be? This outcome, we did not foresee...
+        BE_THIS_A_DREAM_OR_IS_IT_REAL                                        = 7661,  -- Be this a dream? Or is it real? This ending falls sorely short of ideal...
+        TWAS_HIGH_TIME_YOU_WERE_MADE_TO_KNOW                                 = 7662,  -- 'Twas high time you were made to know that your abilities are purely for show. O`hohohohoho!
+        A_FITTING_END_FOR_A_TALENTLESS_CREW_THAT                             = 7663,  -- A fitting end for a talentless crew that tried to bite off more than it could chew. O`hohohohoho!
+        YOUR_BODY_ABSORBS_THE_POWER_HELD_WITHIN_THE                          = 7664,  -- Your body absorbs the power held within the ancient runes!
+        YOU_CANNOT_ENTER_THIS_BATTLEFIELD_WITH_IN_YOUR                       = 7665,  -- You cannot enter this battlefield with % in your possession.
+        IT_APPEARS_YOU_MUST_WAIT_LONGER_TO_COMMENCE                          = 7666,  -- It appears you must wait longer to commence the battle.
+        YOU_ARE_NOT_IN_POSSESSION_OF_UNABLE_TO                               = 7667,  -- You are not in possession of %. Unable to enter the battlefield for [Sugar-coated Directive/Battaru Royale/Project: Shantottofication].
+        YOU_CANNOT_ENTER_THE_BATTLEFIELD_FOR_WITH_IN                         = 7668,  -- You cannot enter the battlefield for [Sugar-coated Directive/Battaru Royale/Project: Shantottofication] with % in your possession.
+        THE_HAS_NO_EFFECT_IT_APPEARS_YOU_SHOULD                              = 7669,  -- The % has no effect. It appears you should come back later.
+        YOU_ARE_NOT_IN_POSSESSION_OF_A_SAP                                   = 7670,  -- You are not in possession of a sap crystal. Unable to enter the battlefield for Battaru Royale.
+        THE_SAP_CRYSTAL_HAS_NO_EFFECT_MORE_TIME                              = 7671,  -- The sap crystal has no effect. More time must elapse before you can enter the battlefield for Battaru Royale.
+        YOU_ARE_NOT_IN_POSSESSION_OF_A_TABLET                                = 7672,  -- You are not in possession of a Tablet of Hexes. Unable to enter the battlefield for Project: Shantottofication.
+        THE_TABLET_OF_HEXES_HAS_NO_EFFECT_MORE                               = 7673,  -- The Tablet of Hexes has no effect. More time must elapse before you can enter the battlefield for Project: Shantottofication.
+        THE_DOOR_IS_SEALED                                                   = 7674,  -- The door is sealed.
+        YOUR_OPPONENTS_DEEM_YOU_TOO_WEAK_TO_BE                               = 7675,  -- Your opponents deem you too weak to be worthwhile, disappearing whence they came.
+        THERE_IS_NO_RESPONSE_YOU_CANNOT_ESCAPE_2                             = 7676,  -- There is no response. You cannot escape!
+        YOU_HAVE_BROKEN_THE_CLEAR_TIME_RECORD_FOR                            = 7677,  -- You have broken the clear time record for [Trial by Water/Trial-Size Trial by Water/Waking the Beast/Sugar-coated Directive/rial by Water]!
+        THE_CURRENT_BATTLEFIELD_CLEAR_TIME_RECORD_FOR_IS                     = 7678,  -- The current battlefield clear time record for [Trial by Water/Trial-Size Trial by Water/Waking the Beast/Sugar-coated Directive/rial by Water] is # second[/s].
+        THE_CURRENT_BATTLEFIELD_CLEAR_TIME_RECORD_FOR_IS_2                   = 7679,  -- The current battlefield clear time record for [Trial by Water/Trial-Size Trial by Water/Waking the Beast/Sugar-coated Directive/rial by Water] is # minute[/s] # second[/s].
+        ENTERING_THE_BATTLEFIELD_FOR                                         = 7680,  -- Entering the battlefield for [Trial by Water/Trial-Size Trial by Water/Waking the Beast/Sugar-coated Directive/rial by Water]!
+        WHICH_BATTLEFIELD_WILL_YOU_ENTER_NONE_TRIAL_BY                       = 7681,  -- Which battlefield will you enter? None. Trial by Water. Trial-Size Trial by Water. Waking the Beast. Sugar-coated Directive. rial by Water. . . . . . . . . . . . . . . . . . . . . . . . . .
+        AS_IF_SENSING_THE_PRESENCE_OF_THE_PROTOCRYSTAL                       = 7682,  -- As if sensing the presence of the protocrystal, the % begins to softly resonate...
+        WHO_INTERRUPTS_MY_SLUMBER                                            = 7683,  -- ...Who interrupts my slumber?
+        WAS_I_DREAMING_FOR_BUT_AN_INSTANT_OR                                 = 7684,  -- Was I dreaming for but an instant, or an eternity? The radiance that illuminates all, lost...
+        WHICH_IS_THE_REAL_WORLD_AND_WHICH_IS                                 = 7685,  -- Which is the real world, and which is the dream? Am I...?
+        BUT_ENOUGH_WAGER_YOUR_LIFE_TO_PROVE_YOUR                             = 7686,  -- But enough... Wager your life to prove your skill. Let us see if you can provide me with a moment of amusement.
+        ARE_YOU_READY_YOU_WHO_IS_ONE_YET                                     = 7687,  -- Are you ready, you who is one yet many?
+        IMPRESSIVE_CHILD_OF_VANA_DIEL                                        = 7688,  -- ...Impressive, child of Vana'diel.
+        WE_SLEEP_IN_A_TIME_THAT_IS_NEITHER                                   = 7689,  -- We sleep in a time that is neither an instant, nor an eternity.
+        IS_THIS_WORLD_A_DREAM_OR_IS_THE                                      = 7690,  -- Is this world a dream, or is the dreamworld an illusion...?
+        VERY_WELL_CHILD_OF_VANA_DIEL_I_WILL                                  = 7691,  -- Very well, child of Vana'diel. I will grant you a fragment of my power to bring order to chaos.
+        THE_BEGINS_TO_SOFTLY_RESONATE_WITH_THE_PROTOCRYSTAL                  = 7693,  -- The % begins to softly resonate with the protocrystal.
+        WHO_INTERRUPTS                                                       = 7694,  -- Who interrupts...
+        WAS_I_DREAMING_AN_ETERNITY_LOST                                      = 7695,  -- Was I dreaming...? ...an eternity? ...lost...
+        BUT_ENOUGH_WAGER_YOUR_LIFE_PROVIDE_ME_WITH                           = 7696,  -- But enough... Wager your life... ...provide me ...with...amusement.
+        ARE_YOU_READY                                                        = 7697,  -- Are you ready...?
+        IMPRESSIVE                                                           = 7698,  -- ...Impressive...
+        TIME_IS_NEITHER_AN_ETERNITY                                          = 7699,  -- ...time is neither ...an eternity.
+        TO_BRING_ORDER                                                       = 7700,  -- ...to bring order...
+        YOU_ARE_NOW_ABLE_TO_SUMMON_2                                         = 7701,  -- You are now able to summon [Ifrit/Titan/Leviathan/Garuda/Shiva/Ramuh].
+        LFOBOPJ_LZ_V_J_H_WBN_WBNEX_B                                         = 7702,  -- lfobOpj%[ LZ [v J[h ~%[WbN ~%[WbNEX "#b`FbN
+        WVFP_I_P_X_X_B_M6_H                                                  = 7703,  -- Wvfp%I%p {X.`%{X.b M6\h (5\" "#b2.
+        PRESS_THE_CONFIRMATION_BUTTON                                        = 7704,  -- Press the confirmation button.
+        WHAT_SONG_DO_YOU_WANT_TO_HEAR_1                                      = 7705,  -- What song do you want to hear? (1) Next Page. Field Battle (Solo). Field Battle (Party). Dungeon Battle (Solo). Dungeon Battle (Party). Windurst. San d'Oria. Bastok. Chateau d'Oraguille. Metalworks. Heavens Tower. Jeuno. Ru'Lude Gardens. Selbina. Mahura. Ronfaure. Sarutabaruta. Gustaberg. Batallia Downs. Sauromugue Champaign. Rolanberry Fields.
+        WHAT_SONG_DO_YOU_WANT_TO_HEAR_2                                      = 7706,  -- What song do you want to hear? (2) Next Page. Northlands. Delkfutt's Tower. Castle Zvahl. Shadow Lord Battle. Shadow Lord Theme. Bravery. Ghelsba. Ferry. Prelude. Mog House. Installation. Game Over, man! Airship. No Hope 1. No Hope 2. Anger. Sadness. Mid-Boss. Sometime, Somewhere. Memories. Uneasy. Theme (2). Theme (3).
+        WHAT_SONG_DO_YOU_WANT_TO_HEAR_3                                      = 7707,  -- What song do you want to hear? (3) First Page. 130. 131. 132. 133. 165. 166. 167. 168. 170. Music...stop!
+        WHAT_SONG_DO_YOU_WANT_TO_HEAR_4                                      = 7708,  -- What song do you want to hear? (4) Next Page. EX Field Battle! (Party). EX Dungeon Battle (Party). EX Mid-Boss. Eald'narche. Crystal Warriors. Raogrimm's Theme. To Tu'Lia! Athanasium. Grav'iton. Kam'lanaut's Theme. EX Ending. Quest Complete! Quest 1. Quest 2. Quest 3.
+        WHAT_SONG_DO_YOU_WANT_TO_HEAR_5                                      = 7709,  -- What song do you want to hear? (5) Previous Page. Yve'noile. Norg. Kazham. Rabao. Jungle Fever. Altepa. Tu'Lia. The Sanctuary of Zi'Tah. Ro'Maeve. The Hall of the Gods. Ve'Lugannon Palace. Chocobo de Go. Wedding Bells.
+        BP_I_P_LZ_CT_G_C_CAT                                                 = 7710,  -- "#bp%I%p LZ Ct#[g ^C^ #@CAT K[_ V@ E
+        BL_XGI_I_A_N_X                                                       = 7711,  -- "#bL' #XgI_i "# A# N#X^
+        THERE_IS_NOTHING_OUT_OF_THE_ORDINARY_HERE_2                          = 7712,  -- There is nothing out of the ordinary here.
+        YOU_CAN_HEAR_A_STRANGE_VOICE_ITEMS_ITEMS                             = 7713,  -- You can hear a strange voice... Items, items, la la la la la`t
+        OH_MY_GOB_YOU_RE_ONE_OF_THOSE                                        = 7714,  -- Oh my Gob! You're one of those adventurerurers, aren't ya? You got nothin' on me, man./lady.] I was just mindin' my own businesesess, lookin' for junk an' stuff.
+        HEY_WATCH_OUT_YOU_DON_T_WANNA_FIGHT                                  = 7715,  -- Hey, watch out. You don't wanna fight me. I'll turn you into meat jerky! Wait, how about you and me be friends instead? Sound good?
+        I_TRAVEL_ALL_OVER_THE_WORLD_AND_HEAR                                 = 7716,  -- I travel all over the world and hear lots of differererent stories. I even hear your stories. I can tell you one, if you want.
+        NOW_LISTEN_CLOSE                                                     = 7717,  -- Now, listen close...
+        OH_WELL_IF_THAT_S_THE_CASE_I                                         = 7718,  -- Oh... Well, if that's the case, I'm outta here.
+        THE_GOBLIN_SLIPPED_AWAY_WHEN_YOU_WERE_NOT                            = 7719,  -- The Goblin slipped away when you were not looking...
+        YOU_CAN_HEAR_A_STRANGE_RASPY_VOICE                                   = 7720,  -- You can hear a strange, raspy voice...
+        I_TRAVEL_HEAR_LOTS_HEAR_STORIES_CAN_TELL                             = 7721,  -- I travel......hear lots... Hear...stories... Can tell...if...
+        LISTEN                                                               = 7722,  -- .........listen......
+        OH_OUTTA_HERE                                                        = 7723,  -- Oh...... ...outta here.........
+        DO_YOU_WANT_TO_HEAR_A_STORY_NO                                       = 7724,  -- Do you want to hear a story? No, thank you. Let's hear one.
+        WHAT_STORY_WOULD_YOU_LIKE_TO_BE_TOLD                                 = 7725,  -- What story would you like to be told? On second thought, maybe later. Trial by Water(pt.1). Trial by Water(pt.2). Trial-Size Trial by Water(pt.1). Trial-Size Trial by Water(pt.2). Waking the Beast(pt.1). Waking the Beast(pt.2). Sugar-coated Directive.
+        WHAT_PITIFUL_FOOL_DARES_DISTURB_MY_SLUMBER                           = 7729,  -- What pitiful fool dares disturb my slumber?
+        ON_THE_FACE_OF_THE_WORLD_WE_HAVE                                     = 7730,  -- On the face of the world we have created...
+        YOUR_MORTALITY_IS_A_SIN                                              = 7731,  -- Your mortality is a sin...
+        WHAT_ARE_YOU_PLANNING_TO_WHERE_DO_YOU                                = 7732,  -- What are you planning...? To where do you take my power...?
+        THIS_WORLD_IS_NO_DREAM_THE_WORLD_I                                   = 7733,  -- This world is no dream... The world I dream of is no illusion...
+        YOUR_KIND_HAS_FORGOTTEN_ITS_DIVINITY                                 = 7734,  -- Your kind has forgotten its divinity...
+        HEED_MY_WORDS_THE_CREATURE_CARBUNCLE                                 = 7735,  -- Heed my words. The creature...Carbuncle?
+        IT_IS_A_FALSE_GOD_AND_YOUR_WORLD                                     = 7736,  -- It is a false god. And your world is a finite thing.
+        REMEMBER_YOUR_DIVINE_ORIGIN_ONLY_THEN_CAN_WE                         = 7737,  -- Remember your divine origin. Only then can we help you.
+        YOU_OBTAIN_3                                                         = 7738,  -- You obtain %!
+        ATTACHES_TO_THE_PROTOCRYSTAL                                         = 7739,  -- % attaches % to the protocrystal.
+        AN_UNSEEN_POWER_STYMIES_YOUR_EFFORTS_TO_ATTACH                       = 7740,  -- An unseen power stymies your efforts to attach % to the protocrystal.
     },
