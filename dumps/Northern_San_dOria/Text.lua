@@ -18455,7 +18455,7 @@
         ID_1_YOU_ARE_A_NEW_PLAYER_YOU_MAY                                       = 19252,  -- 1. You are a new player You may post messages from the moment you first set foot in Vana'diel.
         ID_2_YOU_ARE_A_RETURNEE_AS_A_RETURNING                                  = 19253,  -- 2. You are a returnee As a returning player, you may post messages upon logging in with a character that has not logged in for at least 48 days.
         ID_3_YOU_ARE_A_MENTOR_YOU_MAY_POST                                      = 19254,  -- 3. You are a mentor You may post messages as long as you remain a mentor to other players.
-        NEW_PLAYERS_AND_RETURNEES_MAY_POST_MESSAGES_UNTIL                       = 19255,  -- New players and returnees may post messages until they have been logged in for a total of 48 hours since first receiving their posting rights.
+        NEW_PLAYERS_AND_RETURNEES_MAY_POST_MESSAGES_UNTIL                       = 19255,  -- New players and returnees may post messages until they have been logged in for a total of 240 hours since first receiving their posting rights.
         IF_YOU_WISH_TO_CHECK_HOW_LONG_YOU                                       = 19256,  -- If you wish to check how long you can continue to post for, speak to an and choose "When do my posting rights expire?" to see how much time you have left.
         THE_ASSIST_CHANNEL_CAN_ONLY_BE_USED_IN                                  = 19257,  -- The Assist Channel can only be used in the following areas.
         AVAILABLE_AREAS                                                         = 19258,  -- Available areas: %, %, %, %, %, %...

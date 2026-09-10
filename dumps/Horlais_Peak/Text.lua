@@ -7664,7 +7664,7 @@
         YOUR_WING_SKILL_IMPROVED_TO                                          = 7750,  -- Your wing skill improved to #!
         YOU_GOT_IT_YET                                                       = 7751,  -- You got it yet?
         ME_LOOKING_FOR_IT_WITH_CRYSTAL_DOWSER_BUT                            = 7752,  -- Me looking for it with crystal dowser, but no find.
-        OH_WELL_LET_S_CHARGE_THIS_AMMO_AND                                   = 7753,  -- Oh well, let's charge this ammo and attach to battle machine.
+        OH_WELL_LET_S_CHARGE_THIS_AMMO_AND                                   = 7753,  -- Oh well, let's charge this ammo and attach to siege machine.
         IF_THIS_WORKED_IN_GREAT_WAR_WE_NO                                    = 7754,  -- If this worked in Great War, we no lose...
         WHO_THERE                                                            = 7755,  -- Who there!?
         THEN_IT_IS_TRUE                                                      = 7756,  -- Then it is true...
@@ -7902,9 +7902,9 @@
         YOU_HEAR_A_THUD_AS_IF_A_LARGE                                        = 7991,  -- You hear a thud, as if a large amount of spoils spontaneously appeared.
         YOU_HEAR_A_NOISE_AS_IF_A_LARGE                                       = 7992,  -- You hear a noise, as if a large amount of spoils spontaneously appeared.
         YOU_RECEIVE_GIL_AS_A_BONUS_REWARD                                    = 7993,  -- You receive # gil as a bonus reward!
-        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO                               = 7994,  -- You feel like there's an impossible to gauge thud left to be made!
-        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO_2                             = 7995,  -- You feel like there's an impossible to gauge thud left to be made.
-        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO_3                             = 7996,  -- You feel like there's an impossible to gauge thud left to be made...?
+        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO                               = 7994,  -- You feel like there's an impossible-to-gauge thud left to be made!
+        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO_2                             = 7995,  -- You feel like there's an impossible-to-gauge thud left to be made.
+        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO_3                             = 7996,  -- You feel like there's an impossible-to-gauge thud left to be made...?
         YOU_FEEL_LIKE_THERE_S_A_HUGE_SOUND                                   = 7997,  -- You feel like there's a huge sound left to be made!
         YOU_FEEL_LIKE_THERE_S_A_HUGE_SOUND_2                                 = 7998,  -- You feel like there's a huge sound left to be made.
         YOU_FEEL_LIKE_THERE_S_A_HUGE_SOUND_3                                 = 7999,  -- You feel like there's a huge sound left to be made...?

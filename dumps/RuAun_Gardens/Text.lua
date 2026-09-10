@@ -11206,6 +11206,6 @@
         HAS_BEEN                                                              = 11715,  -- % has been [added to your list of favorites/removed from your list of favorites].
         YOUR_LIST_OF_FAVORITES_IS_FULL_YOU_MUST                               = 11716,  -- Your list of favorites is full. You must remove an existing entry to add new ones.
         REMOVE_WHICH_ENTRY_NONE_OF_THESE                                      = 11717,  -- Remove which entry? None of these. %. %. %. %. %. %. %. %. %.
-        YOUR_BEGINS_TO_QUIVER                                                 = 11718,  -- Your % begins to quiver!
+        YOUR_BEGIN_TO_QUIVER                                                  = 11718,  -- Your % begin to quiver!
         YOUR_EMITS_A_FAINT_GLOW_PERHAPS_YOU_SHOULD                            = 11719,  -- Your % emits a faint glow. Perhaps you should head to Lufaise Meadows.
     },

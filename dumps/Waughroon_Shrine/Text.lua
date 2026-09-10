@@ -7668,9 +7668,9 @@
         YOU_HEAR_A_THUD_AS_IF_A_LARGE                                        = 7759,  -- You hear a thud, as if a large amount of spoils spontaneously appeared.
         YOU_HEAR_A_NOISE_AS_IF_A_LARGE                                       = 7760,  -- You hear a noise, as if a large amount of spoils spontaneously appeared.
         YOU_RECEIVE_GIL_AS_A_BONUS_REWARD                                    = 7761,  -- You receive # gil as a bonus reward!
-        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO                               = 7762,  -- You feel like there's an impossible to gauge thud left to be made!
-        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO_2                             = 7763,  -- You feel like there's an impossible to gauge thud left to be made.
-        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO_3                             = 7764,  -- You feel like there's an impossible to gauge thud left to be made...?
+        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO                               = 7762,  -- You feel like there's an impossible-to-gauge thud left to be made!
+        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO_2                             = 7763,  -- You feel like there's an impossible-to-gauge thud left to be made.
+        YOU_FEEL_LIKE_THERE_S_AN_IMPOSSIBLE_TO_3                             = 7764,  -- You feel like there's an impossible-to-gauge thud left to be made...?
         YOU_FEEL_LIKE_THERE_S_A_HUGE_SOUND                                   = 7765,  -- You feel like there's a huge sound left to be made!
         YOU_FEEL_LIKE_THERE_S_A_HUGE_SOUND_2                                 = 7766,  -- You feel like there's a huge sound left to be made.
         YOU_FEEL_LIKE_THERE_S_A_HUGE_SOUND_3                                 = 7767,  -- You feel like there's a huge sound left to be made...?

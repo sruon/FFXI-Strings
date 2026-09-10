@@ -7868,6 +7868,6 @@
         WE_MUSTN_T_FORGET_THAT_TIME_IS_OF                                    = 7957,  -- We mustn't forget that time is of the essence!
         Y_YOU_RE_RIGHT_L_LET_S_GET                                           = 7958,  -- Y-you're right! L-let's get going!
         WE_RE_COUNTING_ON_YOU_TO_PREPARE_THE                                 = 7959,  -- We're counting on you to prepare the weapon for us!
-        YOUR_BEGINS_TO_QUIVER                                                = 7960,  -- Your % begins to quiver!
+        YOUR_BEGIN_TO_QUIVER                                                 = 7960,  -- Your % begin to quiver!
         YOUR_EMITS_A_FAINT_GLOW_PERHAPS_YOU_SHOULD                           = 7961,  -- Your % emits a faint glow. Perhaps you should head to Lufaise Meadows.
     },

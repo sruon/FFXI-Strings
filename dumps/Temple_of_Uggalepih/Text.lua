@@ -7388,7 +7388,7 @@
         THIS_PLATFORM_LOOKS_A_PLACE_FOR_AN_OFFERING                           = 7465,  -- This platform looks a place for an offering.
         SOMETHING_IS_WRITTEN_HERE_BUT_YOU_CANNOT_MAKE                         = 7466,  -- Something is written here, but you cannot make out the words.
         THE_SLIGHTLY_QUIVERS_BUT_THERE_IS_NO_SIGN                             = 7467,  -- The % slightly quivers, but there is no sign of Lightbringer here.
-        THE_BEGINS_TO_QUIVER                                                  = 7468,  -- The % begins to quiver!
+        THE_BEGIN_TO_QUIVER                                                   = 7468,  -- The % begin to quiver!
         YOU_COULD_NOT_FIND_LIGHTBRINGER_HERE_YOUR_INVESTIGATION               = 7469,  -- You could not find Lightbringer here. Your investigation is over.
         SOME_SORT_OF_CEREMONY_WAS_PERFORMED_HERE                              = 7470,  -- Some sort of ceremony was performed here...
         YOUR_WYVERN_REACTS_VIOLENTLY_TO_THIS_SPOT                             = 7471,  -- Your wyvern reacts violently to this spot!
