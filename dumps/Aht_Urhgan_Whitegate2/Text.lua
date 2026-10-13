@@ -16304,4 +16304,14 @@
         WHEN_THEY_DO_ARE_THEY_ALLOWED_TO_TAKE                                                       = 16328,  -- When they do, are they allowed to take automatons with them? Or are automatons also chosen to go there as well?
         TRUTH_BE_TOLD_I_HAVE_NO_IDEA_WHAT                                                           = 16329,  -- Truth be told, I have no idea what you're talking about, %.
         I_WAS_TOO_FREAKED_OUT_BY_THAT_DOLL                                                          = 16330,  -- I was too freaked out by that doll to pay attention.
+        YOU_FOUND_A_PUMPKIN_INSIDE_THE_PUMPKIN_WAS                                                  = 16331,  -- You found a pumpkin! Inside the pumpkin was %.
+        YOU_FOUND_SOMETHING_HIDDEN_BENEATH_THE_PUMPKIN                                              = 16332,  -- You found something hidden beneath the pumpkin.
+        YOU_FOUND_A_NOTE_BENEATH_THE_PUMPKIN_WITH                                                   = 16333,  -- You found a note beneath the pumpkin with [C/R/O/S/S/O/V/E/R] written on it.
+        YOU_HAVE_FOUND_A_PUMPKIN_WITH_INSIDE                                                        = 16334,  -- You have found a pumpkin with % inside!
+        YOU_HAVE_FOUND_ALL_THE_PUMPKINS                                                             = 16335,  -- You have found all the pumpkins!
+        YOU_HAVE_FOUND_SEVEN_OR_MORE_PUMPKINS                                                       = 16336,  -- You have found seven or more pumpkins!
+        YOU_SENSE_THE_PRESENCE_OF_A_PUMPKIN_IN                                                      = 16337,  -- You sense the presence of a pumpkin in this area!
+        YOU_HAVE_DISCOVERED_A_PUMPKIN_CUTTING_IT_OPEN                                               = 16338,  -- You have discovered a pumpkin! Cutting it open, you find % inside!
+        THIS_PUMPKIN_HAS_ALREADY_BEEN_CLAIMED                                                       = 16339,  -- This pumpkin has already been claimed.
+        YOU_HAVE_DISCOVERED_FIVE_OR_MORE_PUMPKINS                                                   = 16340,  -- You have discovered five or more pumpkins!
     },

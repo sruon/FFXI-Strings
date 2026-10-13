@@ -4102,7 +4102,7 @@
         GO_TO_BHAFLAU_THICKETS_YES_NO                                                 = 4607,  -- Go to Bhaflau Thickets? Yes. No.
         VISIT_THE_CHOCOBO_CIRCUIT_OFF_TO_THE_RACES                                    = 4608,  -- Visit the Chocobo Circuit? Off to the races! Not right now.
         ENTER_THE_PIT_LET_THE_GAMES_BEGIN_NOT                                         = 4609,  -- Enter "The Pit"? Let the games begin! Not right now.
-        YOU_CANNOT_USE_THE_RUNIC_PORTAL_WITHOUT_THE                                   = 4610,  -- You cannot use the runic portal without the Empire's authorization.
+        YOU_CANNOT_USE_THE_RUNIC_PORTAL_WITHOUT_IMPERIAL                              = 4610,  -- You cannot use the runic portal without Imperial authorization.
         CONFIRMING_YOU_ARE_AUTHORIZED_TO_USE_THE_RUNIC                                = 4611,  -- Confirming %... You are authorized to use the runic portal.
         CONFIRMING_IMPERIAL_AUTHORIZATION_CONFIRMING_YOU_ARE_AUTHORIZED_TO            = 4612,  -- Confirming Imperial authorization... Confirming %... You are authorized to use the runic portal.
         CONFIRMING_IMPERIAL_AUTHORIZATION_YOU_ARE_AUTHORIZED_TO_USE                   = 4613,  -- Confirming Imperial authorization... You are authorized to use the runic portal.
@@ -4140,7 +4140,7 @@
         WHAT_S_THIS_I_AM_AFRAID_YOUR_IMPERIAL                                         = 4645,  -- What's this? I am afraid your Imperial Standing is not high enough. Come back when you have more experience!
         WHAT_S_THIS_YOU_HAVEN_T_REGISTERED_AS                                         = 4646,  -- What's this? You haven't registered as a mercenary yet? Make your way to Salaheem's Sentinels, now, and you'll discover a whole side of yourself you never knew!
         AH_THE_ASTRAL_CANDESCENCE_IS_TOO_FAR_FOR                                      = 4647,  -- Ah, the Astral Candescence is too far for its waves to reach the portals now, so we have to conserve their energy.
-        I_M_SORRY_BUT_WE_HAVE_ORDERS_FROM                                             = 4648,  -- I'm sorry, but we have orders from the Empire forbidding us from distributing a single % until the Astral Candescence is back out of the beastmen's stronghold and safe here in town.
+        I_M_SORRY_BUT_WE_HAVE_ORDERS_FROM                                             = 4648,  -- I'm sorry, but we have orders from the Imperial Army forbidding us from distributing a single % until the Astral Candescence is back out of the beastmen's stronghold and safe here in town.
         IS_THERE_ANYTHING_ELSE_YOU_WANTED_TO_ASK                                      = 4649,  -- Is there anything else you wanted to ask?
         THIS_CHAMBER_OF_PASSAGE_WAS_BUILT_SO_THE                                      = 4650,  -- This Chamber of Passage was built so the Empire could send soldiers to Assault areas at a moment's notice.
         YOU_CAN_USE_THE_RUNIC_PORTALS_INSIDE_TO                                       = 4651,  -- You can use the runic portals inside to travel to a staging point in the blink of an eye.
@@ -4373,7 +4373,7 @@
         DEBUG_PRESS_A_BUTTON_TO_CONTINUE                                              = 4878,  -- DEBUG: Press a button to continue.
         WE_ARE_THE_EMPRESS_THE_EMPRESS_AND_AHT                                        = 4879,  -- We are the Empress... The Empress and Aht Urhgan are as one...
         OUR_WISHES_ARE_THE_WISHES_OF_THE_EMPIRE                                       = 4880,  -- Our wishes are the wishes of the Empire...
-        N_G_AD_ADH_F_LFCC                                                             = 4881,  -- n@%=g%AD* ?!%`*)ADH"f$>lFcc
+        HAH_YOU_LOT_DON_T_HAVE_ANY_IDEA                                               = 4881,  -- Hah... You lot don't have any idea what it means to rrreaally be mercenaries...
         THERE_S_NOTHIN_LIKE_BEING_A_MERCENARY_YOU                                     = 4882,  -- There's nothin' like being a mercenary! You've gotta get down and dirrrty and show you've got guts! You can't sit arrround expecting the world to come to you if you wanna make waves in this type of work.
         BUT_WHAT_D_YOU_KNOW_ANYWAY_YOU_BETTER                                         = 4883,  -- But what d'you know, anyway? You better watch that mouth of yourrrs if you wanna deal with me!
         ID_0I_G_6ADF_HCC                                                              = 4884,  -- "")"%0i)g%[6ADf%+Hcc
@@ -4391,13 +4391,13 @@
         HEH_HEH_YOU_RE_DOING_PRRRETTY_WELL_LOOKS                                      = 4896,  -- Heh heh, you're doing prrretty well. Looks like some of that mercenary spirit is starting to sink in!
         THEN_AGAIN_IT_S_USUALLY_TIMES_LIKE_THESE                                      = 4897,  -- Then again, it's usually times like these when people start slacking off and scrrrewing everything up.
         I_VE_GOT_A_JOB_THAT_S_JUST                                                    = 4898,  -- I've got a job that's just perrrfect for you. So get rrready and get out there!
-        ID_3P_U8_PS_I                                                                 = 4899,  -- 3P%u8#ps/=I
-        ID_1_GEM_WLVLATGI_QA7IK_V_UPEAD_H_7B                                          = 4900,  -- 1?gEM WlVLATgI QA7iK|v%upeAD(h\7B
-        ID_1_G_A_K_V_UEWLATGE7B                                                       = 4901,  -- 1?g*A] K|v%ueWLATgE7B
-        GLATGIQA7IH_W_LM_A_L_B_PT                                                     = 4902,  -- GLATgIQA7iH W%|"lm A^L B`pt%
-        LATGM_K3X_65_FHAD_H_7_LMEFK5_E7                                               = 4903,  -- ;LATgM K3x*65%<%*FHAD(h\7%lmEfk5"E7)H
-        W_LMIQA7I                                                                     = 4904,  -- W%|"lmIQA7i% ""&
-        ID_9P5_5_P_ATGV_UF5DO_5_5_B                                                   = 4905,  -- 9p5\5=%=p ATgv%uF5Do^"=5\5=B #}%vH%k&%K|up#n5D->3"B
+        YOU_TOOK_THE_OFFICIAL_EMPLOYEE_PROMOTION_TEST                                 = 4899,  -- You took the official employee promotion test!
+        WE_RE_CURRENTLY_LOOKING_FOR_MEMBERS_TO_TAKE                                   = 4900,  -- We're currently looking for members to take part in the Assault on Leujaoam Sanctum.
+        THESE_ARE_THE_ASSAULT_MISSIONS_PRESENTLY_IN_NEED                              = 4901,  -- These are the Assault missions presently in need of members.
+        WHICH_ASSAULT_WOULD_YOU_LIKE_TO_JOIN_LEUJAOAM                                 = 4902,  -- Which Assault would you like to join? Leujaoam Cleansing. Rare Mineral Mining. Alchemist Escort
+        THAT_ASSAULT_HAS_A_RECOMMENDED_LEVEL_OF_65                                    = 4903,  -- That Assault has a recommended level of 65, allows up to a party of six, and has a time limit of 60 minutes. Do you wish to proceed?
+        WOULD_YOU_LIKE_TO_JOIN_THE_LEUJAOAM_CLEANSING                                 = 4904,  -- Would you like to join the Leujaoam Cleansing? Yes. No.
+        VERY_WELL_THEN_I_HAVE_REGISTERED_YOU_FOR                                      = 4905,  -- Very well then. I have registered you for the Assault mission. Now then, gather your team as quickly as possible and head to the location to make your preparations.
         YOU_A_MERCENARY_HUH_AN_ADVENTURER_YOU_SAY                                     = 4906,  -- You a mercenary? Huh? An adventurer, you say? Well, whatever.
         GOT_A_QUESTION_FOR_YOU_ADVENTURER_YOU_EVER                                    = 4907,  -- Got a question for you, adventurer. You ever hear the name Olduum?
         HEARD_OF_IT_OF_COURSE_I_M_AFRAID                                              = 4908,  -- Heard of it? Of course. I'm afraid not.
@@ -4740,7 +4740,7 @@
         NO_I_VE_LOOKED_INTO_EVERY_NOOK_AND                                            = 5245,  -- No, I've looked into every nook and cranny, but still no sign...
         NOTHIN_HERE_EITHER                                                            = 5246,  -- Nothin' here either!
         DO_YOU_THINK_DO_YOU_THINK_WE_RE                                               = 5247,  -- Do you think... Do you think we're dealing with a kidnapper?
-        OH_DEAR_OH_DEAR_WHAT_IF_WHAT_IF                                               = 5248,  -- Oh dear, oh dear... What if...what if our benefactor is tied up somewhere!? Or being tortured!?
+        OH_DEAR_OH_DEAR_WHAT_IF_WHAT_IF                                               = 5248,  -- Oh dear, oh dear... What if...what if our benefactor is tied up somewhere!?
         WHY_DO_YOU_ALWAYS_GOTTA_COME_UP_WITH                                          = 5249,  -- Why do you always gotta come up with the worst-case scenario?
         BUT_BUT                                                                       = 5250,  -- But...but...
         DID_YOU_HEAR_THAT_ADVENTURER_THIS_IS_LIKE                                     = 5251,  -- Did you hear that, [Miss/Mister] Adventurer? This is like a scene from one of those detective stories!
@@ -4749,9 +4749,9 @@
         AHEM_HOW_MAY_I_BE_OF_SERVICE_NEED                                             = 5254,  -- Ahem. How may I be of service? Need a keen eye? A strong arm? I'm your boy! Ah, I mean, man!
         OH_UM_HAVE_YOU_HAVE_YOU_SEEN_OUR                                              = 5255,  -- Oh! Um, have you...have you seen our benefactor anywhere?
         I_THINK_WE_RE_GETTING_AHEAD_OF_OURSELVES                                      = 5256,  -- I think we're getting ahead of ourselves here.
-        ALLOW_ME_TO_EXPLAIN_AS_YOU_PROBABLY_OVERHEARD                                 = 5257,  -- Allow me to explain. As you probably overheard, we're looking for someone.
-        YOU_SEE_THE_OWNER_OF_THE_MANSION_IN                                           = 5258,  -- You see, the owner of the mansion in which we work--our employer and dear benefactor--has gone missing.
-        BUILDING_ON_THE_BUSINESS_OF_PREVIOUS_GENERATIONS_OUR                          = 5259,  -- Building on the business of previous generations, our employer has become an incredible success, and quite well known in the Imperial Ward.
+        ALLOW_ME_TO_EXPLAIN_WE_RE_LOOKING_FOR                                         = 5257,  -- Allow me to explain. We're looking for someone, you see.
+        IT_S_RATHER_DIFFICULT_TO_EXPLAIN_BUT_THE                                      = 5258,  -- It's rather difficult to explain, but the owner of the mansion in which we work--our employer and dear benefactor--has gone missing.
+        BUILDING_ON_THE_BUSINESS_OF_PREVIOUS_GENERATIONS_OUR                          = 5259,  -- Building on the business of previous generations, our employer worked hard to become an incredible success, and quite well known in the Imperial Ward.
         THIS_EMINENT_PERSONAGE_WENT_FOR_A_STROLL_WITH                                 = 5260,  -- This eminent personage went for a stroll with one of our fellow retainers yesterday, but never returned to the mansion. We've been searching ever since.
         OUR_MOST_REFINED_AND_COURTEOUS_BENEFACTOR_SHOULD_BE                           = 5261,  -- Our most refined and courteous benefactor should be easy to spot amongst the rag-tag mercenary and adventurer population of Al Zahbi.
         THAT_PIERCING_GAZE_EYES_SHINING_LIKE_GOLDEN_JEWELS                            = 5262,  -- That piercing gaze, eyes shining like golden jewels...or perhaps lapis lazuli...or maybe more of a ruby sparkle...
@@ -4759,7 +4759,7 @@
         SUCH_A_STRIKING_PERSON_SHOULD_BE_VERY_DIFFICULT                               = 5264,  -- Such a striking person should be very difficult to miss...
         HMMM_THAT_SOUNDS_KIND_OF_FAMILIAR                                             = 5265,  -- Hmmm... That sounds kind of familiar...
         WELL_HAVE_YOU_SEEN_OUR_BOSS_OR_NOT                                            = 5266,  -- Well!? Have you seen our boss or not!?
-        I_SEE_SO_MANY_PEOPLE_COME_THROUGH_HERE                                        = 5267,  -- I see so many people come through here, it's really hard to say for sure...
+        I_SEE_SO_MANY_PEOPLE_COME_THROUGH_HERE                                        = 5267,  -- I see so many people come through here, it's really hard to remember...
         OH_DEAR_IF_NO_ONE_HAS_SEEN_OUR                                                = 5268,  -- Oh dear... If no one has seen our wonderful benefactor, then kidnapped must be the only answer...
         HMM_YOU_HAVE_A_CERTAIN_LOOK_ABOUT_YOU                                         = 5269,  -- Hmm. You have a certain look about you... Are you one of those adventurers from the West?
         I_KNEW_IT_THEN_I_MUST_ASK_YOUR                                                = 5270,  -- I knew it! Then I must ask your help.
@@ -13848,4 +13848,14 @@
         YOU_ARE_UNABLE_FURTHER_DELVE_INTO_IN_THE                                      = 14388,  -- You are unable further delve into in The Voracious Resurgence until you make more progress in The Treasures of Aht Urhgan mission story line.
         YOU_ARE_UNABLE_TO_DELVE_FURTHER_INTO_THE                                      = 14389,  -- You are unable to delve further into The Voracious Resurgence storyline because Gadalar has been captured.
         IT_WOULD_BEHOOVE_YOU_TO_HEAD_TO_WHERE                                         = 14390,  -- It would behoove you to head to where the slugs lie in Caedarva Mire.
+        YOU_FOUND_A_PUMPKIN_INSIDE_THE_PUMPKIN_WAS                                    = 14391,  -- You found a pumpkin! Inside the pumpkin was %.
+        YOU_FOUND_SOMETHING_HIDDEN_BENEATH_THE_PUMPKIN                                = 14392,  -- You found something hidden beneath the pumpkin.
+        YOU_FOUND_A_NOTE_BENEATH_THE_PUMPKIN_WITH                                     = 14393,  -- You found a note beneath the pumpkin with [C/R/O/S/S/O/V/E/R] written on it.
+        YOU_HAVE_FOUND_A_PUMPKIN_WITH_INSIDE                                          = 14394,  -- You have found a pumpkin with % inside!
+        YOU_HAVE_FOUND_ALL_THE_PUMPKINS                                               = 14395,  -- You have found all the pumpkins!
+        YOU_HAVE_FOUND_SEVEN_OR_MORE_PUMPKINS                                         = 14396,  -- You have found seven or more pumpkins!
+        YOU_SENSE_THE_PRESENCE_OF_A_PUMPKIN_IN                                        = 14397,  -- You sense the presence of a pumpkin in this area!
+        YOU_HAVE_DISCOVERED_A_PUMPKIN_CUTTING_IT_OPEN                                 = 14398,  -- You have discovered a pumpkin! Cutting it open, you find % inside!
+        THIS_PUMPKIN_HAS_ALREADY_BEEN_CLAIMED                                         = 14399,  -- This pumpkin has already been claimed.
+        YOU_HAVE_DISCOVERED_FIVE_OR_MORE_PUMPKINS                                     = 14400,  -- You have discovered five or more pumpkins!
     },

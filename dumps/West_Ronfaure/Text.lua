@@ -7275,7 +7275,7 @@
         YOU_RECEIVE_BAYLD                                                     = 7352,  -- You receive # bayld!
         YOUR_CHOCOBO_REFUSES_TO_PARTAKE_OF_THE                                = 7353,  -- Your chocobo refuses to partake of the %.
         YOUR_WING_SKILL_IMPROVED_TO                                           = 7354,  -- Your wing skill improved to #!
-        NOTHING_TO_REPORT                                                     = 7355,  -- Nothing to report.
+        NOTHING_TO_REPORT                                                     = 7355,  -- Nothing to report!
         ORCISH_SCOUTS_LURK_IN_THE_SHADOWS_CONSIDER_YOURSELF                   = 7356,  -- Orcish scouts lurk in the shadows. Consider yourself warned!
         IF_YOU_SENSE_DANGER_JUST_FLEE_INTO_THE                                = 7357,  -- If you sense danger, just flee into the city. I'll not endanger myself on your account!
         I_MUSTN_T_CHAT_WHILE_ON_DUTY_SORRY                                    = 7358,  -- I mustn't chat while on duty. Sorry.
@@ -7333,7 +7333,7 @@
         OUR_PEOPLE_OFTEN_FALL_PREY_TO_ROVING_ORCS                             = 7410,  -- Our people often fall prey to roving Orcs nearby. Take care out there!
         SOME_MONSTERS_ATTACK_WITHOUT_WARNING_IN_THESE_WOODS                   = 7411,  -- Some monsters attack without warning. In these woods, Orcs and Goblins are what you should watch out for.
         THEY_RARELY_PROWL_IN_GROUPS_BUT_LOOK_OUT                              = 7412,  -- They rarely prowl in groups, but look out when their friends are nearby. They'll team up to attack you!
-        NOTHING_TO_REPORT_2                                                   = 7413,  -- Nothing to report.
+        NOTHING_TO_REPORT_2                                                   = 7413,  -- Nothing to report!
         HEY_YOU_THERE_HOW_DID_YOU_GET_IN                                      = 7414,  -- Hey, you there! How did you get in here? Where's your pass?
         THIS_WATCHTOWER_WAS_BUILT_TO_STRENGTHEN_RANPERRE_GATE                 = 7415,  -- This watchtower was built to strengthen Ranperre Gate. You can look around, but stay out of our way.
         GHELSBA_AND_ITS_ORCISH_CAMPS_LIE_AT_THE                               = 7416,  -- Ghelsba and its Orcish camps lie at the foot of mountains yonder. We must be vigilant! They could attack at any time.
@@ -7437,7 +7437,7 @@
         LET_ME_GIVE_YOU_THIS_AS_A_TOKEN                                       = 7524,  -- Let me give you this as a token of your achievement.
         WHAT_S_THAT_ARE_ALL_YOUR_PARTY_MEMBERS                                = 7525,  -- What's that? Are all your party members here?
         WHERE_ARE_YOUR_PARTY_MEMBERS_PRESENT_AND_ACCOUNTED                    = 7526,  -- Where are your party members? Present and accounted for. They're not here yet.
-        IT_S_TAKES_TWO_NOT_JUST_TO_TANGO                                      = 7527,  -- It's takes two not just to tango, but also to form a party. Report to me once you've gathered your comrades. I'll be the judge of their worth.
+        IT_TAKES_TWO_NOT_JUST_TO_TANGO_BUT                                    = 7527,  -- It takes two not just to tango, but also to form a party. Report to me once you've gathered your comrades. I'll be the judge of their worth.
         YOU_MAY_NOT_MEASURE_UP_TO_MY_ELITE_2                                  = 7528,  -- You may not measure up to my elite squad, but keep at it, and someday, maybe you'll win a post here in the watchtower.
         A_LONE_ADVENTURER_EH_YOU_LOOK_AS_THOUGH                               = 7529,  -- A lone adventurer, eh? You look as though you've seen some battles...but not nearly enough. Train, and grow strong, friend.
         GOOD_JOB_YOU_DO_NOT_COMPARE_TO_US                                     = 7530,  -- Good job. You do not compare to us yet, but you're well on your way. Good luck, adventurer!
@@ -11805,4 +11805,14 @@
         RRAAAWHHH                                                             = 12549,  -- Rraaawhhh...
         VRAAAH                                                                = 12550,  -- Vraaah...
         THE_OPERATION_WAS_UNABLE_TO_BE_CARRIED_OUT                            = 12551,  -- The operation was unable to be carried out. Please try again.
+        YOU_FOUND_A_PUMPKIN_INSIDE_THE_PUMPKIN_WAS                            = 12552,  -- You found a pumpkin! Inside the pumpkin was %.
+        YOU_FOUND_SOMETHING_HIDDEN_BENEATH_THE_PUMPKIN                        = 12553,  -- You found something hidden beneath the pumpkin.
+        YOU_FOUND_A_NOTE_BENEATH_THE_PUMPKIN_WITH                             = 12554,  -- You found a note beneath the pumpkin with [C/R/O/S/S/O/V/E/R] written on it.
+        YOU_HAVE_FOUND_A_PUMPKIN_WITH_INSIDE                                  = 12555,  -- You have found a pumpkin with % inside!
+        YOU_HAVE_FOUND_ALL_THE_PUMPKINS                                       = 12556,  -- You have found all the pumpkins!
+        YOU_HAVE_FOUND_SEVEN_OR_MORE_PUMPKINS                                 = 12557,  -- You have found seven or more pumpkins!
+        YOU_SENSE_THE_PRESENCE_OF_A_PUMPKIN_IN                                = 12558,  -- You sense the presence of a pumpkin in this area!
+        YOU_HAVE_DISCOVERED_A_PUMPKIN_CUTTING_IT_OPEN                         = 12559,  -- You have discovered a pumpkin! Cutting it open, you find % inside!
+        THIS_PUMPKIN_HAS_ALREADY_BEEN_CLAIMED                                 = 12560,  -- This pumpkin has already been claimed.
+        YOU_HAVE_DISCOVERED_FIVE_OR_MORE_PUMPKINS                             = 12561,  -- You have discovered five or more pumpkins!
     },

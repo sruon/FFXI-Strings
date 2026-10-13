@@ -7886,4 +7886,14 @@
         WHICH_OBJECTIVE_WOULD_YOU_LIKE_TO_UNDERTAKE_NONE                      = 7966,  -- Which objective would you like to undertake? None for now. %. %. %. %. %. %. %. %.
         NO_ONE_IN_YOUR_PARTY_HAS_SET_THE                                      = 7967,  -- No one in your party has set the appropriate Records of Eminence objective.
         WILL_BE_ACTIVE_THE_NEXT_TIME_YOU_JOIN                                 = 7968,  -- % will be active the next time you join this battle.
+        YOU_FOUND_A_PUMPKIN_INSIDE_THE_PUMPKIN_WAS                            = 7969,  -- You found a pumpkin! Inside the pumpkin was %.
+        YOU_FOUND_SOMETHING_HIDDEN_BENEATH_THE_PUMPKIN                        = 7970,  -- You found something hidden beneath the pumpkin.
+        YOU_FOUND_A_NOTE_BENEATH_THE_PUMPKIN_WITH                             = 7971,  -- You found a note beneath the pumpkin with [C/R/O/S/S/O/V/E/R] written on it.
+        YOU_HAVE_FOUND_A_PUMPKIN_WITH_INSIDE                                  = 7972,  -- You have found a pumpkin with % inside!
+        YOU_HAVE_FOUND_ALL_THE_PUMPKINS                                       = 7973,  -- You have found all the pumpkins!
+        YOU_HAVE_FOUND_SEVEN_OR_MORE_PUMPKINS                                 = 7974,  -- You have found seven or more pumpkins!
+        YOU_SENSE_THE_PRESENCE_OF_A_PUMPKIN_IN                                = 7975,  -- You sense the presence of a pumpkin in this area!
+        YOU_HAVE_DISCOVERED_A_PUMPKIN_CUTTING_IT_OPEN                         = 7976,  -- You have discovered a pumpkin! Cutting it open, you find % inside!
+        THIS_PUMPKIN_HAS_ALREADY_BEEN_CLAIMED                                 = 7977,  -- This pumpkin has already been claimed.
+        YOU_HAVE_DISCOVERED_FIVE_OR_MORE_PUMPKINS                             = 7978,  -- You have discovered five or more pumpkins!
     },

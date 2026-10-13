@@ -7270,9 +7270,9 @@
         BUT_WHEN_THE_SONG_IS_OVER_WE_SHALL                                    = 7347,  -- But when the song is over, we shall write a new verse of hope with our blood, sweat, and toil.
         COME_ON_ZEID_WE_HAVE_NO_TIME_TO                                       = 7348,  -- Come on, Zeid. We have no time to lose.
         BE_CAREFUL_I_HAVE_A_FEELING_WE_WILL                                   = 7349,  -- Be careful, %. I have a feeling we will be seeing each other again soon.
-        LFOBOPJ_LZ_V_J_H_CXG_FBN_WBN                                          = 7351,  -- lfobOpj%[ LZ [v J[h Cxg`FbN ~%[WbN ~%[WbNEX
-        WVFP_I_P_EAR_E_A_O_QL                                                 = 7352,  -- Wvfp%I%p EAr^E_a%O %qL%O gD[E#A|%O
-        CXGP_I_P_GD_E_A                                                       = 7353,  -- Cxgp%I%p gD[E#A %
+        DEBUG_MENU_CANCEL_WARP_CAMERA_LOAD_EVENT_CHECK                        = 7351,  -- Debug Menu! Cancel. Warp! Camera Load! Event Check! Music! EX Music!
+        J_J_JUMP_TO_SHRINE_OF_RU_AVITAU                                       = 7352,  -- J-j-jump to? Shrine of Ru'Avitau. Ru'Aun Gardens Cloister Tu'Lia Entrance.
+        CHOSE_AN_EVENT_TU_LIA_RU_AUN_GARDENS                                  = 7353,  -- Chose an event! Tu'Lia. Ru'Aun Gardens
         PRESS_THE_CONFIRMATION_BUTTON                                         = 7354,  -- Press the confirmation button.
         WHAT_SONG_DO_YOU_WANT_TO_HEAR_1                                       = 7355,  -- What song do you want to hear? (1) Next Page. Field Battle (Solo). Field Battle (Party). Dungeon Battle (Solo). Dungeon Battle (Party). Windurst. San d'Oria. Bastok. Chateau d'Oraguille. Metalworks. Heavens Tower. Jeuno. Ru'Lude Gardens. Selbina. Mahura. Ronfaure. Sarutabaruta. Gustaberg. Batallia Downs. Sauromugue Champaign. Rolanberry Fields.
         WHAT_SONG_DO_YOU_WANT_TO_HEAR_2                                       = 7356,  -- What song do you want to hear? (2) Next Page. Northlands. Delkfutt's Tower. Castle Zvahl. Shadow Lord Battle. Shadow Lord Theme. Bravery. Ghelsba. Ferry. Prelude. Mog House. Installation. Game Over, man! Airship. No Hope 1. No Hope 2. Anger. Sadness. Mid-Boss. Sometime, Somewhere. Memories. Uneasy. Theme (2). Theme (3).
@@ -7296,14 +7296,14 @@
         THE_CHEST_WAS_BUT_AN_ILLUSION                                         = 7374,  -- The chest was but an illusion...
         THE_CHEST_APPEARS_TO_BE_LOCKED_IF_ONLY                                = 7375,  -- The chest appears to be locked. If only you had %, perhaps you could open it...
         THE_GATE_IS_SEALED_BY_A_SUPERNATURAL_FORCE                            = 7376,  -- The gate is sealed by a supernatural force.
-        S_81JE_CGLFM_J_E_H_BL_0                                               = 7377,  -- S#% &81jE%cgLfM%j~E+=H%BL()0>fB
-        JF_CCB                                                                = 7378,  -- ;jF%ccB
-        B_LA_5DH_JN_2K1L_G_HAD_1F                                             = 7379,  -- "B* LA 5DH/jN!2k1L"#* G$HAD"=1F)B
-        ID_11K_GGP_NI6_I_DI6_P_C_5DCCB                                        = 7380,  -- 11k)ggp($%nI6+i%di6=p%c\5DccB
-        ID_3_6A_K_KAIF5F_HF1KI7MS                                             = 7381,  -- 3 %6a;k;kAiF5f$:%HF1kI7MS%
-        JIF_E_F_F5D_G_BINMJ_GHI                                               = 7382,  -- ;jIf%\E` -f-f5D=g%BINmj?\$)gHI
+        WELL_LET_S_HOPE_THAT_THAT_PUTS_AN                                     = 7377,  -- Well, let's hope that that puts an end to the Zilart's plans. You did a great job in there, %.
+        AND_LION                                                              = 7378,  -- And Lion...
+        IF_IT_WASN_T_FOR_HER_WHO_KNOWS                                        = 7379,  -- If it wasn't for her, who knows what would have become of Vana'diel?
+        I_SPEAK_FOR_ALL_OF_VANA_DIEL_WHEN                                     = 7380,  -- I speak for all of Vana'diel when I say thank you, %.
+        WELL_NOW_THAT_WE_GOT_THAT_OUT_OF                                      = 7381,  -- Well, now that we got that out of the way, let's get out of here. This place gives me the creeps!
+        I_THINK_THAT_IF_LION_WAS_STILL_HERE                                   = 7382,  -- I think that if Lion was still here, she would agree...
         FIS_HA_I                                                              = 7383,  -- fIs-:% HA%I
-        S_F7I_J_O_DG_JLNA_I_CCB                                               = 7384,  -- `s-F7i)%j\=o($% dg*jLnA@i%ccB
+        I_TOO_BID_YOU_FAREWELL_BUT_I_DO                                       = 7384,  -- %. I, too, bid you farewell. But I do not feel that this meeting will be our last. Until our paths cross again...
         A_STRANGE_INSIGNIA_POINTING_NORTH_IS_CARVED_INTO                      = 7385,  -- A strange insignia pointing north is carved into the wall.
         A_STRANGE_INSIGNIA_POINTING_EAST_IS_CARVED_INTO                       = 7386,  -- A strange insignia pointing east is carved into the wall.
         A_STRANGE_INSIGNIA_POINTING_WEST_IS_CARVED_INTO                       = 7387,  -- A strange insignia pointing west is carved into the wall.
@@ -11208,4 +11208,14 @@
         REMOVE_WHICH_ENTRY_NONE_OF_THESE                                      = 11717,  -- Remove which entry? None of these. %. %. %. %. %. %. %. %. %.
         YOUR_BEGIN_TO_QUIVER                                                  = 11718,  -- Your % begin to quiver!
         YOUR_EMITS_A_FAINT_GLOW_PERHAPS_YOU_SHOULD                            = 11719,  -- Your % emits a faint glow. Perhaps you should head to Lufaise Meadows.
+        YOU_FOUND_A_PUMPKIN_INSIDE_THE_PUMPKIN_WAS                            = 11720,  -- You found a pumpkin! Inside the pumpkin was %.
+        YOU_FOUND_SOMETHING_HIDDEN_BENEATH_THE_PUMPKIN                        = 11721,  -- You found something hidden beneath the pumpkin.
+        YOU_FOUND_A_NOTE_BENEATH_THE_PUMPKIN_WITH                             = 11722,  -- You found a note beneath the pumpkin with [C/R/O/S/S/O/V/E/R] written on it.
+        YOU_HAVE_FOUND_A_PUMPKIN_WITH_INSIDE                                  = 11723,  -- You have found a pumpkin with % inside!
+        YOU_HAVE_FOUND_ALL_THE_PUMPKINS                                       = 11724,  -- You have found all the pumpkins!
+        YOU_HAVE_FOUND_SEVEN_OR_MORE_PUMPKINS                                 = 11725,  -- You have found seven or more pumpkins!
+        YOU_SENSE_THE_PRESENCE_OF_A_PUMPKIN_IN                                = 11726,  -- You sense the presence of a pumpkin in this area!
+        YOU_HAVE_DISCOVERED_A_PUMPKIN_CUTTING_IT_OPEN                         = 11727,  -- You have discovered a pumpkin! Cutting it open, you find % inside!
+        THIS_PUMPKIN_HAS_ALREADY_BEEN_CLAIMED                                 = 11728,  -- This pumpkin has already been claimed.
+        YOU_HAVE_DISCOVERED_FIVE_OR_MORE_PUMPKINS                             = 11729,  -- You have discovered five or more pumpkins!
     },

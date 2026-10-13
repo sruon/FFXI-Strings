@@ -8409,11 +8409,11 @@
         I_DO_RECALL_HEARING_STORIES_OF_THE_STAR                                 = 8685,  -- I do recall hearing stories of the Star of Tavnazia; unfortunately, I never actually set my eyes upon it. I do not know what it is, or if the magicite was a piece of it.
         MAGICITE_THE_STAR_OF_TAVNAZIA                                           = 8686,  -- Magicite... The Star of Tavnazia...
         SIR_ALDO_YOU_WOULD_NOT_HAPPEN_TO_KNOW                                   = 8687,  -- ? Sir Aldo? You would not happen to know anything of the gem, would you?
-        I_VE_HEARD_STORIES_OF_A_MYSTERIOUS_GEM                                  = 8688,  -- I've heard stories of a mysterious gem kept in the Tavnazian Cathedral. If that relic is also magicite, I wonder in what way it's connected with the other magicite found around Vana'diel...
+        I_VE_HEARD_STORIES_OF_A_MYSTERIOUS_GEM                                  = 8688,  -- I've heard stories of a mysterious gem kept in the Tavnazian Cathedral. One so dangerous that it can never leave the premises.
         DEEP_WITHIN_THE_ORC_QUADAV_AND_YAGUDO_STRONGHOLDS                       = 8689,  -- Deep within the Orc, Quadav, and Yagudo strongholds, there are doors that the beastmen guard with their lives. Beyond those doors lie giant crystals emitting a strange, eerie light.
-        IF_THE_BEASTMEN_WERE_DRAWN_TO_THESE_CRYSTALS                            = 8690,  -- If the beastmen were drawn to these crystals and chose those areas to build their towns, then the magicite in the Northlands is more than likely... Hmmm...
+        IF_THE_BEASTMEN_WERE_DRAWN_TO_THESE_CRYSTALS                            = 8690,  -- If the beastmen were drawn to these crystals and chose those areas to build their towns, then the magicite in the Northlands is more than likely... But where would they go? Hmmm...
         PERHAPS_SOMEONE_IN_TAVNAZIA_KNOWS_SOMETHING_HOWEVER_WE                  = 8691,  -- Perhaps someone in Tavnazia knows something. However, we cannot leave without Prishe. Oh, where could she have wandered off to?
-        LEADER_THAT_GIRL_SHE_S_BEEN_TAKEN_TO                                    = 8692,  -- Leader! That girl! She's been taken to Doctor Monberaux's!
+        BOSS_THAT_GIRL_SHE_S_BEEN_TAKEN_TO                                      = 8692,  -- Boss! That girl! She's been taken to Doctor Monberaux's!
         WHAT_WHAT_HAPPENED                                                      = 8693,  -- What!? What happened!?
         IT_SEEMS_THAT_SHE_WAS_ATTACKED_WHILE_VISITING                           = 8694,  -- It seems that she was attacked while visiting the Temple of the Goddess!
         ATTACKED                                                                = 8695,  -- Attacked!?
@@ -8449,7 +8449,7 @@
         YOU_SERIOUS_ARE_YOU_SURE_YOU_RE_NOT                                     = 8725,  -- You serious? Are you sure you're not just making fun of my feelings, like that Elvaan kid?
         GRRR_JUST_THINKING_ABOUT_THE_SMIRK_ON_THAT                              = 8726,  -- Grrr! Just thinking about the smirk on that brat's face...
         COULD_I_REALLY_FIND_OUT_WHICH_OF_THOSE                                  = 8727,  -- Could I really find out which of those beauties had feelings for me if I had %?
-        NAH_THINGS_ARE_NEVER_THAT_EASY_THAT_ELVAAN                              = 8728,  -- Nah, things are never that easy. That Elvaan brat is just making fun of me.
+        NAH_THINGS_ARE_NEVER_THAT_EASY_THAT_ELVAAN                              = 8728,  -- Nah, things are never that easy. That Elvaan brat is just making fun of me!
         IS_THAT_REALLY                                                          = 8729,  -- Is that really...%!?
         I_CAN_T_BELIEVE_THAT_KID_WAS_TELLING                                    = 8730,  -- I can't believe that kid was telling the truth. Well, I'll be damned.
         THERE_S_NO_TIME_TO_LOSE_I_GOTTA                                         = 8731,  -- There's no time to lose. I gotta get in there and find the girl of my dreams!
@@ -9124,7 +9124,7 @@
         WE_VE_BEEN_TRAVELING_TOGETHER_FOR_SO_LONG                               = 9402,  -- We've been traveling together for so long now that I don't think I can go back to being alone.
         BUT_YOU_LL_KEEP_ADVENTURING_ALONGSIDE_ME_WON                            = 9403,  -- But you'll keep adventuring alongside me, won't you, %?
         I_KNOW_YOU_LL_NEVER_LET_ME_DOWN                                         = 9404,  -- I know you'll never let me down.
-        LUTO_MENTIONED_SOMETHING_ABOUT_THE_RARITY_OF_THE                        = 9405,  -- Luto mentioned something about the rarity of the Glass of All-Seeing.
+        LUTO_MENTIONED_SOMETHING_ABOUT_THE_RARITY_OF_THE                        = 9405,  -- Luto mentioned something about the rarity of the Glass of All-Seeing. I wonder if my mirror is...
         BUT_WHO_WOULD_VE_THOUGHT_THAT_IT_CONCEALED                              = 9406,  -- But who would've thought that it concealed the power to counter the Mirror of Blighted Gloom?
         DO_YOU_REMEMBER_THE_STORY_THAT_PALOMETA_TOLD_5                          = 9407,  -- %, do you remember the story that Palometa told us?
         ONCE_THERE_WAS_A_MEETING_OF_TWO_GREAT_8                                 = 9408,  -- Once there was a meeting of two great masses.
@@ -9178,7 +9178,7 @@
         BUT_I_M_GLAD_YOU_WERE_THERE_AT                                          = 9456,  -- But I'm glad you were there at the end of my path.
         AND_NOTHING_IS_EVER_GONNA_CHANGE_THAT                                   = 9457,  -- And nothing is ever gonna change that!
         I_HAVE_BEEN_THINKING_ABOUT_THE_GLASS_OF                                 = 9458,  -- I have been thinking about the Glass of All-Seeing.
-        DO_YOU_REMEMBER_THE_STORY_THAT_PALOMETA_RECITED_2                       = 9459,  -- %, do you remember the story that Palometa recited?
+        DO_YOU_REMEMBER_THE_STORY                                               = 9459,  -- %, do you remember the story?
         ONCE_THERE_WAS_A_MEETING_OF_TWO_GREAT_11                                = 9460,  -- Once there was a meeting of two great masses.
         ONE_AN_ENTITY_OF_DARK_11                                                = 9461,  -- One, an entity of dark.
         ONE_AN_ENTITY_OF_LIGHT_11                                               = 9462,  -- One, an entity of light.
@@ -11058,4 +11058,14 @@
         START_THE_STORYLINE_YES_PLEASE_NO_THANK_YOU                             = 11347,  -- Start the storyline? Yes, please. No, thank you.
         YOUR_BEGIN_TO_QUIVER                                                    = 11348,  -- Your % begin to quiver!
         YOUR_EMITS_A_FAINT_GLOW_PERHAPS_YOU_SHOULD                              = 11349,  -- Your % emits a faint glow. Perhaps you should head to Lufaise Meadows.
+        YOU_FOUND_A_PUMPKIN_INSIDE_THE_PUMPKIN_WAS                              = 11350,  -- You found a pumpkin! Inside the pumpkin was %.
+        YOU_FOUND_SOMETHING_HIDDEN_BENEATH_THE_PUMPKIN                          = 11351,  -- You found something hidden beneath the pumpkin.
+        YOU_FOUND_A_NOTE_BENEATH_THE_PUMPKIN_WITH                               = 11352,  -- You found a note beneath the pumpkin with [C/R/O/S/S/O/V/E/R] written on it.
+        YOU_HAVE_FOUND_A_PUMPKIN_WITH_INSIDE                                    = 11353,  -- You have found a pumpkin with % inside!
+        YOU_HAVE_FOUND_ALL_THE_PUMPKINS                                         = 11354,  -- You have found all the pumpkins!
+        YOU_HAVE_FOUND_SEVEN_OR_MORE_PUMPKINS                                   = 11355,  -- You have found seven or more pumpkins!
+        YOU_SENSE_THE_PRESENCE_OF_A_PUMPKIN_IN                                  = 11356,  -- You sense the presence of a pumpkin in this area!
+        YOU_HAVE_DISCOVERED_A_PUMPKIN_CUTTING_IT_OPEN                           = 11357,  -- You have discovered a pumpkin! Cutting it open, you find % inside!
+        THIS_PUMPKIN_HAS_ALREADY_BEEN_CLAIMED                                   = 11358,  -- This pumpkin has already been claimed.
+        YOU_HAVE_DISCOVERED_FIVE_OR_MORE_PUMPKINS                               = 11359,  -- You have discovered five or more pumpkins!
     },

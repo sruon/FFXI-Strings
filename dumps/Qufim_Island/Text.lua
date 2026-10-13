@@ -7488,7 +7488,7 @@
         DO_YOU_WANT_TO_HEAR_A_STORY_NO                                        = 7756,  -- Do you want to hear a story? No, thank you. Let's hear one.
         WHAT_STORY_WOULD_YOU_LIKE_TO_BE_TOLD                                  = 7757,  -- What story would you like to be told? On second thought, maybe later. The Talekeeper's Gift. Save My Son. Regaining Trust. Dynamis - The Shrouded Land(pt.1). Dynamis - The Shrouded Land(pt.2). Dynamis Interloper. Gatherer of Light(pt.1). Gatherer of Light(pt.2). Those Who Lurk in Shadows. Sugar-coated Directive. Enemy of the Empire (I). Battle on a New Front. VW Op. #126: Qufim Incursion. The Lion's Roar(pt.1). The Lion's Roar(pt.2). Eddies of Despair(pt.1). Eddies of Despair(pt.2). Not Just a Pretty Face(pt.1). Not Just a Pretty Face(pt.2).
         AN_EMPTY_LIGHT_SWIRLS_ABOUT_THE_CAVE_EATING                           = 7761,  -- An empty light swirls about the cave, eating away at the surroundings...
-        ENTER_THE_VORTEX_YES_NO                                               = 7762,  -- Enter the vortex? Yes. No.
+        ENTER_THE_EMPTINESS_YES_NO                                            = 7762,  -- Enter the Emptiness? Yes. No.
         YOU_FIND_NOTHING_OUT_OF_THE_ORDINARY                                  = 7763,  -- You find nothing out of the ordinary.
         TODAY_IS_YOUR_LUCKY_DAY                                               = 7764,  -- Today is your lucky day!
         YOU_SENSE_THAT_YOUR_LUCKY_COLOR_MAY_BRING                             = 7765,  -- You sense that your lucky color may bring you fortune.
@@ -12122,4 +12122,14 @@
         IT_S_A_WASTE_OF_OUR_PRECIOUS_TIME                                     = 12828,  -- It's a waste of our precious time to just sit here and think about it. Let's go ask Muckvix!
         HEY_YOU_SHOULD_COME_VISIT_MUCKVIX_WITH_US                             = 12829,  -- Hey, you should come visit Muckvix with us too!
         IT_SEEMS_YOU_NEED_TO_VISIT_MUCKVIX_IN                                 = 12830,  -- It seems you need to visit Muckvix in Lower Jeuno.
+        YOU_FOUND_A_PUMPKIN_INSIDE_THE_PUMPKIN_WAS                            = 12831,  -- You found a pumpkin! Inside the pumpkin was %.
+        YOU_FOUND_SOMETHING_HIDDEN_BENEATH_THE_PUMPKIN                        = 12832,  -- You found something hidden beneath the pumpkin.
+        YOU_FOUND_A_NOTE_BENEATH_THE_PUMPKIN_WITH                             = 12833,  -- You found a note beneath the pumpkin with [C/R/O/S/S/O/V/E/R] written on it.
+        YOU_HAVE_FOUND_A_PUMPKIN_WITH_INSIDE                                  = 12834,  -- You have found a pumpkin with % inside!
+        YOU_HAVE_FOUND_ALL_THE_PUMPKINS                                       = 12835,  -- You have found all the pumpkins!
+        YOU_HAVE_FOUND_SEVEN_OR_MORE_PUMPKINS                                 = 12836,  -- You have found seven or more pumpkins!
+        YOU_SENSE_THE_PRESENCE_OF_A_PUMPKIN_IN                                = 12837,  -- You sense the presence of a pumpkin in this area!
+        YOU_HAVE_DISCOVERED_A_PUMPKIN_CUTTING_IT_OPEN                         = 12838,  -- You have discovered a pumpkin! Cutting it open, you find % inside!
+        THIS_PUMPKIN_HAS_ALREADY_BEEN_CLAIMED                                 = 12839,  -- This pumpkin has already been claimed.
+        YOU_HAVE_DISCOVERED_FIVE_OR_MORE_PUMPKINS                             = 12840,  -- You have discovered five or more pumpkins!
     },

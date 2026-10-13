@@ -9653,7 +9653,7 @@
         WHICH_OBJECTIVE_WOULD_YOU_LIKE_TO_UNDERTAKE_NONE                      = 9745,  -- Which objective would you like to undertake? None for now. %. %. %. %. %. %. %. %.
         NO_ONE_IN_YOUR_PARTY_HAS_SET_THE                                      = 9746,  -- No one in your party has set the appropriate Records of Eminence objective.
         WILL_BE_ACTIVE_THE_NEXT_TIME_YOU_JOIN                                 = 9747,  -- % will be active the next time you join this battle.
-        DO_NOT_INTEREFERE                                                     = 9748,  -- Do not...interefere...
+        DO_NOT_INTERFERE                                                      = 9748,  -- Do not...interfere...
         FALAK_S_SEAL                                                          = 9749,  -- Falak's...seal...
         OPEN_THE_GATES                                                        = 9750,  -- Open...the gates...!
         ONE_OR_MORE_OF_YOUR_PARTY_MEMBERS_DO                                  = 9751,  -- One or more of your party members do not meet the prerequisites for this battle.
@@ -9666,14 +9666,14 @@
         COMRADE                                                               = 9758,  -- Comrade.
         YOU_DIED_AN_HONORABLE_DEATH_AND_WERE_TO                               = 9759,  -- You died an honorable death, and were to have known peace at last.
         YET_WHAT_HAS_AWOKEN_YOU_FROM_YOUR_SLUMBER                             = 9760,  -- Yet what has awoken you from your slumber?
-        HOW_DO_YOU_RESPOND_I_DON_T_KNOW                                       = 9761,  -- How do you respond? I don't know. Please tell me. Thep ower of the blue.
+        HOW_DO_YOU_RESPOND_I_DON_T_KNOW                                       = 9761,  -- How do you respond? I don't know. Please tell me. The power of the blue.
         THE_POWER_OF_THE_BLUE                                                 = 9762,  -- The power of the blue...?
         COULD_IT_BE_THE_POWER_OF_THE_BLUE                                     = 9763,  -- Could it be the power of the blue?
         AND_IT_HAD_INVADED_MY_DEAR_COMRADE                                    = 9764,  -- And it had invaded my dear comrade?
         EVEN_IF_THAT_WERE_TRUE_WHAT_WOULD_BE                                  = 9765,  -- Even if that were true...what would be the purpose?
         THE_POWER_OF_THE_BLUE_2                                               = 9766,  -- The power of the blue...?
-        PERHPAS_FURTHER_RESEARCH_COULD_SHED_SOME_INSIGHT_INTO                 = 9767,  -- Perhpas further research could shed some insight into this.
-        COULD_THIS_BE_THE_FATE_OF_THOSE_WHO                                   = 9768,  -- Could this be the fate of those who aim to overcome death itself?c
+        PERHAPS_FURTHER_RESEARCH_COULD_SHED_SOME_INSIGHT_INTO                 = 9767,  -- Perhaps further research could shed some insight into this.
+        COULD_THIS_BE_THE_FATE_OF_THOSE_WHO                                   = 9768,  -- Could this be the fate of those who aim to overcome death itself...?
         HMPH_WE_PAID_ALL_OF_THAT_CLINK_CLINK                                  = 9769,  -- Hmph... We paid all of that clink clink to the Qiqirn and I still have no idea what to look for or how to find it.
         HEY_I_M_GLAD_YOU_MADE_IT                                              = 9770,  -- Hey, %! I'm glad you made it!
         I_VE_BEEN_SEARCHING_FOR_THE_AEROPEARL_BUT                             = 9771,  -- I've been searching for the aeropearl, but for whatever reason, it looks like we've got to answer some kind of riddle first.

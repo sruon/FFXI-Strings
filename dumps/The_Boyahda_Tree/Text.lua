@@ -11142,4 +11142,14 @@
         HOW_DO_YOU_RESPOND_HOW_S_MAGH_BIHU                                    = 11650,  -- How do you respond? How's Magh Bihu? ...
         PIPPIPIPI                                                             = 11651,  -- Pippipipi.
         ID_11652                                                              = 11652,  -- @@
+        YOU_FOUND_A_PUMPKIN_INSIDE_THE_PUMPKIN_WAS                            = 11653,  -- You found a pumpkin! Inside the pumpkin was %.
+        YOU_FOUND_SOMETHING_HIDDEN_BENEATH_THE_PUMPKIN                        = 11654,  -- You found something hidden beneath the pumpkin.
+        YOU_FOUND_A_NOTE_BENEATH_THE_PUMPKIN_WITH                             = 11655,  -- You found a note beneath the pumpkin with [C/R/O/S/S/O/V/E/R] written on it.
+        YOU_HAVE_FOUND_A_PUMPKIN_WITH_INSIDE                                  = 11656,  -- You have found a pumpkin with % inside!
+        YOU_HAVE_FOUND_ALL_THE_PUMPKINS                                       = 11657,  -- You have found all the pumpkins!
+        YOU_HAVE_FOUND_SEVEN_OR_MORE_PUMPKINS                                 = 11658,  -- You have found seven or more pumpkins!
+        YOU_SENSE_THE_PRESENCE_OF_A_PUMPKIN_IN                                = 11659,  -- You sense the presence of a pumpkin in this area!
+        YOU_HAVE_DISCOVERED_A_PUMPKIN_CUTTING_IT_OPEN                         = 11660,  -- You have discovered a pumpkin! Cutting it open, you find % inside!
+        THIS_PUMPKIN_HAS_ALREADY_BEEN_CLAIMED                                 = 11661,  -- This pumpkin has already been claimed.
+        YOU_HAVE_DISCOVERED_FIVE_OR_MORE_PUMPKINS                             = 11662,  -- You have discovered five or more pumpkins!
     },

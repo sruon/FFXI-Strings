@@ -12166,7 +12166,7 @@
         AHEM_NOW_LET_ME_INTRODUCE_MYSELF                                        = 12951,  -- Ahem, now let me introduce myself...
         AH_YOU_ARE_BACK_HOW_WAS_YOUR_BATTLE                                     = 12952,  -- Ah, you are back. How was your battle with the avatar?
         REMEMBER_THE_PROTOCRYSTALS_WILL_ONLY_RESONATE_WITH_THE                  = 12953,  -- Remember, the protocrystals will only resonate with the tuning forks ever so often. Use this time to rest before taking upon another challenge.
-        WOULD_YOU_BE_INTERESTED_IN_PURCHASING_SOME_ADVENTURER                   = 12954,  -- Would you be interested in purchasing some adventurer-issue armor? Be careful when selecting, as we accept no refunds.
+        WOULD_YOU_BE_INTERESTED_IN_SOME_ADVENTURER_ISSUE                        = 12954,  -- Would you be interested in some adventurer-issue armor? Be careful when selecting, as we accept no refunds.
         CURRENTLY_THE_CATHEDRAL_IS_CONDUCTING_PREPARATIONS_FOR_THE              = 12955,  -- Currently, the cathedral is conducting preparations for the Rites of Succession. If it were not for the outbreak at the coming-of-age ceremony, the services of the Temple Knights would not have been necessary...
         THE_RESPONSIBILITY_OF_CONDUCTING_SUCH_AN_IMPORTANT_EVENT                = 12956,  -- The responsibility of conducting such an important event has taken its toll on all of us here. Even His Holiness has been on edge as of late.
         I_M_SORRY_LORD_LADY_BUT_DUE_TO                                          = 12957,  -- I'm sorry Lord/Lady] %, but due to matters of security, I am not to allow anyone into the chateau until the Rites of Succession have taken place.
@@ -12342,7 +12342,7 @@
         I_SEE_THAT_IS_QUITE_DISAPPOINTING                                       = 13127,  -- I see... That is quite disappointing...
         AH_I_HEARD_FROM_MY_MEN_THAT_YOU                                         = 13128,  -- Ah, I heard from my men that you have been successful in escorting the missus. I applaud you on your composure throughout the task.
         SIGH_I_HAVE_THE_FEELING_THIS_MAY_NOT                                    = 13129,  -- <Sigh> I have the feeling this may not be the last time the missus goes galavanting about the necropolis. When that time comes, again we may require your assistance.
-        FORGET_NOT_THE_LABORS_OF_THE_COMMON_FOLK                                = 13130,  -- Forget not the labors of the common folk, as they ever support this mighty kingdom.
+        I_FIND_THERE_IS_NO_END_TO_THE                                           = 13130,  -- I find there is no end to the limits of our anxieties...
         IT_S_TIME_FOR_THE_EGG_HUNT_EGG                                          = 13131,  -- It's time for the Egg Hunt Egg-stravaganza, kupo! Here, take this initial egg. Collect and trade eggs until you have made a First 3 combination. When you're done, bring the combo back to me for an egg-squisite prize, kupo!
         THIS_YEAR_THOSE_WHO_MAKE_SPECIAL_UNDECENNIAL_COMBINATIONS               = 13132,  -- This year, those who make special undecennial combinations will receive particularly egg-ceptional prizes, kupo!
         OF_COURSE_WE_WOULDN_T_WANT_YOU_COUNTING                                 = 13133,  -- Of course, we wouldn't want you counting your chocobos before they hatch. Please egg-xert the effort to make a First 3 combination before going all out on these spegg-tacular new ones, kupo.
@@ -12584,7 +12584,7 @@
         HE_WOULD_BE_THE_GRANDSON_OF_FRANCMAGE_M                                 = 13369,  -- He would be the grandson of Francmage M Mistalle, the Royal Knight you were investigating earlier.
         THAT_SIR_LOUVERANCE_HAD_RETIRED_FROM_THE_ROYAL                          = 13370,  -- That Sir Louverance had retired from the Royal Knights is common knowledge; however, I have heard nothing of his enlistment in the order of Temple Knights.
         IF_WE_HIGH_PRIESTS_WERE_NOT_INFORMED_OF                                 = 13371,  -- If we high priests were not informed of his return to military service, he must be entrusted with a mission of the highest importance indeed.
-        IT_WOULD_SEEM_TO_ME_THAT_IF_SIR                                         = 13372,  -- It would seem to me that if Sir Louverance is traveling by airship, then the wisest place to search for him would be the port. Do you not agree?
+        IT_WOULD_SEEM_TO_ME_THAT_IF_HE                                          = 13372,  -- It would seem to me that if he is traveling by airship, then the wisest place to search for him would be the port. Do you not agree?
         I_WAS_NOT_AWARE_THAT_SIR_LOUVERANCE_WAS                                 = 13373,  -- I was not aware that Sir Louverance was acting as an envoy for the cathedral.
         HOWEVER_IF_HE_IS_TRAVELING_BY_AIRSHIP_PERHAPS                           = 13374,  -- However, if he is traveling by airship, perhaps you should await his return to San d'Oria at the port.
         AH_MY_CURIOSITY_WAS_SUFFICIENTLY_PIQUED_TO_DO                           = 13375,  -- Ah, %. My curiosity was sufficiently piqued to do some investigating of my own into the Knights Mistalle...
@@ -18611,4 +18611,14 @@
         START_WHICH_NONE_FOR_NOW_RISE_OF_THE                                    = 19408,  -- Start which? None for now. Rise of the Zilart. A Crystallinbe Prophecy. A Shantotto Ascension. Chains of Promathia. Abyssea. Seekers of Adoulin. Rhapsodies of Vana'diel.
         START_THE_PREVIOUSLY_POSTPONED_STORYLINE                                = 19409,  -- Start the previously postponed storyline [Rise of the Zilart/A Crystalline Prophecy/A Shantotto Ascenaion/Chains of Promathia/Abyssea/Seekers of Adoulin/Rhapsodies of Vana'diel]?
         START_THE_STORYLINE_YES_PLEASE_NO_THANK_YOU                             = 19410,  -- Start the storyline? Yes, please. No, thank you.
+        YOU_FOUND_A_PUMPKIN_INSIDE_THE_PUMPKIN_WAS                              = 19411,  -- You found a pumpkin! Inside the pumpkin was %.
+        YOU_FOUND_SOMETHING_HIDDEN_BENEATH_THE_PUMPKIN                          = 19412,  -- You found something hidden beneath the pumpkin.
+        YOU_FOUND_A_NOTE_BENEATH_THE_PUMPKIN_WITH                               = 19413,  -- You found a note beneath the pumpkin with [C/R/O/S/S/O/V/E/R] written on it.
+        YOU_HAVE_FOUND_A_PUMPKIN_WITH_INSIDE                                    = 19414,  -- You have found a pumpkin with % inside!
+        YOU_HAVE_FOUND_ALL_THE_PUMPKINS                                         = 19415,  -- You have found all the pumpkins!
+        YOU_HAVE_FOUND_SEVEN_OR_MORE_PUMPKINS                                   = 19416,  -- You have found seven or more pumpkins!
+        YOU_SENSE_THE_PRESENCE_OF_A_PUMPKIN_IN                                  = 19417,  -- You sense the presence of a pumpkin in this area!
+        YOU_HAVE_DISCOVERED_A_PUMPKIN_CUTTING_IT_OPEN                           = 19418,  -- You have discovered a pumpkin! Cutting it open, you find % inside!
+        THIS_PUMPKIN_HAS_ALREADY_BEEN_CLAIMED                                   = 19419,  -- This pumpkin has already been claimed.
+        YOU_HAVE_DISCOVERED_FIVE_OR_MORE_PUMPKINS                               = 19420,  -- You have discovered five or more pumpkins!
     },
